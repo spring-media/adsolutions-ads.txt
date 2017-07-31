@@ -1,0 +1,3 @@
+appnexus.com, 7823, DIRECT
+appnexus.com, 7823, RESELLER
+google.com, pub-5786819153313314, 
