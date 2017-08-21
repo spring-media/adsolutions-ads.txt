@@ -40,4 +40,4 @@ A buyer receiving a bid request claiming to be example.com can verify if the exc
 Save the file with the name ads.txt, and upload it to the root folder of your domain, such as example.com/ads.txt
 
 # Please implement the following ads.txt
-´https://github.com/CDPAdSolution/ads.txt/blob/master/ads.txt´
+https://github.com/CDPAdSolution/ads.txt/blob/master/ads.txt
