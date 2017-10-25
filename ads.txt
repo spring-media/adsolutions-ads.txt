@@ -7,4 +7,4 @@ yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
 freewheel.tv,187377,DIRECT
 freewheel.tv,212025,RESELLER
-amazon-adsystem.com,3135,DIRECT
+//amazon-adsystem.com,3135,DIRECT
