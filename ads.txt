@@ -7,4 +7,11 @@ yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
 freewheel.tv,187377,DIRECT
 freewheel.tv,212025,RESELLER
-//amazon-adsystem.com,3135,DIRECT
+amazon-adsystem.com,3135,DIRECT
+vidazoo.com, 6481700530, DIRECT
+vidazoo.com, 2114812987, RESELLER
+smartstream.tv,4135,RESELLER
+smartstream.tv,4137,RESELLER
+smartstream.tv,4133,RESELLER
+smartstream.tv,4747,RESELLER
+smartstream.tv,4371,RESELLER
