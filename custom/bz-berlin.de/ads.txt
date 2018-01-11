@@ -1,14 +1,13 @@
 advertising.com,8945,RESELLER
 advertising.com,8839,RESELLER
-amazon-adsystem.com,3135,DIRECT
+Aps.amazon.com, 3135, DIRECT #display
+Aps.amazon.com, 3135, DIRECT #video
 anyclip-media.com,5666a6fd2a61260002000001,RESELLER
 appnexus.com,2720,RESELLER
-appnexus.com,7823,DIRECT
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 beachfront.com,beachfront_1290,RESELLER
 beachfront.com,beachfront_6697,RESELLER
 cdn.stickyadstv.com,225921,RESELLER
-freewheel.tv,187377,DIRECT
-freewheel.tv,212025,RESELLER
 freewheel.tv,287890,RESELLER
 freewheel.tv,288018,RESELLER
 fyber.com,5a946c791dc75e859c62e389550919a9,RESELLER
@@ -17,7 +16,7 @@ fyber.com,8c72b775ece1187612d649451e811de2,RESELLER
 fyber.com,e54da6881e149ed4b7409872e1716bda,RESELLER
 google.com,pub-1075083039775659,DIRECT
 google.com,pub-4983172728561290,RESELLER,f08c47fec0942fa0
-google.com,pub-5786819153313314,DIRECT
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
 google.com,pub-7443704194229694,RESELLER
 indexexchange.com,179394,RESELLER
 lkqd.com,70,RESELLER,59c49fa9598a0117
@@ -31,7 +30,6 @@ pubmatic.com,156439,RESELLER
 rubiconproject.com,16114,RESELLER
 smartadserver.com,1595,RESELLER
 smartadserver.com,2161,RESELLER
-smartadserver.com,251,DIRECT
 smartadserver.com,2939,RESELLER
 spotx.tv,113481,RESELLER,7842df1d2fe2db34
 spotxchange.com,100685,RESELLER
@@ -49,21 +47,3 @@ smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
-advertising.com, 8839, RESELLER
-beachfront.com, beachfront_6697,RESELLER
-freewheel.tv, 214890,RESELLER
-freewheel.tv, 214898, RESELLER
-freewheel.tv, 214794, RESELLER
-freewheel.tv, 214818,RESELLER
-fyber.com,5a946c791dc75e859c62e389550919a9,RESELLER
-pubmatic.com,143828,RESELLER
-smartadserver.com,1595,RESELLER
-smartadserver.com,2939,RESELLER
-spotx.tv,100685,RESELLER,7842df1d2fe2db34
-spotxchange.com,100685,RESELLER,7842df1d2fe2db34
-spotxchange.com,113481,RESELLER,7842df1d2fe2db34
-spotx.tv,113481,RESELLER,7842df1d2fe2db34
-openx.com,537148817,RESELLER,6a698e2ec38604c6
-pubmatic.com,100531,RESELLER
-appnexus.com,3741,RESELLER
-fyber.com,8c72b775ece1187612d649451e811de2,RESELLER
