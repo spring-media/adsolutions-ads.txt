@@ -11,3 +11,10 @@ smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
+openx.com,539779299,DIRECT,6a698e2ec38604c6
+yieldlab.net,23667,RESELLER
+Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
+smartadserver.com,251,DIRECT
+google.com,pub-2986352166003060,DIRECT,f08c47fec0942fa0
+google.com,pub-6017468581762536,DIRECT,f08c47fec0942fa0
+google.com,pub-8091481208694875,DIRECT,f08c47fec0942fa0

@@ -1,8 +1,8 @@
-#Ads.txt Media Impact
+#Ads.txt Media Impact 
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
-google.com,pub-4347119884249993,DIRECT
+google.com,pub-4652277944828936,DIRECT
 teads.tv,5632,RESELLER,15a9c44f6d26cbe1
 teads.tv,8674,RESELLER,15a9c44f6d26cbe1
 yieldlab.net,453131,DIRECT
@@ -18,3 +18,12 @@ openx.com,539779299,DIRECT,6a698e2ec38604c6
 yieldlab.net,23667,RESELLER
 Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
 smartadserver.com,251,DIRECT
+ligadx.com,18933,DIRECT
+ligadx.com,62551e7f9c7fb619,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+
+
+appnexus.com,2154,RESELLER
+indexexchange.com,184543,RESELLER
+contextweb.com,561689,RESELLER,89ff185a4c4e857c

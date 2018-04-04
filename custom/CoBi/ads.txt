@@ -9,12 +9,19 @@ yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
 Aps.amazon.com, 3135, DIRECT #display
 Aps.amazon.com, 3135, DIRECT #video
-ligadx.com,752,DIRECT
-ligadx.com,4be7d1593ec75f18,DIRECT
-spotxchange.com,206177,RESELLER,7842df1d2fe2db34
-spotx.tv,206177,RESELLER,7842df1d2fe2db34
 smartstream.tv,4135,RESELLER
 smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
+openx.com,539779299,DIRECT,6a698e2ec38604c6
+yieldlab.net,23667,RESELLER
+loopme.com,6238,DIRECT,6c8d5f95897a5a3b
+smartadserver.com,251,DIRECT
+appnexus.com, 2154, RESELLER
+ligadx.com,752,DIRECT
+ligadx.com,4be7d1593ec75f18,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+indexexchange.com, 184543, RESELLER
+contextweb.com, 561689, RESELLER, 89ff185a4c4e857c

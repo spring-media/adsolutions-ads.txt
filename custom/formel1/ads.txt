@@ -4,18 +4,28 @@ teads.tv,5632,RESELLER,15a9c44f6d26cbe1
 teads.tv,8674,RESELLER,15a9c44f6d26cbe1
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
-Aps.amazon.com, 3135, DIRECT #display
-Aps.amazon.com, 3135, DIRECT #video
+Aps.amazon.com,3135,DIRECT #display
+Aps.amazon.com,3135,DIRECT #video
 smartstream.tv,4135,RESELLER
 smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
+openx.com,539779299,DIRECT,6a698e2ec38604c6
+yieldlab.net,23667,RESELLER
+Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
+smartadserver.com,251,DIRECT
 
-
-appnexus.com, 2154, RESELLER
-indexexchange.com, 184543, RESELLER
+appnexus.com,2154,RESELLER
+indexexchange.com,184543,RESELLER
 freewheel.tv,200945,RESELLER
 freewheel.tv,200313,RESELLER
-
-google.com, pub-0204101623926974, DIRECT, f08c47fec0942fa0
+google.com,pub-0204101623926974,DIRECT,f08c47fec0942fa0
+yieldlab.net,2510891,RESELLER
+outbrain.com,0120dfbbb1d2dba1749382cd714a4ce692,DIRECT
+outbrain.com,0120dfbbb1d2dba1749382cd714a4ce692,RESELLER
+appnexus.com,7597,RESELLER,f5ab79cb980f11d1
+tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a # Outbrain outstream video
+advertising.com,12624,RESELLER # Outbrain outstream video
+fyber.com,f2a848067b5fe77e73205e8024940cbf,RESELLER # Outbrain outstream video
+freewheel.tv,484721,RESELLER # Outbrain outstream video
