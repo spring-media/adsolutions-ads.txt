@@ -17,3 +17,5 @@ openx.com,539948074,DIRECT,6a698e2ec38604c6
 yieldlab.net,23667,RESELLER
 Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
 smartadserver.com,251,DIRECT
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+appnexus.com, 7445, RESELLER

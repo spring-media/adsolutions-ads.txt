@@ -6,8 +6,8 @@ teads.tv,5632,RESELLER,15a9c44f6d26cbe1
 teads.tv,8674,RESELLER,15a9c44f6d26cbe1
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
-Aps.amazon.com,3135,DIRECT #display
-Aps.amazon.com,3135,DIRECT #video
+Aps.amazon.com, 3135, DIRECT #display
+Aps.amazon.com, 3135, DIRECT #video
 smartstream.tv,4135,RESELLER
 smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
@@ -17,5 +17,7 @@ openx.com,539948074,DIRECT,6a698e2ec38604c6
 yieldlab.net,23667,RESELLER
 Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
 smartadserver.com,251,DIRECT
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+appnexus.com, 7445, RESELLER
 
 google.com,pub-7015354121783489,DIRECT,f08c47fec0942fa0

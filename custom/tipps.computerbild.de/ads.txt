@@ -18,12 +18,14 @@ openx.com,539948074,DIRECT,6a698e2ec38604c6
 yieldlab.net,23667,RESELLER
 Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
 smartadserver.com,251,DIRECT
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+appnexus.com, 7445, RESELLER
+
 ligadx.com,18933,DIRECT
 ligadx.com,62551e7f9c7fb619,DIRECT
 spotxchange.com,206177,RESELLER,7842df1d2fe2db34
 spotx.tv,206177,RESELLER,7842df1d2fe2db34
-
-
 appnexus.com,2154,RESELLER
 indexexchange.com,184543,RESELLER
 contextweb.com,561689,RESELLER,89ff185a4c4e857c
+google.com,pub-4652277944828936,DIRECT
