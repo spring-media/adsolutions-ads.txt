@@ -1,0 +1,39 @@
+#Ads.txt Media Impact
+
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1			>> AppNexus
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0		>> Google
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1				>> Teads Video
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1				>> Teads Video
+yieldlab.net,453131,DIRECT					>> HB YL
+yieldlab.net,227224,RESELLER					>> HB YL
+Aps.amazon.com, 3135, DIRECT #display				>> HB Amazon
+Aps.amazon.com, 3135, DIRECT #video				>> HB AMazon
+openx.com,539948074,DIRECT,6a698e2ec38604c6			>> EBDA OpenX
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6 			>> Prebid OpenX
+Loopme.com,6238,DIRECT,6c8d5f95897a5a3b				>> LoopME IO
+smartadserver.com,251,DIRECT					>> Prebid SmartRTB
+appnexus.com, 7445, RESELLER					>> GroupM
+pubmatic.com,156678,DIRECT					>> PreBid Pubmatic 
+pubmatic.com,157222,DIRECT					>> EBDA Pubmatic
+
+yieldlab.net, 2172218, RESELLER					>> Smartstream Yieldlab
+smartstream.tv,4135,RESELLER					>> Smartstream bild.de	
+smartstream.tv,4137,RESELLER					>> Smartstream cobi
+smartstream.tv,4133,RESELLER					>> Smartstream aubi
+smartstream.tv,4747,RESELLER					>> Smartstream welt
+smartstream.tv,4371,RESELLER					>> Smartstream bild mobil
+
+smartclip.net, 8225, DIRECT					>> IP Deutschland
+spotx.tv, 106817, DIRECT					>> IP Deutschland
+spotx.tv, 152009, DIRECT					>> IP Austria
+spotx.tv, 149950, RESELLER, 7842df1d2fe2db34			>> IP - smartclip
+spotx.tv, 207262, RESELLER					>> IP - smartclip
+smartclip.net, 894, DIRECT					>> IP - smartclip
+spotx.tv, 136947, RESELLER					>> IP - Delta Advertising
+google.com, pub-3057818873023700, RESELLER			>> IP - Goldbach CH
+appnexus.com, 3528, RESELLER					>> IP - Goldbach CH Xaxis
+appnexus.com, 1851, RESELLER					>> IP - Goldbach CH Xaxis
+appnexus.com, 3741, RESELLER					>> IP - Goldbach AppNexus
+appnexus.com, 9242, RESELLER					>> IP - Goldbach AppNexus
+appnexus.com, 7445, RESELLER					>> IP Deutschand - Xaxis 
+aps.amazon.com, 3137, RESELLER					>> IP - NETLETIX Amazon Werbenetzwerk Instream
