@@ -1,22 +1,22 @@
 #Ads.txt Media Impact
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1			>> AppNexus
-google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0		>> Google
-teads.tv,5632,RESELLER,15a9c44f6d26cbe1				>> Teads Video
-teads.tv,8674,RESELLER,15a9c44f6d26cbe1				>> Teads Video
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0	>> Google
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1			>> Teads Video
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1			>> Teads Video
 yieldlab.net,453131,DIRECT					>> HB YL
 yieldlab.net,227224,RESELLER					>> HB YL
 Aps.amazon.com, 3135, DIRECT #display				>> HB Amazon
 Aps.amazon.com, 3135, DIRECT #video				>> HB AMazon
 openx.com,539948074,DIRECT,6a698e2ec38604c6			>> EBDA OpenX
-openx.com, 540038340, DIRECT, 6a698e2ec38604c6 			>> Prebid OpenX
-Loopme.com,6238,DIRECT,6c8d5f95897a5a3b				>> LoopME IO
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6 		>> Prebid OpenX
+Loopme.com,6238,DIRECT,6c8d5f95897a5a3b			>> LoopME IO
 smartadserver.com,251,DIRECT					>> Prebid SmartRTB
 appnexus.com, 7445, RESELLER					>> GroupM
 pubmatic.com,156678,DIRECT					>> PreBid Pubmatic 
 pubmatic.com,157222,DIRECT					>> EBDA Pubmatic
 
-yieldlab.net, 2172218, RESELLER					>> Smartstream Yieldlab
+yieldlab.net, 2172218, RESELLER				>> Smartstream Yieldlab
 smartstream.tv,4135,RESELLER					>> Smartstream bild.de	
 smartstream.tv,4137,RESELLER					>> Smartstream cobi
 smartstream.tv,4133,RESELLER					>> Smartstream aubi
