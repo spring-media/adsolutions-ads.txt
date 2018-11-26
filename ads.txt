@@ -15,6 +15,8 @@ smartadserver.com,251,DIRECT
 appnexus.com, 7445, RESELLER
 pubmatic.com,157222, DIRECT
 pubmatic.com, 156678, DIRECT
+indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
 
 yieldlab.net, 2172218, RESELLER
 smartstream.tv,4135,RESELLER
