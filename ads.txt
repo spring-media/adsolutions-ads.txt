@@ -17,8 +17,8 @@ pubmatic.com,157222, DIRECT
 pubmatic.com, 156678, DIRECT
 indexexchange.com, 188480, DIRECT
 indexexchange.com, 188479, DIRECT
-rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807 
-rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807   
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
 
 yieldlab.net, 2172218, RESELLER
 smartstream.tv,4135,RESELLER
