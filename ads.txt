@@ -10,9 +10,7 @@ Aps.amazon.com, 3135, DIRECT #display
 Aps.amazon.com, 3135, DIRECT #video
 openx.com,539948074,DIRECT,6a698e2ec38604c6
 openx.com, 540038340, DIRECT, 6a698e2ec38604c6
-Loopme.com,6238,DIRECT,6c8d5f95897a5a3b
 smartadserver.com,251,DIRECT
-appnexus.com, 7445, RESELLER
 pubmatic.com,157222, DIRECT
 pubmatic.com, 156678, DIRECT
 indexexchange.com, 188480, DIRECT
