@@ -1,0 +1,10 @@
+#Ads.txt Media Impact
+
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
+Aps.amazon.com, 3135, DIRECT #display
+Aps.amazon.com, 3135, DIRECT #video
+openx.com,539948074,DIRECT,6a698e2ec38604c6
+pubmatic.com,157222,DIRECT
+indexexchange.com, 188480, DIRECT
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
