@@ -53,5 +53,4 @@ To better understand how the location of the app-ads.txt is determined, let’s 
 Implementation example :- https://www.nytimes.com/app-ads.txt  , https://timesofindia.indiatimes.com/app-ads.txt
 
 
-
-
+todo
