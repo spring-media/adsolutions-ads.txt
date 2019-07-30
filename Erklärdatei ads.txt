@@ -37,4 +37,3 @@ appnexus.com, 3741, RESELLER					>> IP - Goldbach AppNexus
 appnexus.com, 9242, RESELLER					>> IP - Goldbach AppNexus
 appnexus.com, 7445, RESELLER					>> IP Deutschand - Xaxis 
 aps.amazon.com, 3137, RESELLER					>> IP - NETLETIX Amazon Werbenetzwerk Instream
-
