@@ -52,5 +52,5 @@ To better understand how the location of the app-ads.txt is determined, let’s 
 3.	Publish the app-ads.txt file in the root folder of the app developer’s developer website; for example, www.myappsite.com/app-ads.txt. This is very similar to how we implemented it for ads.txt for web.
 Implementation example :- https://www.nytimes.com/app-ads.txt  , https://timesofindia.indiatimes.com/app-ads.txt
 
-
+todo
 
