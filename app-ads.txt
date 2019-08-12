@@ -8,3 +8,4 @@ openx.com,539948074,DIRECT,6a698e2ec38604c6
 pubmatic.com,157222,DIRECT
 indexexchange.com, 188480, DIRECT
 rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
