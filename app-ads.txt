@@ -1,4 +1,4 @@
-#app-ads.txt Media Impact
+#app-ads.txt  Media Impact
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
