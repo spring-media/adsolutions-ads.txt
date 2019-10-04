@@ -25,17 +25,5 @@ smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
 
-smartclip.net, 8225, RESELLER
-spotx.tv, 106817, RESELLER
-spotx.tv, 152009, RESELLER
-spotx.tv, 149950, RESELLER, 7842df1d2fe2db34
-spotx.tv, 207262, RESELLER
-smartclip.net, 894, RESELLER
-spotx.tv, 136947, RESELLER
-google.com, pub-3057818873023700, RESELLER
-appnexus.com, 3528, RESELLER
-appnexus.com, 1851, RESELLER
-appnexus.com, 3741, RESELLER
-appnexus.com, 9242, RESELLER
-appnexus.com, 7445, RESELLER
-aps.amazon.com, 3137, RESELLER
+smartclip.net, 8225, DIRECT #IPD
+spotx.tv, 106817, DIRECT, #IPD
