@@ -21,6 +21,7 @@ rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
 triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 5791, DIRECT, 6c33edb13117fd86
 districtm.io, 101940, DIRECT, 3fd707be9c4527c3
+smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 
 
 yieldlab.net, 2172218, RESELLER
