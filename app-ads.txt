@@ -2,13 +2,29 @@
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1
+yieldlab.net,453131,DIRECT
+yieldlab.net,227224,RESELLER
 Aps.amazon.com, 3135, DIRECT #display
 Aps.amazon.com, 3135, DIRECT #video
+openx.com,539948074,DIRECT,6a698e2ec38604c6
 openx.com, 540038340, DIRECT, 6a698e2ec38604c6
-pubmatic.com,157222,DIRECT
+smartadserver.com,251,DIRECT
+smartadserver.com,3571,DIRECT
+pubmatic.com,157222, DIRECT
+pubmatic.com, 156678, DIRECT
 indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
 rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+districtm.io, 101940, DIRECT, 3fd707be9c4527c3
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
+
+smartclip.net, 8225, DIRECT #IPD
+spotx.tv, 106817, DIRECT, #IPD
 
 google.com, pub-4397644604601927, RESELLER, f08c47fec0942fa0
 inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
