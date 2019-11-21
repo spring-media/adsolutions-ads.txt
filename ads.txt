@@ -11,12 +11,17 @@ Aps.amazon.com, 3135, DIRECT #video
 openx.com,539948074,DIRECT,6a698e2ec38604c6
 openx.com, 540038340, DIRECT, 6a698e2ec38604c6
 smartadserver.com,251,DIRECT
+smartadserver.com,3571,DIRECT
 pubmatic.com,157222, DIRECT
 pubmatic.com, 156678, DIRECT
 indexexchange.com, 188480, DIRECT
 indexexchange.com, 188479, DIRECT
 rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+districtm.io, 101940, DIRECT, 3fd707be9c4527c3
+
 
 yieldlab.net, 2172218, RESELLER
 smartstream.tv,4135,RESELLER
@@ -28,6 +33,5 @@ smartstream.tv,4371,RESELLER
 smartclip.net, 8225, DIRECT #IPD
 spotx.tv, 106817, DIRECT, #IPD
 
-triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
-triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+
 
