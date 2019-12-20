@@ -23,6 +23,11 @@ triplelift.com, 5791, DIRECT, 6c33edb13117fd86
 districtm.io, 101940, DIRECT, 3fd707be9c4527c3
 smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
 
+smartclip.net, 8225, DIRECT #IPD
+smartclip.net, 11333, RESELLER #smartclip IPA
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
 
 yieldlab.net, 2172218, RESELLER
 smartstream.tv,4135,RESELLER
@@ -30,9 +35,3 @@ smartstream.tv,4137,RESELLER
 smartstream.tv,4133,RESELLER
 smartstream.tv,4747,RESELLER
 smartstream.tv,4371,RESELLER
-
-smartclip.net, 8225, DIRECT #IPD
-spotx.tv, 106817, DIRECT, #IPD
-
-
-
