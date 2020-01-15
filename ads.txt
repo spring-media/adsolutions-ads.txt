@@ -28,3 +28,10 @@ smartclip.net, 11333, RESELLER #smartclip IPA
 google.com, pub-3057818873023700, RESELLER #Goldbach CH
 appnexus.com, 3741, RESELLER # Goldbach Appnexus
 appnexus.com, 9242, RESELLER # Goldbach Appnexus
+
+yieldlab.net, 2172218, RESELLER
+smartstream.tv,4135,RESELLER
+smartstream.tv,4137,RESELLER
+smartstream.tv,4133,RESELLER
+smartstream.tv,4747,RESELLER
+smartstream.tv,4371,RESELLER
