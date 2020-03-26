@@ -28,6 +28,8 @@ smartclip.net, 11333, RESELLER #smartclip IPA
 google.com, pub-3057818873023700, RESELLER #Goldbach CH
 appnexus.com, 3741, RESELLER # Goldbach Appnexus
 appnexus.com, 9242, RESELLER # Goldbach Appnexus
+spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 google.com, pub-4397644604601927, RESELLER, f08c47fec0942fa0
 inmobi.com, 952e02aa1cd2454c940889663df0a902, RESELLER, 83e75a7ae333ca9d
