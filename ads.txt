@@ -30,3 +30,29 @@ appnexus.com, 3741, RESELLER # Goldbach Appnexus
 appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+
+spotxchange.com, 82810, RESELLER, 7842df1d2fe2db34
+spotx.tv, 82810, RESELLER, 7842df1d2fe2db34
+advertising.com, 7060, RESELLER, e1a5b5b6e3255540
+adtech.com, 7060, RESELLER, e1a5b5b6e3255540
+freewheel.tv, 144617, RESELLER
+freewheel.tv, 144633, RESELLER
+pubmatic.com, 157288, RESELLER, 5d62403b186f2ace
+tremorhub.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+telaria.com, cguke-k8ex0, RESELLER, 1a4e959a1b50034a
+pubmatic.com, 157512, RESELLER, 5d62403b186f2ace
+districtm.io, 101673, RESELLER, 3fd707be9c4527c3
+appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
+advertising.com, 28230, RESELLER, e1a5b5b6e3255540
+google.com, pub-2930805104418204, RESELLER, f08c47fec0942fa0
+rhythmone.com, 2288795184, RESELLER, a670c89d4a324e47
+rubiconproject.com, 20598, RESELLER, 0bfd66d529a55807
+openx.com, 540786724, RESELLER, 6a698e2ec38604c6
+freewheel.tv, 1025009, RESELLER
+admanmedia.com, 68, RESELLER
+appnexus.com, 8804, RESELLER, f5ab79cb980f11d1
+appnexus.com, 11659, RESELLER, f5ab79cb980f11d1
+openx.com, 540999880, RESELLER, 6a698e2ec38604c6
+indexexchange.com, 191812, RESELLER
+appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
+selectmedia.asia, 5f22ccbb9925567d33585ff4, DIRECT # banner, video
