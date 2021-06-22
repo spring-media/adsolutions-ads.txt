@@ -1,3 +1,1 @@
-taboola.com,1157612,DIRECT,c228e6794e811952
-taboola.com,1157613,DIRECT,c228e6794e811952
 subdomain=spiele.bild.de
