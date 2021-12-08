@@ -20,8 +20,8 @@ rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
 triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 5791, DIRECT, 6c33edb13117fd86
-smaato.com, 1100004890, DIRECT, 07bcf65f187117b4
-improvedigital.com, 2019, DIRECT 
+improvedigital.com, 2019, DIRECT
+adform.com, 2858, DIRECT
 
 smartclip.net, 8225, DIRECT #IPD
 smartclip.net, 11333, RESELLER #smartclip IPA
