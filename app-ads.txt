@@ -30,4 +30,8 @@ appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
-
+#Facebook NMT
+facebook.com, 340030725, DIRECT, c3e20eee3f780d68
+facebook.com, 640581217, DIRECT, c3e20eee3f780d68
+facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
+facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
