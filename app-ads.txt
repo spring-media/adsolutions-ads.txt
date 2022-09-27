@@ -30,5 +30,4 @@ appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
-#Facebook NMT
-facebook.com, Developers app ID, DIRECT, c3e20eee3f780d68“
+
