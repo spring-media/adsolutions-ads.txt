@@ -23,6 +23,7 @@ triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 5791, DIRECT, 6c33edb13117fd86
 improvedigital.com, 2019, DIRECT
 adform.com, 2858, DIRECT
+sspx.tech, dspx64, RESELLER
 
 smartclip.net, 8225, DIRECT #IPD
 smartclip.net, 11333, RESELLER #smartclip IPA
