@@ -1,0 +1,148 @@
+###
+
+
+##### Outbrain 17.10.2022
+
+appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
+spotxchange.com, 225721, RESELLER # Premium video demand
+Freewheel.tv, 741650, RESELLER # Premium video demand
+rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
+lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
+openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
+spotx.tv, 238936, RESELLER, 7842df1d2fe2db34 # Premium video demand
+spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
+rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
+indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
+pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
+vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+smartadserver.com, 3820, RESELLER # Premium Video Demand
+rhythmone.com, 367782854, RESELLER, a670c89d4a324e47 # Premium video demand from Outbrain
+video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain
+indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
+pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
+improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
+freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
+vidoomy.com, 61107, RESELLER # Premium video demand from Outbrain
+yahoo.com, 59052, RESELLER # Premium Video Demand
+risecodes.com,6022acddc8b2f90001767980, RESELLER
+yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
+emxdgt.com, 2014, RESELLER, 1e1d41537f7cad7f
+vi.ai, g-00e42f5ff6f6b5c2f4db80387cd4381a73, DIRECT #instream video by outbrain
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
+pubmatic.com, 158055, RESELLER, 5d62403b186f2ace #instream video by outbrain
+xandr.com, 10736, RESELLER #instream video by outbrain
+rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
+rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47 #instream video by outbrain
+video.unrulymedia.com, 1014191143, RESELLER #instream video by outbrain
+Indexexchange.com, 190500, RESELLER #instream video by outbrain
+smartadserver.com,2776,RESELLER #instream video by outbrain
+openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
+spotxchange.com, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+spotx.tv, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
+yahoo.com, 59658, RESELLER #instream video by outbrain
+media.net, 8CUIH830U, RESELLER #instream video by outbrain
+triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
+improvedigital.com, 1552, Reseller #instream video by outbrain
+contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
+xandr.com, 7445, RESELLER #instream video by outbrain
+yieldlab.net, 227224, RESELLER #instream video by outbrain
+yieldlab.net, 5798882, RESELLER #instream video by outbrain
+yieldlab.net, 5494672, RESELLER #instream video by outbrain
+yieldlab.net, 6374282, RESELLER #instream video by outbrain
+yieldlab.net, 495507, DIRECT #instream video by outbrain
+yieldlab.net, 2172218, RESELLER #instream video by outbrain
+xandr.com, 12279,RESELLER #instream video by outbrain
+smartadserver.com, 1408, RESELLER #instream video by outbrain
+rubiconproject.com, 15994, RESELLER, 0bfd66d529a55807 #instream video by outbrain
+spotxchange.com,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
+spotx.tv,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
+openx.com,537148817,RESELLER,6a698e2ec38604c6 #instream video by outbrain
+xandr.com,8904,RESELLER #instream video by outbrain
+stroeer.com, 18840, RESELLER #instream video by outbrain
+freewheel.tv, 1388882, RESELLER #instream video by outbrain
+freewheel.tv, 1388978, RESELLER #instream video by outbrain
+rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807 #instream video by outbrain
+yieldlab.net, 6248161, RESELLER #instream video by outbrain
+xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
+adform.com, 2611, RESELLER #instream video by outbrain
+outbrain.com, 002662ae9a20ad9322732356e803d4e42c, DIRECT
+aps.amazon.com, 3965, RESELLER #instream video by outbrain
+
+###############
+
+######## Google Publisher ID 26.10.17
+google.com, pub-2557501611105071, DIRECT, f08c47fec0942fa0
+########
+
+
+######## Google Publisher ID Vertical-Konto 21.1.19
+google.com, pub-4652277944828936, DIRECT, f08c47fec0942fa0
+########
+
+
+######## Ads.txt 12.08.20
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+########
+
+
+######## Addefend 22.9.20
+yieldlab.net, 2510891, RESELLER
+plista.com, 1023595, DIRECT
+appnexus.com, 9999, DIRECT
+appnexus.com, 7790, DIRECT
+vi.ai, 734454804628465, DIRECT
+vi.ai, 179355005663620, DIRECT
+google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
+appnexus.com, 7445, RESELLER
+yieldlab.net, 227224, DIRECT
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 506261, DIRECT
+yieldlab.net, 5494672, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 495507, DIRECT
+yieldlab.net, 781119, RESELLER
+yieldlab.net, 2172218, RESELLER
+spotxchange.com,113481,RESELLER,7842df1d2fe2db34
+spotx.tv,113481,RESELLER,7842df1d2fe2db34
+openx.com,537148817,RESELLER,6a698e2ec38604c6
+appnexus.com,8904,RESELLER
+adform.com, 2611, RESELLER
+yieldlab.net, 6248161, RESELLER
+openx.com, 540447820, DIRECT, 6a698e2ec38604c6
+indexexchange.com, 189507, DIRECT
+pubmatic.com, 158090, DIRECT, 5d62403b186f2ace
+smartadserver.com,2776,RESELLER
+rhythmone.com,1178207746,DIRECT,a670c89d4a324e47
+advertising.com, 28555, RESELLER
+########
+
+
+######## Ligatus 28.11.18
+ligadx.com,20216,DIRECT
+ligadx.com,e9124dc0db393207,DIRECT
+spotxchange.com,206177,RESELLER,7842df1d2fe2db34
+spotx.tv,206177,RESELLER,7842df1d2fe2db34
+########
+
+
+######## Vibrant 7.11.18
+vibrantmedia.com,19809,reseller
+appnexus.com,2154,reseller
+contextweb.com,561689,reseller,89ff185a4c4e857c
+criteo.com,146785,direct
+indexexchange.com, 184543, RESELLER
+########
+
+###showheroes-ads(DE-MI).txt 2.11.20
+smartadserver.com, 2161, DIRECT
+freewheel.tv, 1003361, DIRECT
+freewheel.tv, 1003377, RESELLER
+appnexus.com, 8833, RESELLER, f5ab79cb980f11d1

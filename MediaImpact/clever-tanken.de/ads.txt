@@ -1,0 +1,4 @@
+google.com,pub-7015354121783489,DIRECT,f08c47fec0942fa0
+yieldlab.net, 163835, DIRECT
+yieldlab.net, 163835, RESELLER
+smartadserver.com, 2373, RESELLER
