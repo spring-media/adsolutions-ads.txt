@@ -36,6 +36,7 @@ appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
+
 #Outbrain
 
 outbrain.com, 00beed60cfaa57c1ce80346eaf1ca4c835, DIRECT

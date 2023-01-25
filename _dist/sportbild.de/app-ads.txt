@@ -36,6 +36,7 @@ facebook.com, 640581217, DIRECT, c3e20eee3f780d68
 facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
+
 #Outbrain
 
 outbrain.com, 00beed60cfaa57c1ce80346eaf1ca4c835, DIRECT
