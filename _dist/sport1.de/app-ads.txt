@@ -1,0 +1,76 @@
+#app-ads.txt   Media Impact
+
+appnexus.com,7823,DIRECT,f5ab79cb980f11d1
+google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1
+yieldlab.net,453131,DIRECT
+yieldlab.net,227224,RESELLER
+aps.amazon.com,06754b67-9aaf-45ec-b558-bc35ff8a4bd2,DIRECT
+openx.com,539948074,DIRECT,6a698e2ec38604c6
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
+smartadserver.com,251,DIRECT
+smartadserver.com,3571,DIRECT
+pubmatic.com,157222, DIRECT
+pubmatic.com, 156678, DIRECT
+indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+improvedigital.com, 2019, DIRECT
+adform.com, 2858, DIRECT
+
+smartclip.net, 8225, DIRECT #IPD
+smartclip.net, 11333, RESELLER #smartclip IPA
+google.com, pub-3057818873023700, RESELLER #Goldbach CH
+appnexus.com, 3741, RESELLER # Goldbach Appnexus
+appnexus.com, 9242, RESELLER # Goldbach Appnexus
+spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+
+#Facebook NMT
+facebook.com, 340030725, DIRECT, c3e20eee3f780d68
+facebook.com, 640581217, DIRECT, c3e20eee3f780d68
+facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
+facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
+
+
+# taboola
+taboola.com,1067288,DIRECT,c228e6794e811952
+taboola.com,1246534,DIRECT,c228e6794e811952
+taboola.com,1224882,DIRECT,c228e6794e811952
+taboola.com,1246327,DIRECT,c228e6794e811952
+taboola.com,1224873,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+
+# Teads
+teads.tv, 5632, DIRECT, 15a9c44f6d26cbe1
+
+# AddApptr
+applovin.com, 3c7d6e6fa10bb0b565aa77ebead66872, RESELLER
+applovin.com, 5e04b90b98e2de25b9914ca2f5b5042d, RESELLER
+applovin.com, 59506b3cdf0736cc111f6e8b158f9e8b, RESELLER
+applovin.com, fb363df10863e6ca6db95bc1ef3134ad, RESELLER
+applovin.com, f0f6589a5fc4a787bba62e68bf4d4fa9, RESELLER
+unity3d.com, 30043, RESELLER, 96cabb5fbdde37a7
+
+smartclip.net, 898, RESELLER

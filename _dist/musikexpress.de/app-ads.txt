@@ -1,4 +1,4 @@
-#Ads.txt Media Impact
+#app-ads.txt   Media Impact
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
@@ -6,15 +6,13 @@ teads.tv,5632,RESELLER,15a9c44f6d26cbe1
 teads.tv,8674,RESELLER,15a9c44f6d26cbe1
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
-aps.amazon.com, 3135, DIRECT #display
-aps.amazon.com, 3135, DIRECT #video
+aps.amazon.com,06754b67-9aaf-45ec-b558-bc35ff8a4bd2,DIRECT
 openx.com,539948074,DIRECT,6a698e2ec38604c6
 openx.com, 540038340, DIRECT, 6a698e2ec38604c6
 smartadserver.com,251,DIRECT
 smartadserver.com,3571,DIRECT
 pubmatic.com,157222, DIRECT
 pubmatic.com, 156678, DIRECT
-pubmatic.com, 161921, DIRECT
 indexexchange.com, 188480, DIRECT
 indexexchange.com, 188479, DIRECT
 rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
@@ -23,7 +21,6 @@ triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
 triplelift.com, 5791, DIRECT, 6c33edb13117fd86
 improvedigital.com, 2019, DIRECT
 adform.com, 2858, DIRECT
-sspx.tech, dspx64, RESELLER
 
 smartclip.net, 8225, DIRECT #IPD
 smartclip.net, 11333, RESELLER #smartclip IPA
@@ -32,3 +29,11 @@ appnexus.com, 3741, RESELLER # Goldbach Appnexus
 appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+
+#Facebook NMT
+facebook.com, 340030725, DIRECT, c3e20eee3f780d68
+facebook.com, 640581217, DIRECT, c3e20eee3f780d68
+facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
+facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
+
+

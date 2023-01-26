@@ -32,3 +32,9 @@ appnexus.com, 3741, RESELLER # Goldbach Appnexus
 appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
+
+
+google.com,pub-7015354121783489,DIRECT,f08c47fec0942fa0
+yieldlab.net, 163835, DIRECT
+yieldlab.net, 163835, RESELLER
+smartadserver.com, 2373, RESELLER
