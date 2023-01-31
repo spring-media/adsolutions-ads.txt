@@ -1,7 +1,6 @@
 subdomain=spiele.bild.de
 
-#Outbrain Netherlands (test)
-
+#NL
 outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
 yieldlab.net, 227224, RESELLER #instream video by outbrain
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
