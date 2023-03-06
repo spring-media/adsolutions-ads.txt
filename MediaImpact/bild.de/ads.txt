@@ -1,3 +1,6 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 subdomain=spiele.bild.de
 
 #NL
