@@ -1,5 +1,5 @@
-###
-
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
 
 ##### Outbrain 17.10.2022
 
