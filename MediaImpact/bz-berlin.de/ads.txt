@@ -1,8 +1,11 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 #bz.de
 google.com,pub-1075083039775659,DIRECT
 google.com,pub-8077209740919640,DIRECT,f08c47fec0942fa0
 
-#showheroes
+#showheroes #outstream
 adform.com,1819,RESELLER,9f5210a2f0999e32
 adform.com,183,RESELLER
 adform.com,2437,RESELLER,9f5210a2f0999e32
@@ -82,7 +85,7 @@ yieldlab.net,5798882,RESELLER
 yieldlab.net,6374282,RESELLER
 yieldlab.net,6378054,DIRECT
 
-#outbrain
+#outbrain #native
 outbrain.com, 009c4c2f26b647b31577cd4e8e854c5865, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria

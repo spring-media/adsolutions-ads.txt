@@ -1,0 +1,13 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
+#InStream #Xymatic
+xymatic.com, 80114aba-bc79-404f-a371-14436f62dd6e, DIRECT
+google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2010, RESELLER
+smartstream.tv, 633, RESELLER
+yieldlab.net, 2172218, RESELLER
+appnexus.com, 3368, RESELLER
+xandr.com, 12279,RESELLER
+openx.com, 539246483, RESELLER
+

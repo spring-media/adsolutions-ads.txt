@@ -1,3 +1,6 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 #-----------E2-----------
 yieldlab.net, 2131631, DIRECT
 yieldlab.net, 227224, RESELLER

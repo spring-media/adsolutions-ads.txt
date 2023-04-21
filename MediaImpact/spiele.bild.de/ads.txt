@@ -1,3 +1,6 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 # kr3m / adbility media
 Pubmatic.com, 159162, DIRECT, 5d62403b186f2ace
 indexexchange.com, 192028, DIRECT

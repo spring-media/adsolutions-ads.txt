@@ -1,10 +1,12 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 #Adsense
 
 google.com, pub-4710544251521156, DIRECT, f08c47fec0942fa0
 
 
-#Outbrain
-
+#Native #Outbrain
 outbrain.com, 00ec357db9c6c574051baf9a1f56d204fa, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka &quot;Telaria&quot;

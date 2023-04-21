@@ -1,4 +1,7 @@
-#Outbrain
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
+#Outbrain #Native
 
 outbrain.com, 00beed60cfaa57c1ce80346eaf1ca4c835, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1

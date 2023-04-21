@@ -1,3 +1,6 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+
 #CP
 #NET Ads
 google.com, pub-2471698288233937, DIRECT, f08c47fec0942fa0
@@ -11,7 +14,7 @@ google.com, pub-9740810436663331, DIRECT, f08c47fec0942fa0
 #Pubstream
 appnexus.com, 3702, RESELLER, f5ab79cb980f11d1
 
-#Outbrain
+#Outbrain #Native
 Freewheel.tv, 741650, RESELLER # Premium video demand
 Indexexchange.com, 190500, RESELLER #instream video by outbrain
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
@@ -57,7 +60,7 @@ yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
 yahoo.com, 59052, RESELLER # Premium Video Demand
 yahoo.com, 59658, RESELLER #instream video by outbrain
 
-#Addefend
+#Addefend #AdBlocker
 152media.info, 152M348, RESELLER
 33across.com, 0010b00002MptHCAAZ, RESELLER, bbea06d9c4d2853c
 EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
