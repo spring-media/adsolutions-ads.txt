@@ -1,9 +1,9 @@
-#Ads.txt Media Impact
+#Media Impact
+mediaimpact.de, MI1111, DIRECT
 
+#banner
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
-teads.tv,5632,RESELLER,15a9c44f6d26cbe1
-teads.tv,8674,RESELLER,15a9c44f6d26cbe1
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
 aps.amazon.com, 3135, DIRECT #display
@@ -25,6 +25,11 @@ improvedigital.com, 2019, DIRECT
 adform.com, 2858, DIRECT
 sspx.tech, dspx64, RESELLER
 
+#outstream
+teads.tv,5632,RESELLER,15a9c44f6d26cbe1
+teads.tv,8674,RESELLER,15a9c44f6d26cbe1
+
+#instream #DE
 smartclip.net, 8225, DIRECT #IPD
 smartclip.net, 11333, RESELLER #smartclip IPA
 google.com, pub-3057818873023700, RESELLER #Goldbach CH
@@ -33,6 +38,7 @@ appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
+#END Media Impact
 
 #Google MSN
 google.com, pub-5972703295500969, DIRECT, f08c47fec0942fa0
