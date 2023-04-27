@@ -43,12 +43,9 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 
-subdomain=spiele.bild.de
-subdomain=play.bild.de
-
-#NL #Native
-outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
+#NL #Native #Outbrain
 yieldlab.net, 227224, RESELLER #instream video by outbrain
+outbrain.com, 003244aa83d2fa833e01878cd6b6fb723b, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
 spotxchange.com, 225721, RESELLER # Premium video demand
@@ -60,22 +57,12 @@ rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
-lkqd.net, 602, RESELLER, 59c49fa9598a0117 # Premium Video Demand
-beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
 smartadserver.com, 3820, RESELLER # Premium Video Demand
-aniview.com, 58a5addb28a0612d3529bc5e, RESELLER, 78b21b97965ec3f8 # Premium video demand
-improvedigital.com, 1581, RESELLER # Premium video demand
-onetag.com, 57e618150c70d90, RESELLER  # Premium video demand
-freewheel.tv, 1142945, RESELLER  # Premium video demand
-freewheel.tv, 1143393, RESELLER # Premium video demand
 video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
 pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
-synacor.com, 82423, RESELLER, e108f11b2cdf7d5b # Premium video demand from Outbrain
 improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
 freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
-smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
-contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain
 yahoo.com, 59052, RESELLER # Premium Video Demand
 risecodes.com,6022acddc8b2f90001767980, RESELLER
 yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
@@ -118,5 +105,3 @@ yieldlab.net, 6248161, RESELLER #instream video by outbrain
 xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
-imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain
-
