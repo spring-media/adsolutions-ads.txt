@@ -1,0 +1,2 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
