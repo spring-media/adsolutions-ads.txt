@@ -103,4 +103,14 @@ yieldlab.net, 6248161, RESELLER #instream video by outbrain
 xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
+yieldlab.net, 5798882, RESELLER #instream video by outbrain
+yieldlab.net, 5494672, RESELLER #instream video by outbrain
+yieldlab.net, 6374282, RESELLER #instream video by outbrain
+yieldlab.net, 495507, DIRECT #instream video by outbrain
+yieldlab.net, 2172218, RESELLER #instream video by outbrain
+spotxchange.com,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
+spotx.tv,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
+openx.com,537148817,RESELLER,6a698e2ec38604c6 #instream video by outbrain
+freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
+freewheel.tv, 1133073, RESELLER #instream video by outbrain
 
