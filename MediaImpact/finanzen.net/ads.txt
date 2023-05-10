@@ -1,4 +1,4 @@
-ownerdomain=axelspringer.com
+ownerdomain=finanzen.net
 managerdomain=mediaimpact.de
 
 #CP
