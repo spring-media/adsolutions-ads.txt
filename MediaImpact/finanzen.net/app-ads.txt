@@ -1,3 +1,6 @@
+ownerdomain=finanzen.net
+managerdomain=mediaimpact.de
+
 #CP
 #NET Ads
 google.com, pub-2471698288233937, DIRECT, f08c47fec0942fa0
