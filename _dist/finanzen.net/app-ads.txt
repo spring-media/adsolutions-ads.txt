@@ -37,6 +37,9 @@ facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
 
+ownerdomain=finanzen.net
+managerdomain=mediaimpact.de
+
 #CP
 #NET Ads
 google.com, pub-2471698288233937, DIRECT, f08c47fec0942fa0
