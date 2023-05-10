@@ -1,4 +1,4 @@
-ownerdomain=axelspringer.com
+ownerdomain=transfermarkt.de
 managerdomain=mediaimpact.de
 
 #-----------E2-----------
