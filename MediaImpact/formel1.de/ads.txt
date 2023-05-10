@@ -1,3 +1,6 @@
+ownerdomain=sport-media-group.de
+managerdomain=mediaimpact.de
+
 #Google MSN
 google.com, pub-5972703295500969, DIRECT, f08c47fec0942fa0
 
