@@ -43,7 +43,7 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 ownerdomain=transfermarkt.de
 managerdomain=mediaimpact.de
 
-#-----------E2-----------
+#NATIVE #DE #AT
 yieldlab.net, 2131631, DIRECT
 yieldlab.net, 227224, RESELLER
 smartadserver.com, 4453, RESELLER
@@ -56,7 +56,7 @@ oddsserve.com, 005, RESELLER
 oddsserve.com, 006, RESELLER
 oddsserve.com, 007, RESELLER
 oddsserve.com, 008, RESELLER
-#-----------SOM-----------
+#BANNER #REST
 yieldlab.net, 72723, RESELLER
 openx.com, 539246483, RESELLER, 6a698e2ec38604c6
 openx.com, 540233830, RESELLER, 6a698e2ec38604c6 #ExchangeBidding
@@ -64,17 +64,11 @@ indexexchange.com, 187889, RESELLER, 50b1c356f2c5c8fc #ExchangeBidding
 pubmatic.com, 158103, RESELLER, 5d62403b186f2ace #ExchangeBidding
 rubiconproject.com, 19792, RESELLER, 0bfd66d529a55807  #ExchangeBidding
 google.com, pub-2671258679073709, RESELLER, f08c47fec0942fa0 #GoogleAccount
-#-----------Yoc-----------
-pubmatic.com, 161557, RESELLER, 5d62403b186f2ace
-yoc.com, 5348, DIRECT #Publisher ID in VIS.X
-smartadserver.com, 3920, RESELLER #Smart direct OpenRTB VIS.X connection.
-rubiconproject.com, 23306, RESELLER, 0bfd66d529a55807 #Magnite direct OpenRTB VIS.X connection.
-appnexus.com, 11853, RESELLER, f5ab79cb980f11d1 #Xandr direct OpenRTB VIS.X connection.
-google.com, pub-8572040456674904, RESELLER, f08c47fec0942fa0 #YOC AdX account.
-#-----------Google Adsense-----------
+
+#Google #REST #BANNER
 google.com, pub-0544761737719208, DIRECT, f08c47fec0942fa0
 google.com, pub-0544761737719208, RESELLER, f08c47fec0942fa0
-#-----------Sasch Media-----------
+#BANNER #AT
 admanmedia.com,726,RESELLER
 adtech.com, 1565, RESELLER
 aolcloud.net, 1565, RESELLER
@@ -124,7 +118,7 @@ xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
 yahoo.com, 58928, DIRECT #banner
 yieldlab.net, 521617, RESELLER
 yieldlab.net, 9926502, DIRECT
-#Mediabox
+#Mediabox #BANNER #AT
 google.com, pub-4838987040190025, DIRECT, f08c47fec0942fa0
 google.com, pub-5500975897224426, DIRECT, f08c47fec0942fa0
 adtech.com, 1565, RESELLER
@@ -141,7 +135,7 @@ pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 openx.com, 537149888, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 161557, RESELLER, 5d62403b186f2ace
 
-#---------------Google&Yieldgroups---------------
+#Google #REST #BANNER
 
 google.com,pub-9135842149008561,DIRECT,f08c47fec0942fa0
 google.com,pub-2796876451132087,DIRECT,f08c47fec0942fa0
@@ -158,7 +152,7 @@ rubiconproject.com,11006,RESELLER,0bfd66d529a55807
 smartadserver.com,4111,RESELLER
 smartadserver.com,4194,DIRECT
 indexexchange.com,198535,DIRECT,50b1c356f2c5c8fc
-#SOVRN
+#SOVRN #REST #BANNER
 sovrn.com,395364,DIRECT,fafdf38b16bf6b2b
 lijit.com,395364,DIRECT,fafdf38b16bf6b2b
 lijit.com,395364-eb,DIRECT,fafdf38b16bf6b2b
@@ -230,7 +224,6 @@ onetag.com,5d1628750185ace,RESELLER
 loopme.com,11278,RESELLER,6c8d5f95897a5a3b
 triplelift.com,11722,DIRECT,6c33edb13117fd86
 triplelift.com,11722-EB,DIRECT,6c33edb13117fd86
-
 teads.tv,22593,DIRECT,15a9c44f6d26cbe1
 aps.amazon.com,5134,DIRECT
 appnexus.com,14004,DIRECT,f5ab79cb980f11d1
@@ -250,32 +243,12 @@ media.net,8CUU96YDS,DIRECT
 onetag.com,6d290ee43ca0b76,DIRECT
 
 
-
-#YOC-PL
-yoc.com, 5777, DIRECT
-google.com, pub-8572040456674904, RESELLER
-google.com, pub-7095332606745705, RESELLER
-smartadserver.com, 2611, RESELLER
-indexexchange.com, 179394, RESELLER, 50b1c356f2c5c8fc
-contextweb.com,560288,RESELLER,89ff185a4c4e857c
-pubmatic.com,156439,RESELLER
-pubmatic.com, 154037,RESELLER
-rubiconproject.com,16114,RESELLER, 0bfd66d529a55807
-openx.com,537149888,RESELLER,6a698e2ec38604c6
-sovrn.com, 257611,RESELLER, fafdf38b16bf6b2b
-appnexus.com,3703,RESELLER,f5ab79cb980f11d1
-appnexus.com, 11853, RESELLER, f5ab79cb980f11d1
-smartadserver.com, 3920, RESELLER
-pubmatic.com, 161557, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 23306, RESELLER, 0bfd66d529a55807
-
-
-#--------------------DE-----------------------
+#DE #BANNER
 yieldlab.net,521617,RESELLER
 sspx.tech, dspx64, RESELLER
 #own-donotedit
 
-#-----------FootballCo
+#UK #BANNER #Footballco
 footballco.com,19591,DIRECT
 onetag.com,7a06ee9c2065d30,DIRECT
 onetag.com,7a06ee9c2065d30-OB,DIRECT
@@ -354,7 +327,6 @@ yahoo.com,59531,RESELLER,e1a5b5b6e3255540
 smartadserver.com,4342,RESELLER
 smartadserver.com,4012,RESELLER
 Triplelift.com,11711-EB,direct,6c33edb13117fd86
-
 smartadserver.com,4007-OB,RESELLER,060d053dcf45cbf3
 indexexchange.com,194156,DIRECT,50b1c356f2c5c8fc
 indexexchange.com,194156,RESELLER,50b1c356f2c5c8fc
@@ -402,7 +374,6 @@ rhythmone.com,4173858586,RESELLER,a670c89d4a324e47
 Verve.com,15290,RESELLER,0c8f5958fc2d6270
 rubiconproject.com,15278,RESELLER,0bfd66d529a55807
 pubmatic.com,156517,RESELLER,5d62403b186f2ace
-#new-Sep
 onetag.com, 7a06ee9c2065d30, DIRECT
 onetag.com, 7a06ee9c2065d30-OB, DIRECT
 appnexus.com, 13099, RESELLER
@@ -456,11 +427,9 @@ themediagrid.com, WLF7NY, DIRECT, 35d5010d7789b49d
 hoopladigital.co.uk, 5137891367, DIRECT
 google.com, pub-1386280613967939, RESELLER, f08c47fec0942fa0
 
-
 ::::Outbrainads.txt::::
 -------------------------------------
-Outbrain_DE
--------------------------------------
+#DE #NATIVE #Outbrain
 outbrain.com,00f2f410fb18acc1e8d6897666ca41266f,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -487,9 +456,6 @@ rhythmone.com,367782854,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,367782854,RESELLER
 smartadserver.com,3820,RESELLER
 indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc
--------------------------------------
-Outbrain_Wahretabelle
--------------------------------------
 outbrain.com,000811e125cfce19183f1425030f516f08,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -508,9 +474,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_IT
--------------------------------------
+
+#IT #NATIVE #Outbrain
 outbrain.com,00a31a0e1d8a89fabf2d8c321340f3cdc5,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -529,9 +494,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_UK
--------------------------------------
+
+#UK #NATIVE #Outbrain
 outbrain.com,00f811e6cd769b720ab2869428e3811901,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -550,9 +514,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_PT
--------------------------------------
+
+#PT #NATIVE #Outbrain
 outbrain.com,0010ed5a4ae4f83abf20b5222e13bdd5de,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -571,9 +534,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_ES
--------------------------------------
+
+#ES #NATIVE #Outbrain
 outbrain.com,008bb22de73a599c7caff6b67235018b37,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -592,9 +554,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_FR
--------------------------------------
+
+#FR #NATIVE #Outbrain
 outbrain.com,0006d8aa385e32b1e389d47a28d03a4b27,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -613,9 +574,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_PL
--------------------------------------
+
+#PL #NATIVE #Outbrain
 outbrain.com,002f551fcb7f4a76e0554584ce66080a7e,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -634,9 +594,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_NL
--------------------------------------
+
+#NL #NATIVE #Outbrain
 outbrain.com,00f6f9361a68d49c1c9a6b98e0dd0fa580,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -655,9 +614,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_RU
--------------------------------------
+
+#REST #NATIVE #Outbrain
 outbrain.com,00050f65025caf70fd77cd70dc49743a00,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -676,9 +634,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_AT
--------------------------------------
+
+#AT #NATIVE #Outbrain
 outbrain.com,0063e291426f7ab6201ec62b4de2af0c99,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -699,9 +656,8 @@ pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
 smartadserver.com,3820,RESELLER
 indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc
--------------------------------------
-Outbrain_CH
--------------------------------------
+
+#CH #NATIVE #Outbrain
 outbrain.com,0093c02fb54775bbeb274f38d73fd1cd27,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -742,9 +698,8 @@ rhythmone.com,367782854,RESELLER,a670c89d4a324e47
 video.unrulymedia.com,367782854,RESELLER
 indexexchange.com,193091,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,160065,RESELLER,5d62403b186f2ace
--------------------------------------
-Outbrain_US
--------------------------------------
+
+#US #NATIVE #Outbrain
 outbrain.com,00a79ec64238bad6fb47d71dcabd09963d,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -763,9 +718,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_BR
--------------------------------------
+
+#BR #NATIVE #Outbrain
 outbrain.com,009ae5e149b986655d39a9b2f88c47aa29,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -784,9 +738,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_IN
--------------------------------------
+
+#IN #NATIVE #Outbrain
 outbrain.com,00bf9b8d12b3d64cc2db3e810f0c04484f,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -805,9 +758,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_CO.ZA
--------------------------------------
+
+#ZA #NATIVE #Outbrain
 outbrain.com,00b0b0f8ea166a79e3e9d21c1f366e279c,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -826,9 +778,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_TR
--------------------------------------
+
+#TR #NATIVE #Outbrain
 outbrain.com,00a523119d8439f1733c1e11457fbbbd79,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -847,9 +798,8 @@ contextweb.com,562145,RESELLER,89ff185a4c4e857c
 indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
--------------------------------------
-Outbrain_COM
--------------------------------------
+
+#REST #NATIVE #Outbrain
 outbrain.com,002be1920854263eb67627023e921f235c,DIRECT
 appnexus.com,7597,RESELLER,f5ab79cb980f11d1
 tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
@@ -869,7 +819,7 @@ indexexchange.com,190856,RESELLER,50b1c356f2c5c8fc
 pubmatic.com,158615,RESELLER,5d62403b186f2ace
 vidazoo.com,1773068026,RESELLER,b6ada874b4d7d0b2
 
-#----Addefend
+#AdBlocker #DE #REST #AT #CH #PL #NL #UK #Addefend
 yieldlab.net,163835,DIRECT
 yieldlab.net,163835,RESELLER
 smartadserver.com,2373,RESELLER
@@ -1111,12 +1061,7 @@ tritondigital.com, 44733, DIRECT, 19b4454d0b87b58b
 uis.mobfox.com, SM_828, DIRECT, 5529a3d1f59865be
 
 
-#---------------------TV-----------------------
-openx.com,539779299,DIRECT,6a698e2ec38604c6
-yieldlab.net,23667,RESELLER
-
-
-#<!-- Perform uK Video -->
+#InStream #UK #FootballCo #Video
 adform.com, 606, RESELLER
 adtech.com, 10557, RESELLER
 adtech.com, 8893, RESELLER
@@ -1395,7 +1340,7 @@ zedo.com, 1496, RESELLER, #ZINCbyZEDO
 
 ____________________________
 
-#Webads-ES
+#ES #BANNER #Webads
 appnexus.com, 997, DIRECT, f5ab79cb980f11d1
 rubiconproject.com, 16368, DIRECT, 0bfd66d529a55807
 pubmatic.com, 156574, DIRECT, 5d62403b186f2ace
@@ -1498,7 +1443,7 @@ ogury.com, 437c6c3a-f1f4-47e5-a62f-8c7decb16ddc, RESELLER
 pubmatic.com, 156574, DIRECT, 5d62403b186f2ace
 pubmatic.com, 156574, RESELLER, 5d62403b186f2ace
 
-#Webads-NL
+#NL #BANNER #Webads
 appnexus.com, 994, DIRECT, f5ab79cb980f11d1
 rubiconproject.com, 11394, DIRECT, 0bfd66d529a55807
 pubmatic.com, 156487, DIRECT, 5d62403b186f2ace
@@ -1568,8 +1513,7 @@ appnexus.com, 11470, RESELLER
 weborama.nl, 106977, DIRECT
 appnexus.com, 12986,  RESELLER
 
-#Webads-IT
-#Start SSP
+#IT #BANNER #Webads
 appnexus.com, 996, DIRECT
 rubiconproject.com, 11396, DIRECT, 0bfd66d529a55807
 pubmatic.com, 156192, DIRECT, 5d62403b186f2ace
@@ -1583,27 +1527,15 @@ appnexus.com, 11470, RESELLER
 freewheel.tv, 1500962, RESELLER
 freewheel.tv, 1501026, RESELLER
 smartadserver.com, 2892, RESELLER
-#End SSP
-
-# START Adform
 adform.com, 1226, DIRECT
 adform.com, 1943, DIRECT
 adform.com, 622, DIRECT
 adform.com, 2110, DIRECT
 adform.com, 2112, DIRECT
-# END Adform
-
-#Start ONETAG
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 advertising.com, 28246, RESELLER
 onetag.com, 3c3872b2932d82, DIRECT
-#End ONETAG
-
-#Start XAXIS
 appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
-#End XAXIS
-
-# START SublimeSkinz Network 2022-01-24
 sublime.xyz, 534, DIRECT
 smartadserver.com, 1827, RESELLER
 improvedigital.com, 335, RESELLER
@@ -1618,10 +1550,7 @@ criteo.com, B-062035, RESELLER, 9fac4a4a87c2a44f
 criteo.com, B-062031, RESELLER, 9fac4a4a87c2a44f
 quantum-advertising.com, 6228, RESELLER
 quantum-advertising.com, 6197, RESELLER
-# END SublimeSkinz Network
-
 teads.tv, 14841, DIRECT, 15a9c44f6d26cbe1
-
 vi.ai, 382373401295166, DIRECT
 freewheel.tv, 440657, RESELLER
 freewheel.tv, 440673, RESELLER
@@ -1641,8 +1570,6 @@ video.unrulymedia.com, 1178207746, RESELLER
 rhythmone.com, 1178207746, RESELLER, a670c89d4a324e47
 indexexchange.com, 189507, RESELLER
 pubmatic.com, 158090, RESELLER, 5d62403b186f2ace
-
-#Sky - INIZIO
 google.com, pub-8711244316083070, DIRECT, f08c47fec0942fa0
 pubmatic.com, 73111, DIRECT, 5d62403b186f2ace
 pubmatic.com, 157436, DIRECT, 5d62403b186f2ace
@@ -1692,55 +1619,28 @@ adform.com, 2110, DIRECT
 adform.com, 2112, DIRECT
 pubmatic.com, 160238, DIRECT, 5d62403b186f2ace
 pubmatic.com, 160238, RESELLER, 5d62403b186f2ace
-#Sky - FINE
-
-#Sky - INTEGRAZIONE MU OTTOBRE 2020 - INIZIO
-
 google.com, pub-2526244436744322, DIRECT, f08c47fec0942fa0
-
-#indexexchange
 indexexchange.com, 189547, RESELLER
 indexexchange.com, 191083, RESELLER
-
-#improvedigital
 improvedigital.com, 1426, RESELLER
-
-#appnexus
 appnexus.com, 10028, RESELLER
-
-#OpenX
 openx.com, 540948333, RESELLER, 6a698e2ec38604c6
 openx.com, 541045165, RESELLER, 6a698e2ec38604c6
-
-#Rubicon
 rubiconproject.com, 19510, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 12302, RESELLER, 0bfd66d529a55807
-
-#Pubmatic
 pubmatic.com, 156834, RESELLER, 5d62403b186f2ace
 pubmatic.com, 157430, RESELLER, 5d62403b186f2ace
 pubmatic.com, 158832, RESELLER, 5d62403b186f2ace
-
-#teads
 adform.com, 1740, RESELLER
 teads.tv, 10920, RESELLER, 15a9c44f6d26cbe1
-
-#SMARTADSERVER
 smartadserver.com, 2612, RESELLER
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
 districtm.io, 101760, RESELLER, 3fd707be9c4527c3
 loopme.com, s-2411, RESELLER, 6c8d5f95897a5a3b
 loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
 xad.com, 958, RESELLER, 81cbf0a75a5e0e9a
-
-#TAM
 aps.amazon.com, 3627, RESELLER #video
 aps.amazon.com, 3627, RESELLER #display
-
-#Sky - INTEGRAZIONE MU OTTOBRE 2020 - FINE
-
-#Sky - Smartad - 25-02-2021 - INIZIO
-
 smartadserver.com, 3544, RESELLER
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
@@ -1750,11 +1650,6 @@ pubnative.net, 1006576, RESELLER, d641df8625486a7b
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
 axonix.com, 57264, RESELLER
 admanmedia.com, 43, RESELLER
-
-#Sky - Smartad - 25-02-2021 - FINE
-
-#Sky - OB - nuova integrazione - 07-06-2021 - INIZIO
-
 outbrain.com, 0089859a1209ee5cec39d121619cae2c92, DIRECT
 adform.com, 2643, RESELLER, 9f5210a2f0999e32
 admanmedia.com, c1ce5a17, RESELLER # Premium video demand
@@ -1791,33 +1686,20 @@ video.unrulymedia.com, 367782854, DIRECT
 freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
 vidoomy.com, 61107, RESELLER # Premium video demand from Outbrain
 yahoo.com, 59052, RESELLER # Premium Video Demand
-
-#Sky - OB - nuova integrazione - 07-06-2021 - FINE
-
-#Sky - nuova stringa Google - 02-07-2021
 google.com, pub-3059699431943495, RESELLER, f08c47fec0942fa0
-
-#Sky - aggiornamento - 26-08-2021
 criteo.com, B-059711, DIRECT, 9fac4a4a87c2a44f
-
-#Sky - aggiornamento - 28-10-2021
 appnexus.com, 13264, DIRECT
 appnexus.com, 13264, RESELLER
 criteo.com, B-067378, DIRECT, 9fac4a4a87c2a44f
 pubmatic.com, 161259, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161260, RESELLER, 5d62403b186f2ace
-
-#Sky - aggiornamento - 12/11/2021
 onetag.com, 5e6c4e63cfd8200-OB, DIRECT
 appnexus.com, 13099, RESELLER
 advertising.com, 28246, RESELLER
 rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 smartadserver.com, 4111, RESELLER
-
-#Sky - aggiornamento - 26/11/2021
 google.com, pub-9021387890731428, RESELLER, f08c47fec0942fa0
-
 themediagrid.com, 135KQ2, RESELLER, 35d5010d7789b49d
 appnexus.com, 8291, RESELLER
 pubmatic.com, 161616, DIRECT, 5d62403b186f2ace
@@ -1856,7 +1738,6 @@ connectad.io, 329, DIRECT, 85ac85a30c93b3e5
 pubmatic.com, 156077, RESELLER, 5d62403b186f2ace
 openx.com, 537145117, RESELLER, 6a698e2ec38604c6
 adform.com, 768, RESELLER
-# ConnectAd Extended
 indexexchange.com, 190906, DIRECT, 50b1c356f2c5c8fc
 lijit.com, 244287, DIRECT, fafdf38b16bf6b2b
 gumgum.com, 11645, RESELLER, ffdef49475d318a9
@@ -1930,31 +1811,19 @@ yahoo.com, 59531, RESELLER, e1a5b5b6e3255540
 33across.com, 0013300001kQj2HAAS, RESELLER, bbea06d9c4d2853c
 smaato.com, 1100047713, RESELLER, 07bcf65f187117b4
 
-
-------------Archon - TR----------------------
+#TR #BANNER #Archon
 archonph.com, 1, DIRECT
-# google
 google.com, pub-8929667634210480, RESELLER, f08c47fec0942fa0
 google.com, pub-9578119551064433, RESELLER, f08c47fec0942fa0
 google.com, pub-5459209596458886, RESELLER, f08c47fec0942fa0
 google.com, pub-9612539386533291, RESELLER, f08c47fec0942fa0
 google.com, pub-5741427438444892, RESELLER, f08c47fec0942fa0
-
-# teads
 teads.tv, 21292, DIRECT, 15a9c44f6d26cbe1
 teads.tv, 23347, DIRECT, 15a9c44f6d26cbe1
-
-# fluct
 adingo.jp, 27072, RESELLER
-
-# xandr
 appnexus.com, 8562, RESELLER, f5ab79cb980f11d1
-
-# criteo
 criteo.com, B-061015, DIRECT, 9fac4a4a87c2a44f
 themediagrid.com, EMAP4V, DIRECT, 35d5010d7789b49d
-
-# smart
 smartadserver.com, 4154, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4154-OB, RESELLER, 060d053dcf45cbf3
 contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
@@ -1972,19 +1841,11 @@ verve.com, 15503, RESELLER, 0c8f5958fc2d6270
 adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER, 4ad745ead2958bf7
 axonix.com, 57264, RESELLER
 admanmedia.com, 43, RESELLER
-
-# rubicon
 rubiconproject.com, 19454, DIRECT, 0bfd66d529a55807
 rubiconproject.com, 19452, DIRECT, 0bfd66d529a55807
-
-# pubmatic
 pubmatic.com, 160792, DIRECT, 5d62403b186f2ace
 pubmatic.com, 160872, DIRECT, 5d62403b186f2ace
-
-# adform
 adform.com, 1492, RESELLER, 9f5210a2f0999e32
-
-# admixer
 admixer.net, 35e7f688-d1a7-4c36-bb1a-5704efba117f, DIRECT
 pubmatic.com, 160846, RESELLER, 5d62403b186f2ace
 inmobi.com, 61d733c3779d43e590c51c8bc078e10c, RESELLER, 83e75a7ae333ca9d
@@ -2005,10 +1866,8 @@ pubmatic.com, 137711, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156212, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156700, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 17960, RESELLER, 0bfd66d529a55807
-
-#media.net
-Media.net, 8CUSAW0JQ, DIRECT #OB TRY
-Media.net, 8CUI23I1K, DIRECT #OB USD
+Media.net, 8CUSAW0JQ, DIRECT
+Media.net, 8CUI23I1K, DIRECT
 Media.net, 8CU93337U, DIRECT
 openx.com, 537100188, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
@@ -2021,8 +1880,6 @@ sonobi.com, 83729e979b, RESELLER
 33across.com, 0010b00002cGp2AAAS, Reseller, bbea06d9c4d2853c
 rhythmone.com, 3611299104, RESELLER, a670c89d4a324e47
 lemmatechnologies.com, 399, RESELLER, 7829010c5bebd1fb #LEMMA
-
-#adpone
 adpone.com, 6528b24291db081bbcb9, DIRECT
 google.com, pub-2128757167812663, RESELLER, f08c47fec0942fa0
 rubiconproject.com, 17210, RESELLER, 0bfd66d529a55807
@@ -2228,12 +2085,8 @@ onetag.com, 7a4244b2979db22, DIRECT
 smilewanted.com, 3834, RESELLER
 adyoulike.com, 0bce3861af1d6e06fbaaf13529e76b6e, DIRECT
 sharethrough.com, 98z2bw9f, DIRECT, d53b998a7bd4ecd2
-
-
-#triplelift
 triplelift.com, 11527, DIRECT, 6c33edb13117fd86
 triplelift.com, 11527-EB, DIRECT, 6c33edb13117fd86
-
 themediagrid.com, VIY354, DIRECT, 35d5010d7789b49d
 connectad.io, 50, DIRECT, 85ac85a30c93b3e5
 indexexchange.com, 196713, direct
@@ -2319,7 +2172,7 @@ indexexchange.com, 197200, RESELLER, 50b1c356f2c5c8fc
 appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 __________________________
 
-#Ringier Advertising
+#CH #BANNER #Ringier
 teads.tv, 12392, DIRECT, 15a9c44f6d26cbe1
 xandr.com, 9178, DIRECT
 google.com, pub-7554065371255327, RESELLER, f08c47fec0942fa0
