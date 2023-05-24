@@ -1,5 +1,6 @@
 ownerdomain=transfermarkt.de
 managerdomain=mediaimpact.de
+mediaimpact.de, MI0002, DIRECT
 
 #NATIVE #DE #AT
 yieldlab.net, 2131631, DIRECT
