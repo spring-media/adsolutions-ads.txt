@@ -1,5 +1,4 @@
 #Media Impact
-mediaimpact.de, MI1111, DIRECT
 
 #banner
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
@@ -40,8 +39,10 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 #END Media Impact
 
+
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
 
 #InStream #Xymatic
 xymatic.com, 80114aba-bc79-404f-a371-14436f62dd6e, DIRECT

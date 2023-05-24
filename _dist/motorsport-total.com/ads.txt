@@ -1,5 +1,4 @@
 #Media Impact
-mediaimpact.de, MI1111, DIRECT
 
 #banner
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
@@ -40,8 +39,10 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 #END Media Impact
 
+
 ownerdomain=sport-media-group.de
 managerdomain=mediaimpact.de
+mediaimpact.de, MI0004, DIRECT
 
 #Google MSN
 google.com, pub-5972703295500969, DIRECT, f08c47fec0942fa0

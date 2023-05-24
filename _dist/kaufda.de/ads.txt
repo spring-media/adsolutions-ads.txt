@@ -1,5 +1,4 @@
 #Media Impact
-mediaimpact.de, MI1111, DIRECT
 
 #banner
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
@@ -39,5 +38,6 @@ spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 #END Media Impact
+
 
 google.com,pub-9575337692989000,DIRECT,f08c47fec0942fa0
