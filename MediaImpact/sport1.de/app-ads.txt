@@ -1,5 +1,6 @@
 ownerdomain=sport1.de
 managerdomain=mediaimpact.de
+mediaimpact.de, MI0001, DIRECT
 
 # taboola
 taboola.com,1067288,DIRECT,c228e6794e811952
