@@ -1,5 +1,6 @@
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
 
 #Outbrain #Native
 outbrain.com, 00e5f02f77616e31c5079333fc1f167cf1, DIRECT
