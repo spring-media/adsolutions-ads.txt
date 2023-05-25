@@ -1,5 +1,6 @@
 ownerdomain=finanzen.net
 managerdomain=mediaimpact.de
+mediaimpact.de, MI0003, DIRECT
 
 #CP
 #NET Ads
