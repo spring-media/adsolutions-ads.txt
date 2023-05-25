@@ -39,6 +39,7 @@ facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
 ownerdomain=finanzen.net
 managerdomain=mediaimpact.de
+mediaimpact.de, MI0003, DIRECT
 
 #CP
 #NET Ads
