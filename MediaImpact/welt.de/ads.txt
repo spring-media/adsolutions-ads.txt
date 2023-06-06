@@ -1,6 +1,10 @@
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 
+#OTT
+xandr.com,12548,DIRECT
+yieldlab.net,7568866,DIRECT
+pubmatic.com, 163248,DIRECT
 
 #Native #Outbrain #Video
 improvedigital.com,1863, RESELLER
