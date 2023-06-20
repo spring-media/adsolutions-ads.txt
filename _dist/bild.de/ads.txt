@@ -46,6 +46,7 @@ mediaimpact.de, MI1111, DIRECT
 
 subdomain=spiele.bild.de
 subdomain=play.bild.de
+subdomain=toralarm.bild.de
 
 #OTT
 xandr.com,12548,DIRECT
