@@ -65,6 +65,7 @@ sspx.tech, dspx81, DIRECT
 adform.com, 3001, RESELLER
 pubmatic.com, 163037, RESELLER
 rubiconproject.com, 25488, RESELLER
+improvedigital.com, 2083, RESELLER
 
 #OTT
 xandr.com,12548,DIRECT
