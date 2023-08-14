@@ -66,6 +66,29 @@ adform.com, 3001, RESELLER
 pubmatic.com, 163037, RESELLER
 rubiconproject.com, 25488, RESELLER
 improvedigital.com, 2083, RESELLER
+yieldlab.net, 10710236, RESELLER
+yieldlab.net, 2172218, RESELLER
+yieldlab.net, 227224, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 495507, RESELLER
+yieldlab.net, 5798882, RESELLER
+yieldlab.net, 5494672, RESELLER
+yieldlab.net, 2329165, RESELLER
+yieldlab.net, 961276, RESELLER
+google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
+smartstream.tv, 439, RESELLER
+sspx.tech, dspx77, DIRECT
+target-video.com, 1002, DIRECT
+xandr.com, 12279, RESELLER
+xandr.com, 7445, RESELLER
+appnexus.com, 3368, RESELLER
+appnexus.com, 13424, RESELLER, f5ab79cb980f11d1
+xandr.com, 13424, RESELLER, f5ab79cb980f11d1
+pubmatic.com, 161656, RESELLER, 5d62403b186f2ace
+pubmatic.com, 161997, RESELLER, 5d62403b186f2ace
+improvedigital.com, 2098, RESELLER
+improvedigital.com, 2050, RESELLER
 
 #accompanying-content #Video
 connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
@@ -94,29 +117,6 @@ google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 
 #accompanying-content #EMEA #Video #Outstream
 pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
-yieldlab.net, 10710236, RESELLER
-yieldlab.net, 2172218, RESELLER
-yieldlab.net, 227224, RESELLER
-yieldlab.net, 506261, RESELLER
-yieldlab.net, 6374282, RESELLER
-yieldlab.net, 495507, RESELLER
-yieldlab.net, 5798882, RESELLER
-yieldlab.net, 5494672, RESELLER
-yieldlab.net, 2329165, RESELLER
-yieldlab.net, 961276, RESELLER
-google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
-smartstream.tv, 439, RESELLER
-sspx.tech, dspx77, DIRECT
-target-video.com, 1002, DIRECT
-xandr.com, 12279, RESELLER
-xandr.com, 7445, RESELLER
-appnexus.com, 3368, RESELLER
-appnexus.com, 13424, RESELLER, f5ab79cb980f11d1
-xandr.com, 13424, RESELLER, f5ab79cb980f11d1
-pubmatic.com, 161656, RESELLER, 5d62403b186f2ace
-pubmatic.com, 161997, RESELLER, 5d62403b186f2ace
-improvedigital.com, 2098, RESELLER
-improvedigital.com, 2050, RESELLER
 
 
 #OTT
