@@ -47,6 +47,7 @@ mediaimpact.de, MI1111, DIRECT
 subdomain=spiele.bild.de
 subdomain=play.bild.de
 subdomain=toralarm.bild.de
+subdomain=sportbild.bild.de
 
 #toralarm
 google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
