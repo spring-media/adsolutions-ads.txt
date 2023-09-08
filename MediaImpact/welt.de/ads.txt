@@ -1,5 +1,6 @@
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
 
 #OTT
 xandr.com,12548,DIRECT
