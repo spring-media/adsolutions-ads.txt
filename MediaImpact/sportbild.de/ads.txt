@@ -2,6 +2,9 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
+#toralarm
+google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
+
 #Outbrain #Native
 
 outbrain.com, 00beed60cfaa57c1ce80346eaf1ca4c835, DIRECT
