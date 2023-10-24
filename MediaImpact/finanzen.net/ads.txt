@@ -322,7 +322,7 @@ yieldlab.net, 6248161, RESELLER
 yieldlab.net, 6374282, RESELLER
 
 #accompanying-content #Video
-connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
+connatix.com, 1507637255716038, DIRECT, 2af98acdee0e81ed
 pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
 google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
