@@ -5,8 +5,7 @@ appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
-aps.amazon.com, 3135, DIRECT #display
-aps.amazon.com, 3135, DIRECT #video
+aps.amazon.com, 3135, DIRECT
 openx.com,539948074,DIRECT,6a698e2ec38604c6
 openx.com, 540038340, DIRECT, 6a698e2ec38604c6
 smartadserver.com,251,DIRECT
