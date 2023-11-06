@@ -42,6 +42,10 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 #END Media Impact
 
 
+ownerdomain=de.motorsport.com
+managerdomain=mediaimpact.de
+mediaimpact.de, MI0009, DIRECT
+
 # Motorsport Network
 
 # ads.txt file for de.motorsport.com
