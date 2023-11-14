@@ -36,7 +36,7 @@ freewheel.tv, 1142945, RESELLER  # Premium video demand
 freewheel.tv, 1143393, RESELLER # Premium video demand
 improvedigital.com, 1581, RESELLER # Premium video demand
 onetag.com, 57e618150c70d90, RESELLER  # Premium video demand
-pubmatic,100531,RESELLER #instream video by outbrain
+pubmatic.com,100531,RESELLER #instream video by outbrain
 contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain
 rubiconproject.com,16392,RESELLER #instream video by outbrain
 smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
