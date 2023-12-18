@@ -76,8 +76,8 @@ contextweb.com,561689,RESELLER,89ff185a4c4e857c
 appnexus.com,2154,RESELLER
 freewheel.tv, 1144081, RESELLER
 # Spot.IM
-Spotim.Market, 266658, Direct
-Spot.IM, 266658, Direct
+spotim.market, 266658, DIRECT
+spot.im, 266658, Direct
 google.com, pub-5616046187545019, DIRECT, f08c47fec0942fa0
 advertising.com, 21364, RESELLER
 openx.com, 539466082, RESELLER, 6a698e2ec38604c6
@@ -102,7 +102,7 @@ Media.net, 8CUU04S3F, RESELLER
 rhythmone.com, 915882568, RESELLER, a670c89d4a324e47
 sharethrough.com, d5183e17, RESELLER, d53b998a7bd4ecd2
 gumgum.com, 13579, RESELLER, ffdef49475d318a9
-EMXDGT.com, 669, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 669, RESELLER, 1e1d41537f7cad7f
 districtm.io, 101784, RESELLER
 indexexchange.com, 189478, RESELLER
 indexexchange.com, 189529, RESELLER
@@ -128,7 +128,7 @@ openx.com, 537153564, RESELLER, 6a698e2ec38604c6
 synacor.com, 82101, RESELLER, e108f11b2cdf7d5b
 advertising.com, 19623, RESELLER
 openx.com, 540634634, RESELLER, 6a698e2ec38604c6
-EMXDGT.com, 1251, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1251, RESELLER, 1e1d41537f7cad7f
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 districtm.io, 101856, RESELLER, 3fd707be9c4527c3
 appnexus.com, 1908, RESELLER, f5ab79cb980f11d1
@@ -394,7 +394,7 @@ criteo.com, B-060808, RESELLER, 9fac4a4a87c2a44f
 
 teads.tv, 17711, RESELLER, 15a9c44f6d26cbe1
 
-EMXDGT.com,1758, RESELLER, 1e1d41537f7cad7f
+emxdgt.com,1758, RESELLER, 1e1d41537f7cad7f
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 
 appnexus.com, 13044, RESELLER

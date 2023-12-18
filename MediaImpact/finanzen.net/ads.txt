@@ -84,7 +84,7 @@ yieldlab.net, 495507, DIRECT #instream video by outbrain
 #Addefend #AdBlocker
 152media.info, 152M348, RESELLER
 33across.com, 0010b00002MptHCAAZ, RESELLER, bbea06d9c4d2853c
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
 addefend.com, 20009, DIRECT
 addefend.com, 20009, RESELLER
 adform.com, 1819, RESELLER, 9f5210a2f0999e32

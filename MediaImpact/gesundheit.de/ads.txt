@@ -80,7 +80,7 @@ contextweb.com, 561365, RESELLER
 criteo.com, 15826, DIRECT
 districtm.io, 101161, DIRECT
 districtm.io, 101359, RESELLER
-EMXDGT.com, 63, RESELLER
+emxdgt.com, 63, RESELLER
 freewheel.tv, 19129, RESELLER
 freewheel.tv, 19133, RESELLER
 google.com, pub-1274416353693598, DIRECT

@@ -122,7 +122,7 @@ aol.com, 58578, RESELLER, e1a5b5b6e3255540
 appnexus.com, 11197, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11664, RESELLER
 districtm.io, 101760, RESELLER, 3fd707be9c4527c3
-EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1966, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 282594, RESELLER
 freewheel.tv, 282786, RESELLER
 freewheel.tv, 282802, RESELLER

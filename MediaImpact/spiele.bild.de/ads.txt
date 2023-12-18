@@ -130,7 +130,7 @@ smartadserver.com, 4074, DIRECT #SMRT S2S
 plista.com, 1461762, RESELLER #AdDefend
 appnexus.com, 3563, RESELLER #AdDefend
 appnexus.com, 7790, RESELLER #AdDefend
-EMXDGT.com, 1405, DIRECT, 1e1d41537f7cad7f
+emxdgt.com, 1405, DIRECT, 1e1d41537f7cad7f
 facebook.com, 800276686708279, RESELLER, c3e20eee3f780d68
 adagio.io, 1092, DIRECT #ADG
 rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807 #ADG
@@ -174,7 +174,7 @@ google.com, pub-4177862836555934, RESELLER, f08c47fec0942fa0
 google.com, pub-1071602463683652, RESELLER, f08c47fec0942fa0
 yahoo.com, 59133, DIRECT, e1a5b5b6e3255540
 yahoo.com, 59356, DIRECT, e1a5b5b6e3255540
-EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1966, RESELLER, 1e1d41537f7cad7f
 
 # Start Conative
 yieldlab.net, 227224, RESELLER
@@ -307,7 +307,7 @@ appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1868, RESELLER #banner
 contextweb.com, 558299, RESELLER, 89ff185a4c4e857c
 contextweb.com, 562258, RESELLER, 89ff185a4c4e857c
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
 indexexchange.com, 183875, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 184110, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 184349, RESELLER, 50b1c356f2c5c8fc

@@ -195,7 +195,7 @@ appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 6924, RESELLER, f5ab79cb980f11d1
 connectad.io, 305, RESELLER, 85ac85a30c93b3e5
 conversantmedia.com, 100098, RESELLER, 03113cd04947736d
-EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1966, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 1076049, DIRECT
 freewheel.tv, 1076065, RESELLER
 freewheel.tv, 1131585, RESELLER
