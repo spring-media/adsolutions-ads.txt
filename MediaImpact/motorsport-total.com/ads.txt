@@ -90,7 +90,7 @@ freewheel.tv, 1107089, RESELLER
 rubiconproject.com, 15476, RESELLER, 0bfd66d529a55807
 smartadserver.com, 1408, RESELLER
 stroeer.com, 18840, RESELLER
-adform.com, 1210, Reseller, 9f5210a2f0999e32
+adform.com, 1210, RESELLER, 9f5210a2f0999e32
 appnexus.com, 3480, RESELLER, f5ab79cb980f11d1
 rhythmone.com, 1014191143, DIRECT, a670c89d4a324e47
 rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47
@@ -177,7 +177,7 @@ tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand ak
 teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # premium video demand
 advertising.com, 26154, RESELLER # Premium video demand
 spotxchange.com, 225721, RESELLER # Premium video demand
-Freewheel.tv, 741650, RESELLER # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
 lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
@@ -209,7 +209,7 @@ vi.ai, 987349031605160, DIRECT #instream video by outbrain
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
 pubmatic.com, 158055, RESELLER, 5d62403b186f2ace #instream video by outbrain
 rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
-Indexexchange.com, 190500, RESELLER #instream video by outbrain
+indexexchange.com, 190500, RESELLER #instream video by outbrain
 smartadserver.com,2776,RESELLER #instream video by outbrain
 openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
 freewheel.tv, 1385090, RESELLER #instream video by outbrain
@@ -217,7 +217,7 @@ freewheel.tv, 1385106, RESELLER #instream video by outbrain
 yahoo.com, 59658, RESELLER #instream video by outbrain
 media.net, 8CUIH830U, RESELLER #instream video by outbrain
 triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
-improvedigital.com, 1552, Reseller #instream video by outbrain
+improvedigital.com, 1552, RESELLER #instream video by outbrain
 outbrain.com, 00ec43c044f3e735d21d0e1987d5f7cb94, DIRECT
 vi.ai, g-005b2fc41d050848cadd07803135b49b95, DIRECT #instream video by outbrain
 contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
