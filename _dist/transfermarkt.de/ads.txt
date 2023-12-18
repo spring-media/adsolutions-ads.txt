@@ -417,7 +417,7 @@ rubiconproject.com, 16928, RESELLER, 0bfd66d529a55807
 media.net, 8CUQ9820H, DIRECT
 stroeer.com, 17421, DIRECT
 adform.com, 716, DIRECT
-EMXDGT.com, 1332, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1332, RESELLER, 1e1d41537f7cad7f
 emxdgt.com, 1643, RESELLER, 1e1d41537f7cad7f
 emxdgt.com, 63, RESELLER
 indexexchange.com, 183592, DIRECT
@@ -439,7 +439,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -465,7 +465,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -485,7 +485,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -505,7 +505,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -525,7 +525,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -545,7 +545,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -565,7 +565,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -585,7 +585,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -605,7 +605,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -625,7 +625,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -645,7 +645,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -667,7 +667,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -685,7 +685,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -709,7 +709,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -729,7 +729,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -749,7 +749,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -769,7 +769,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -789,7 +789,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -809,7 +809,7 @@ tremorhub.com,q017o-78mlk,RESELLER,1a4e959a1b50034a
 teads.tv,15429,RESELLER,15a9c44f6d26cbe1
 advertising.com,26154,RESELLER
 spotxchange.com,225721,RESELLER
-Freewheel.tv,741650,RESELLER
+freewheel.tv,741650,RESELLER
 rubiconproject.com,17130,RESELLER,0bfd66d529a55807
 lkqd.net,450,RESELLER,59c49fa9598a0117
 openx.com,540393169,RESELLER,6a698e2ec38604c6
@@ -983,7 +983,7 @@ rubiconproject.com, 24386, RESELLER, 0bfd66d529a55807
 adform.com, 2736, RESELLER, 9f5210a2f0999e32
 advertising.com, 9516, RESELLER
 appnexus.com, 11197, RESELLER, f5ab79cb980f11d1
-EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1966, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 282594, RESELLER
 freewheel.tv, 282786, RESELLER
 freewheel.tv, 282802, RESELLER
@@ -1150,8 +1150,8 @@ freewheel.tv, 222017, RESELLER
 freewheel.tv, 222025, RESELLER
 freewheel.tv, 151177, RESELLER
 freewheel.tv, 414097, RESELLER
-Freewheel.tv, 440993, RESELLER
-Freewheel.tv, 440961, RESELLER
+freewheel.tv, 440993, RESELLER
+freewheel.tv, 440961, RESELLER
 freewheel.tv, 106849, RESELLER
 freewheel.tv, 146081, RESELLER
 freewheel.tv, 144617, RESELLER
@@ -1196,7 +1196,7 @@ improvedigital.com, 185, RESELLER
 indexexchange.com, 176280, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 184809, RESELLER, 50b1c356f2c5c8fc
 indexexchange.com, 183592, RESELLER, 50b1c356f2c5c8fc
-IndexExchange.com, 183876, RESELLER
+indexexchange.com, 183876, RESELLER
 indexexchange.com, 186405, RESELLER
 indexexchange.com, 179394, RESELLER
 indexexchange.com, 175407, RESELLER
@@ -1415,7 +1415,7 @@ admanmedia.com, 799, RESELLER
 smartadserver.com, 4005, RESELLER
 bidtellect.com, 1407, RESELLER, 1c34aa2d85d45e93
 contextweb.com, 558355, RESELLER
-EMXDGT.com, 1284, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1284, RESELLER, 1e1d41537f7cad7f
 33across.com, 0013300001r0t9mAAA, RESELLER, bbea06d9c4d2853c
 synacor.com, 82151, RESELLER, e108f11b2cdf7d5b
 rhythmone.com, 78519861, RESELLER, a670c89d4a324e47
@@ -1473,7 +1473,7 @@ openx.com, 540362347, RESELLER, 6a698e2ec38604c6
 appnexus.com, 10736, RESELLER
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
 adform.com, 2611, RESELLER
-Indexexchange.com, 190500, DIRECT
+indexexchange.com, 190500, DIRECT
 freewheel.tv, 440657, RESELLER
 freewheel.tv, 440673, RESELLER
 freewheel.tv, 364193, RESELLER
@@ -1557,7 +1557,7 @@ teads.tv, 14841, DIRECT, 15a9c44f6d26cbe1
 vi.ai, 382373401295166, DIRECT
 freewheel.tv, 440657, RESELLER
 freewheel.tv, 440673, RESELLER
-adform.com, 1210, Reseller, 9f5210a2f0999e32
+adform.com, 1210, RESELLER, 9f5210a2f0999e32
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
 openx.com, 540362347, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 158055, RESELLER, 5d62403b186f2ace
@@ -1663,7 +1663,7 @@ appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
 freewheel.tv, 1142945, RESELLER # Premium video demand
 freewheel.tv, 1143393, RESELLER # Premium video demand
-Freewheel.tv, 741650, RESELLER # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
 google.com, pub-8804303781641925, RESELLER, f08c47fec0942fa0 # Premium video demand
 improvedigital.com, 1581, RESELLER # Premium video demand
 improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
@@ -1707,7 +1707,7 @@ themediagrid.com, 135KQ2, RESELLER, 35d5010d7789b49d
 appnexus.com, 8291, RESELLER
 pubmatic.com, 161616, DIRECT, 5d62403b186f2ace
 yahoo.com, 59658, RESELLER
-improvedigital.com, 1552, Reseller
+improvedigital.com, 1552, RESELLER
 triplelift.com, 11547, RESELLER, 6c33edb13117fd86
 rubiconproject.com, 24318, RESELLER, 0bfd66d529a55807
 4strokemedia.com, 684, DIRECT ef9e7658006e9654
@@ -1783,7 +1783,7 @@ appnexus.com, 1868, RESELLER
 appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 appnexus.com, 11664, RESELLER
 pubmatic.com, 156084, RESELLER, 5d62403b186f2ace #video
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
 outbrain.com, 00fe7cdd9f63b40ea93c0c4ae346bf4541, DIRECT
 vi.ai, 987349031605160, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
@@ -1874,13 +1874,13 @@ Media.net, 8CUI23I1K, DIRECT
 Media.net, 8CU93337U, DIRECT
 openx.com, 537100188, RESELLER, 6a698e2ec38604c6
 pubmatic.com, 159463, RESELLER, 5d62403b186f2ace
-EMXDGT.com, 1759, Reseller, 1e1d41537f7cad7f
+emxdgt.com, 1759, RESELLER, 1e1d41537f7cad7f
 Appnexus.com, 1356, RESELLER, f5ab79cb980f11d1
 google.com, pub-7439041255533808, RESELLER, f08c47fec0942fa0
-rubiconproject.com, 19396, Reseller, 0bfd66d529a55807
-onetag.com, 5d49f482552c9b6, Reseller
+rubiconproject.com, 19396, RESELLER, 0bfd66d529a55807
+onetag.com, 5d49f482552c9b6, RESELLER
 sonobi.com, 83729e979b, RESELLER
-33across.com, 0010b00002cGp2AAAS, Reseller, bbea06d9c4d2853c
+33across.com, 0010b00002cGp2AAAS, RESELLER, bbea06d9c4d2853c
 rhythmone.com, 3611299104, RESELLER, a670c89d4a324e47
 lemmatechnologies.com, 399, RESELLER, 7829010c5bebd1fb #LEMMA
 adpone.com, 6528b24291db081bbcb9, DIRECT

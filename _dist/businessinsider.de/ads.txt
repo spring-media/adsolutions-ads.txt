@@ -57,7 +57,7 @@ tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand ak
 teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
 advertising.com, 26154, RESELLER # Premium video demand
 spotxchange.com, 225721, RESELLER # Premium video demand
-Freewheel.tv, 741650, RESELLER # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
 lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
@@ -98,7 +98,7 @@ xandr.com, 10736, RESELLER #instream video by outbrain
 rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
 rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47 #instream video by outbrain
 video.unrulymedia.com, 1014191143, RESELLER #instream video by outbrain
-Indexexchange.com, 190500, RESELLER #instream video by outbrain
+indexexchange.com, 190500, RESELLER #instream video by outbrain
 smartadserver.com,2776,RESELLER #instream video by outbrain
 openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
 spotxchange.com, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
@@ -108,12 +108,12 @@ freewheel.tv, 1385106, RESELLER #instream video by outbrain
 yahoo.com, 59658, RESELLER #instream video by outbrain
 media.net, 8CUIH830U, RESELLER #instream video by outbrain
 triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
-improvedigital.com, 1552, Reseller #instream video by outbrain
+improvedigital.com, 1552, RESELLER #instream video by outbrain
 outbrain.com, 00ec357db9c6c574051baf9a1f56d204fa, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
 spotxchange.com, 225721, RESELLER # Premium video demand
-Freewheel.tv, 741650, RESELLER # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
 lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
@@ -141,7 +141,7 @@ xandr.com, 10736, RESELLER #instream video by outbrain
 rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
 rhythmone.com, 1014191143, RESELLER, a670c89d4a324e47 #instream video by outbrain
 video.unrulymedia.com, 1014191143, RESELLER #instream video by outbrain
-Indexexchange.com, 190500, RESELLER #instream video by outbrain
+indexexchange.com, 190500, RESELLER #instream video by outbrain
 smartadserver.com,2776,RESELLER #instream video by outbrain
 openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
 spotxchange.com, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
@@ -149,7 +149,7 @@ spotx.tv, 304237, RESELLER, 7842df1d2fe2db34 #instream video by outbrain
 yahoo.com, 59658, RESELLER #instream video by outbrain
 media.net, 8CUIH830U, RESELLER #instream video by outbrain
 triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
-improvedigital.com, 1552, Reseller #instream video by outbrain
+improvedigital.com, 1552, RESELLER #instream video by outbrain
 yieldlab.net, 227224, RESELLER #instream video by outbrain
 yieldlab.net, 5798882, RESELLER #instream video by outbrain
 yieldlab.net, 5494672, RESELLER #instream video by outbrain
@@ -195,7 +195,7 @@ appnexus.com, 11924, RESELLER, f5ab79cb980f11d1
 appnexus.com, 6924, RESELLER, f5ab79cb980f11d1
 connectad.io, 305, RESELLER, 85ac85a30c93b3e5
 conversantmedia.com, 100098, RESELLER, 03113cd04947736d
-EMXDGT.com, 1966, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 1966, RESELLER, 1e1d41537f7cad7f
 freewheel.tv, 1076049, DIRECT
 freewheel.tv, 1076065, RESELLER
 freewheel.tv, 1131585, RESELLER
