@@ -5,25 +5,25 @@ appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
 yieldlab.net,453131,DIRECT
 yieldlab.net,227224,RESELLER
-aps.amazon.com,3135,DIRECT
+aps.amazon.com, 3135, DIRECT
 openx.com,539948074,DIRECT,6a698e2ec38604c6
-openx.com,540038340,DIRECT,6a698e2ec38604c6
+openx.com, 540038340, DIRECT, 6a698e2ec38604c6
 smartadserver.com,251,DIRECT
 smartadserver.com,3571,DIRECT
-pubmatic.com,157222,DIRECT
-pubmatic.com,156678,DIRECT
-pubmatic.com,161921,DIRECT
-indexexchange.com,188480,DIRECT
-indexexchange.com,188479,DIRECT
-rubiconproject.com,19248,DIRECT,0bfd66d529a55807
-rubiconproject.com,10113,DIRECT,0bfd66d529a55807
-triplelift.com,5791-EB,DIRECT,6c33edb13117fd86
-triplelift.com,5791,DIRECT,6c33edb13117fd86
-improvedigital.com,2019,DIRECT
-adform.com,2858,DIRECT
-criteo.com,B-048188,DIRECT,9fac4a4a87c2a44f
-themediagrid.com,HV95CQ,DIRECT,35d5010d7789b49d
-sspx.tech,dspx64,RESELLER
+pubmatic.com,157222, DIRECT
+pubmatic.com, 156678, DIRECT
+pubmatic.com, 161921, DIRECT
+indexexchange.com, 188480, DIRECT
+indexexchange.com, 188479, DIRECT
+rubiconproject.com, 19248, DIRECT, 0bfd66d529a55807
+rubiconproject.com, 10113, DIRECT, 0bfd66d529a55807
+triplelift.com, 5791-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 5791, DIRECT, 6c33edb13117fd86
+improvedigital.com, 2019, DIRECT
+adform.com, 2858, DIRECT
+criteo.com, B-048188, DIRECT, 9fac4a4a87c2a44f
+themediagrid.com, HV95CQ, DIRECT, 35d5010d7789b49d
+sspx.tech, dspx64, RESELLER
 
 #outstream
 teads.tv,5632,RESELLER,15a9c44f6d26cbe1

@@ -65,30 +65,53 @@ xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
 
-#accompanying-content #Video
-connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
-pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
-google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
-indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
-openx.com, 539496816, RESELLER, 6a698e2ec38604c6
-triplelift.com, 12200, RESELLER, 6c33edb13117fd86
-google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
-gannett.com, 22597229605, RESELLER
-freewheel.tv, 1064705, RESELLER
-contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
-media.net, 8CUP5F2LD, RESELLER
-media.net, 8CU95X561, RESELLER
-appnexus.com, 9733, RESELLER
-inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, RESELLER, 83e75a7ae333ca9d
-33across.com, 0015a00002y7TWTAA2, RESELLER, bbea06d9c4d2853c #33Across #hb #tag
-supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
-smartadserver.com, 3630, RESELLER
-loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
-resetdigital.co, 210, RESELLER
-yieldmo.com, 3286586829842621292, RESELLER
-didna.io, 494n1p17081a, DIRECT
-google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+#Outbrain #Native #Outstream
+aniview.com, 58a5addb28a0612d3529bc5e, RESELLER, 78b21b97965ec3f8 # Premium video demand
+freewheel.tv, 1142945, RESELLER  # Premium video demand
+freewheel.tv, 1143393, RESELLER # Premium video demand
+improvedigital.com, 1581, RESELLER # Premium video demand
+onetag.com, 57e618150c70d90, RESELLER  # Premium video demand
+freewheel.tv, 1133073, RESELLER #instream video by outbrain
+freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
+pubmatic.com,100531,RESELLER #instream video by outbrain
+contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium video demand from Outbrain
+rubiconproject.com,16392,RESELLER #instream video by outbrain
+telaria.com,9l6ha-6m433,RESELLER,1a4e959a1b50034a #instream video by outbrain
+tremorhub.com,9l6ha-6m433,RESELLER,1a4e959a1b50034a #instream video by outbrain
+smaato.com, 1100048704, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
+smaato.com, 1100054606, RESELLER, 07bcf65f187117b4 # Premium video demand from Outbrain
+sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b #instream video by outbrain
+
+#Outbrain #Native 
+beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
+imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain
+sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2
+synacor.com, 82423, RESELLER, e108f11b2cdf7d5b # Premium video demand from Outbrain
+
+#accompanying-content #Video
+connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+gannett.com, 22597229605, RESELLER
+freewheel.tv, 1064705, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+media.net, 8CUP5F2LD, RESELLER
+media.net, 8CU95X561, RESELLER
+appnexus.com, 9733, RESELLER
+inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, RESELLER, 83e75a7ae333ca9d
+33across.com, 0015a00002y7TWTAA2, RESELLER, bbea06d9c4d2853c #33Across #hb #tag
+supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
+smartadserver.com, 3630, RESELLER
+loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
+resetdigital.co, 210, RESELLER
+yieldmo.com, 3286586829842621292, RESELLER
+didna.io, 494n1p17081a, DIRECT
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 telaria.com,1deq6-krwt1,DIRECT,1a4e959a1b50034a
 tremorhub.com,1deq6-krwt1,DIRECT,1a4e959a1b50034a
 xandr.com,12548,DIRECT
