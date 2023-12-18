@@ -24,8 +24,8 @@ appnexus.com, 3702, RESELLER, f5ab79cb980f11d1
 pubstream.com, 21442, DIRECT
 
 #Outbrain #Native
-Freewheel.tv, 741650, RESELLER # Premium video demand
-Indexexchange.com, 190500, RESELLER #instream video by outbrain
+freewheel.tv, 741650, RESELLER # Premium video demand
+indexexchange.com, 190500, RESELLER #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 aps.amazon.com, 3965, RESELLER #instream video by outbrain4
@@ -37,7 +37,7 @@ freewheel.tv, 1385106, RESELLER #instream video by outbrain
 freewheel.tv, 1388882, RESELLER #instream video by outbrain
 freewheel.tv, 1388978, RESELLER #instream video by outbrain
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
-improvedigital.com, 1552, Reseller #instream video by outbrain
+improvedigital.com, 1552, RESELLER #instream video by outbrain
 improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
@@ -84,7 +84,7 @@ yieldlab.net, 495507, DIRECT #instream video by outbrain
 #Addefend #AdBlocker
 152media.info, 152M348, RESELLER
 33across.com, 0010b00002MptHCAAZ, RESELLER, bbea06d9c4d2853c
-EMXDGT.com, 273, RESELLER, 1e1d41537f7cad7f
+emxdgt.com, 273, RESELLER, 1e1d41537f7cad7f
 addefend.com, 20009, DIRECT
 addefend.com, 20009, RESELLER
 adform.com, 1819, RESELLER, 9f5210a2f0999e32

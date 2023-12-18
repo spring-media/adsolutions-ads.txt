@@ -80,7 +80,7 @@ contextweb.com, 561365, RESELLER
 criteo.com, 15826, DIRECT
 districtm.io, 101161, DIRECT
 districtm.io, 101359, RESELLER
-EMXDGT.com, 63, RESELLER
+emxdgt.com, 63, RESELLER
 freewheel.tv, 19129, RESELLER
 freewheel.tv, 19133, RESELLER
 google.com, pub-1274416353693598, DIRECT
@@ -157,7 +157,7 @@ tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand ak
 teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
 advertising.com, 26154, RESELLER # Premium video demand
 spotxchange.com, 225721, RESELLER # Premium video demand
-Freewheel.tv, 741650, RESELLER # Premium video demand
+freewheel.tv, 741650, RESELLER # Premium video demand
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
 lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand

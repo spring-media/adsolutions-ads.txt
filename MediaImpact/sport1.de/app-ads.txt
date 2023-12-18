@@ -13,7 +13,7 @@ spotxchange.com, 71451, RESELLER
 advertising.com, 8603, RESELLER
 pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
 appnexus.com, 3364, RESELLER
-Indexexchange.com, 183756, RESELLER
+indexexchange.com, 183756, RESELLER
 contextweb.com, 560382, RESELLER
 openx.com, 539154393, RESELLER
 tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
