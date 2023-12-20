@@ -148,3 +148,6 @@ resetdigital.co, 210, RESELLER
 yieldmo.com, 3286586829842621292, RESELLER
 didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+adform.com, 3124, RESELLER
+improvedigital.com, 1845, RESELLER
+
