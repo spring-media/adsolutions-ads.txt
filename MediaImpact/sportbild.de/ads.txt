@@ -82,6 +82,34 @@ yieldlab.net, 5798882, RESELLER #instream video by outbrain
 yieldlab.net, 6248161, RESELLER #instream video by outbrain
 yieldlab.net, 6374282, RESELLER #instream video by outbrain
 
+#accompanying-content #Video
+connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+gannett.com, 22597229605, RESELLER
+freewheel.tv, 1064705, RESELLER
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+media.net, 8CUP5F2LD, RESELLER
+media.net, 8CU95X561, RESELLER
+appnexus.com, 9733, RESELLER
+inmobi.com, 64d831e7ed4840ac8ea2283745f07d75, RESELLER, 83e75a7ae333ca9d
+33across.com, 0015a00002y7TWTAA2, RESELLER, bbea06d9c4d2853c #33Across #hb #tag
+supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
+smartadserver.com, 3630, RESELLER
+loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
+resetdigital.co, 210, RESELLER
+yieldmo.com, 3286586829842621292, RESELLER
+didna.io, 494n1p17081a, DIRECT
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+adform.com, 3124, RESELLER
+improvedigital.com, 1845, RESELLER
+
 #Native #Outbrain #Banner #Outstream
 beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
 contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
