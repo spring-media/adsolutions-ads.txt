@@ -66,7 +66,6 @@ video.unrulymedia.com, 367782854, RESELLER
 rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
 smartadserver.com, 3820, RESELLER
-openx.com, 540393169, RESELLER, 6a698e2ec38604c6
 xandr.com, 7445, RESELLER
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6
 yahoo.com, 59052, RESELLER
@@ -81,7 +80,7 @@ freewheel.tv, 1133073, RESELLER #instream video by outbrain
 freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
 freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
-improvedigital.com, 1552, Reseller #instream video by outbrain
+improvedigital.com, 1552, RESELLER #instream video by outbrain
 indexexchange.com, 190500, RESELLER #instream video by outbrain
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 media.net, 8CUIH830U, RESELLER #instream video by outbrain
@@ -113,10 +112,8 @@ yieldlab.net, 495507, DIRECT #instream video by outbrain
 yieldlab.net, 6248161, RESELLER #instream video by outbrain
 
 #Outbrain #Display #Native
-rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 outbrain.com , 0033126e809141cfce884ba89024dfb691, DIRECT
 pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
-smartadserver.com, 3820, RESELLER
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 smaato.com, 1100048704, RESELLER, 07bcf65f187117b4
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
