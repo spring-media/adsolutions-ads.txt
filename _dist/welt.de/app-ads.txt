@@ -1,4 +1,4 @@
-# File generated on 2024-01-22 11:40:13
+# File generated on 2024-01-22 11:58:19
 #app-ads.txt   Media Impact
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
