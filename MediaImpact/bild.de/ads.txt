@@ -21,7 +21,9 @@ google.com, pub-9006547252383919, RESELLER, f08c47fec0942fa0
 improvedigital.com, 2010, RESELLER
 openx.com, 556411192, RESELLER, 6a698e2ec38604c6
 improvedigital.com, 2083, RESELLER
-
+yieldlab.net, 15465081, RESELLER   
+pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16392, RESELLER
 
 #accompanying-content #Video
 connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
