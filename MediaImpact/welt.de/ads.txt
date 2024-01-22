@@ -150,4 +150,7 @@ didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
+yieldlab.net, 15465081, RESELLER   
+pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
+rubiconproject.com, 16392, RESELLER
 
