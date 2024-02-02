@@ -1,4 +1,4 @@
-# File generated on 2024-02-01 10:06:33
+# File generated on 2024-02-02 12:41:04
 #Media Impact
 
 #banner
@@ -96,6 +96,7 @@ didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
+goldbach-germany.de,Xymatic,RESELLER
 
 #accompanying-content #EMEA #Video #Outstream
 pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
