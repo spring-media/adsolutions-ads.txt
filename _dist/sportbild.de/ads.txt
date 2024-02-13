@@ -1,4 +1,4 @@
-# File generated on 2024-02-02 12:42:26
+# File generated on 2024-02-13 14:55:16
 #Media Impact
 
 #banner
@@ -156,7 +156,6 @@ adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
 yieldlab.net, 15465081, RESELLER   
 pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 16392, RESELLER
 
 #Native #Outbrain #Banner #Outstream
 beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
