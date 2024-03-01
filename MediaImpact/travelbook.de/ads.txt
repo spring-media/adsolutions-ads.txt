@@ -2,6 +2,9 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #NL #Native #Outbrain
 yieldlab.net, 227224, RESELLER #instream video by outbrain
 outbrain.com, 00fe04dd4cd2545c315eae1fb83fe39763, DIRECT
