@@ -43,6 +43,9 @@ ownerdomain=finanzen.net
 managerdomain=mediaimpact.de
 mediaimpact.de, MI0003, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #CP
 #NET Ads
 google.com, pub-2471698288233937, DIRECT, f08c47fec0942fa0
@@ -77,4 +80,4 @@ pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display deman
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
 
 
-#File generated on 2024-03-01 16:50:22
+#File generated on 2024-03-01 16:50:48
