@@ -1,6 +1,10 @@
 # Welt
 spotx.tv, 106817, DIRECT, 7842df1d2fe2db34 #IPD
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
+
 #Outbrain
 outbrain.com, 00aa1ff7126ba78ac5d98ad584c0e06be4, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
