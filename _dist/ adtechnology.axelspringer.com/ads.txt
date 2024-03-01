@@ -1,4 +1,3 @@
-# File generated on 2024-02-13 14:55:16
 #Media Impact
 
 #banner
@@ -45,3 +44,5 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
+
+#File generated on 2024-03-01 16:49:28

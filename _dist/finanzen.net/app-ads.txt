@@ -1,4 +1,3 @@
-# File generated on 2024-02-13 14:55:17
 #app-ads.txt   Media Impact
 
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
@@ -76,3 +75,6 @@ contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium Video Demand
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
 vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
+
+#File generated on 2024-03-01 16:49:28

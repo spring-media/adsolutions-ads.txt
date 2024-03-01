@@ -1,4 +1,3 @@
-# File generated on 2024-02-13 14:55:16
 #Media Impact
 
 #banner
@@ -48,7 +47,6 @@ managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
 #NL #Native #Outbrain
-yieldlab.net, 227224, RESELLER #instream video by outbrain
 outbrain.com, 008f5a96d208c410a8284f605a8405430b, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
@@ -165,3 +163,6 @@ pubmatic.com, 163248,DIRECT
 adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
 
+
+
+#File generated on 2024-03-01 16:49:28
