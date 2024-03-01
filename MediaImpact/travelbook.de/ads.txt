@@ -3,7 +3,6 @@ managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
 #NL #Native #Outbrain
-yieldlab.net, 227224, RESELLER #instream video by outbrain
 outbrain.com, 00fe04dd4cd2545c315eae1fb83fe39763, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
