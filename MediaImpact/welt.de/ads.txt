@@ -2,6 +2,9 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #OTT
 xandr.com,12548,DIRECT
 yieldlab.net,7568866,DIRECT
