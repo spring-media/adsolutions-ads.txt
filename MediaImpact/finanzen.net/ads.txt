@@ -2,6 +2,9 @@ ownerdomain=finanzen.net
 managerdomain=mediaimpact.de
 mediaimpact.de, MI0003, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #CP #DE #BANNER
 click-performance.com, 880, RESELLER
 pubmatic.com, 158858, RESELLER, 5d62403b186f2ace
