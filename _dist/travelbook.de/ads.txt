@@ -46,6 +46,9 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #NL #Native #Outbrain
 outbrain.com, 00fe04dd4cd2545c315eae1fb83fe39763, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
@@ -164,4 +167,4 @@ adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
 
 
-#File generated on 2024-03-01 16:51:21
+#File generated on 2024-03-01 16:51:48
