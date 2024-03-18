@@ -283,7 +283,6 @@ google.com, pub-1076181631997634, RESELLER, f08c47fec0942fa0
 google.com, pub-8780464503575532, RESELLER, f08c47fec0942fa0
 
 xandr.com, 7445, RESELLER
-yieldlab.net, 227224, RESELLER
 yieldlab.net, 5798882, RESELLER
 yieldlab.net, 506261, RESELLER
 yieldlab.net, 5494672, RESELLER
