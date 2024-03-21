@@ -192,6 +192,7 @@ indexexchange.com, 185192, RESELLER
 rubiconproject.com, 17346, RESELLER, 0bfd66d529a55807
 # Smartclip
 smartclip.net, 13083, DIRECT
+smartclip.net, 9359, DIRECT #IPD
 
 #UOL
 google.com, pub-6330791094260149, RESELLER, f08c47fec0942fa0
