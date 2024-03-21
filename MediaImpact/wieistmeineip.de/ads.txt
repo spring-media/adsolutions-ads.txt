@@ -33,6 +33,7 @@ openx.com, 540999880, RESELLER, 6a698e2ec38604c6
 indexexchange.com, 191812, RESELLER
 appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
 selectmedia.asia, 5f22ccbb9925567d33585ff4, DIRECT # banner, video
+smartclip.net, 9359, DIRECT #IPD
 ########
 
 ######## Google Publisher ID
