@@ -109,8 +109,8 @@ didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
-yieldlab.net, 15465081, RESELLER   
-pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 687806135, RESELLER
+sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
 
 #Native #Outbrain #Banner #Outstream
 beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
