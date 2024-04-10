@@ -213,6 +213,7 @@ yieldlab.net, 6248161, RESELLER #instream video by outbrain
 #accompanying-content #Video
 connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
 pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
 google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
 indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
@@ -236,9 +237,10 @@ didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
 adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
-
+video.unrulymedia.com, 687806135, RESELLER
+sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
 #accompanying-content #EMEA #Video #Outstream
 pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
 
 
-#File generated on 2024-04-08 11:57:19
+#File generated on 2024-04-10 09:52:26
