@@ -54,9 +54,6 @@ improvedigital.com, 1845, RESELLER
 video.unrulymedia.com, 687806135, RESELLER
 sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
 
-#accompanying-content #EMEA #Video #Outstream
-pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
-
 #OTT
 xandr.com,12548,DIRECT
 yieldlab.net,7568866,DIRECT
