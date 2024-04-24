@@ -130,3 +130,21 @@ yahoo.com, 59040, RESELLER, e1a5b5b6e3255540
 
 #Google #check
 google.com, pub-4413578069030916, DIRECT, f08c47fec0942fa0
+
+#video #muted
+adform.com, 3157, DIRECT
+rubiconproject.com, 26414, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 26416, RESELLER, 0bfd66d529a55807
+stroeer.com, 25189, DIRECT
+adform.com, 716, RESELLER
+indexexchange.com, 183592, RESELLER
+smartstream.tv, 463, RESELLER
+xandr.com, 1405, RESELLER
+adform.com,3001,RESELLER
+pubmatic.com,163037,RESELLER
+rubiconproject.com,25488,RESELLER
+sspx.tech, dspx81, DIRECT
+smartadserver.com, 4904, RESELLER, 060d053dcf45cbf3
+smartadserver.com, 4904-OB, RESELLER, 060d053dcf45cbf3
+pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
+pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
