@@ -195,5 +195,8 @@ adform.com, 3124, RESELLER
 improvedigital.com, 1845, RESELLER
 video.unrulymedia.com, 687806135, RESELLER
 sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
+adwmg.com, 100820, RESELLER, c9688a22012618e7
+google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
+
 #accompanying-content #EMEA #Video #Outstream
 pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
