@@ -716,4 +716,4 @@ yoc.com,5762,DIRECT
 inventorypartnerdomain=yieldlove.com
 
 
-#File generated on 2024-05-02 13:11:33
+#File generated on 2024-05-02 16:03:16
