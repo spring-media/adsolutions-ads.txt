@@ -13,6 +13,7 @@ smartadserver.com,3571,DIRECT
 pubmatic.com,157222,DIRECT
 pubmatic.com,156678,DIRECT
 pubmatic.com,161921,DIRECT
+pubmatic.com,164777,DIRECT
 indexexchange.com,188480,DIRECT
 indexexchange.com,188479,DIRECT
 rubiconproject.com,19248,DIRECT,0bfd66d529a55807
@@ -628,4 +629,4 @@ gb-next.ch,gbx-10046,DIRECT,
 smartadserver.com,4453,RESELLER,
 
 
-#File generated on 2024-05-07 10:03:46
+#File generated on 2024-05-08 14:30:16
