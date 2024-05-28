@@ -348,6 +348,11 @@ resetdigital.co, 210, RESELLER
 yieldmo.com, 3286586829842621292, RESELLER
 didna.io, 494n1p17081a, DIRECT
 google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+telaria.com, 9l6ha-bluqa,RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9l6ha-bluqa,RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16392, RESELLER, 0bfd66d529a55807
+pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
+goldbach-germany.de, 70689, RESELLER
 
 #accompanying-content #EMEA #Video #Outstream
 pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
