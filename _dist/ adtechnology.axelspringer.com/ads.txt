@@ -46,4 +46,4 @@ spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 
-#File generated on 2024-05-28 17:08:10
+#File generated on 2024-05-29 09:27:15
