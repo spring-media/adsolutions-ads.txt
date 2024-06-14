@@ -147,3 +147,8 @@ rubiconproject.com, 16392, RESELLER, 0bfd66d529a55807
 pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
 goldbach-germany.de, 70689, RESELLER
 google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
+
+#rms #video
+adswizz.com, rmsi, DIRECT
+adswizz.com, 22, RESELLER
+adswizz.com, 22, DIRECT
