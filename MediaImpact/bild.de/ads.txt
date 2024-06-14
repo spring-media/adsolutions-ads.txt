@@ -157,3 +157,8 @@ smartadserver.com, 4904, RESELLER, 060d053dcf45cbf3
 smartadserver.com, 4904-OB, RESELLER, 060d053dcf45cbf3
 pubmatic.com, 156439, RESELLER, 5d62403b186f2ace
 pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
+
+#rms #video
+adswizz.com, rmsi, DIRECT
+adswizz.com, 22, RESELLER
+adswizz.com, 22, DIRECT
