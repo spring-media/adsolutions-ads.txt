@@ -302,7 +302,6 @@ google.com, pub-3057818873023700, RESELLER
 google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1552, DIRECT
 indexexchange.com, 189507, RESELLER
-indexexchange.com, 190500, RESELLER
 lijit.com, 267974, RESELLER, fafdf38b16bf6b2b
 openx.com, 537148817, RESELLER, 6a698e2ec38604c6
 openx.com, 540362347, RESELLER, 6a698e2ec38604c6
