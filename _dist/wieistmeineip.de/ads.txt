@@ -79,7 +79,6 @@ openx.com, 540999880, RESELLER, 6a698e2ec38604c6
 indexexchange.com, 191812, RESELLER
 appnexus.com, 9684, RESELLER, f5ab79cb980f11d1
 selectmedia.asia, 5f22ccbb9925567d33585ff4, DIRECT # banner, video
-smartclip.net, 9359, DIRECT #IPD
 ########
 
 ######## Google Publisher ID
@@ -87,4 +86,4 @@ google.com, pub-4347119884249993, DIRECT, f08c47fec0942fa0
 ########
 
 
-#File generated on 2024-06-14 16:59:54
+#File generated on 2024-06-18 13:19:08
