@@ -65,9 +65,10 @@ media.net, 8CULQ3LW5, RESELLER
 #OTT
 xandr.com,12548,DIRECT
 yieldlab.net,7568866,DIRECT
-pubmatic.com, 163248,DIRECT
+pubmatic.com,163248,DIRECT
 telaria.com,1deq6-fpk8b,DIRECT,1a4e959a1b50034a
 tremorhub.com,1deq6-fpk8b,DIRECT,1a4e959a1b50034a
+visoon.de,64467,DIRECT
 
 #Outbrain #Native #Outstream
 improvedigital.com,1863, RESELLER
