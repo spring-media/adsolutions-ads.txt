@@ -54,11 +54,12 @@ mobkoi.com, CCFEA434, DIRECT
 #OTT
 xandr.com,12548,DIRECT
 yieldlab.net,7568866,DIRECT
-pubmatic.com, 163248,DIRECT
+pubmatic.com,163248,DIRECT
 telaria.com,1deq6-5q02a,DIRECT,1a4e959a1b50034a
 telaria.com,1deq6-oz0ms,DIRECT,1a4e959a1b50034a
 tremorhub.com,1deq6-5q02a,DIRECT,1a4e959a1b50034a
 tremorhub.com,1deq6-oz0ms,DIRECT,1a4e959a1b50034a
+visoon.de,64467,DIRECT
 
 #Native #Outbrain #Video
 video.unrulymedia.com, 367782854, RESELLER
@@ -199,4 +200,4 @@ adswizz.com, rmsi, DIRECT
 adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
-#File generated on 2024-06-18 13:19:08
+#File generated on 2024-07-12 14:13:33
