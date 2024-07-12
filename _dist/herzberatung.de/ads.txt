@@ -718,4 +718,4 @@ yoc.com,5762,DIRECT
 inventorypartnerdomain=yieldlove.com
 
 
-#File generated on 2024-07-12 14:13:33
+#File generated on 2024-07-12 16:36:27

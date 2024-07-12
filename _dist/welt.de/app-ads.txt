@@ -108,6 +108,7 @@ yieldlab.net, 6248161, RESELLER #instream video by outbrain
 xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
+visoon.de,63427,DIRECT
 
 #rms #video
 adswizz.com, rmsi, DIRECT
@@ -115,4 +116,4 @@ adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
 
-#File generated on 2024-07-12 14:13:35
+#File generated on 2024-07-12 16:36:27
