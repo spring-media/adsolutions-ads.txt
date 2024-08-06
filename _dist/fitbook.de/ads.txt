@@ -53,14 +53,13 @@ outbrain.com, 0052cddb390e499df305d9f8c27866b117, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka Telaria
 spotxchange.com, 225721, RESELLER # Premium video demand
-freewheel.tv, 741650, RESELLER # Premium video demand
 rubiconproject.com, 17130, RESELLER, 0bfd66d529a55807 # Premium video demand
 lkqd.net, 450, RESELLER, 59c49fa9598a0117 # Premium video demand
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
 rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
-vidazoo.com, 1773068026, RESELLER, b6ada874b4d7d0b2 # Premium Video Demand
+
 smartadserver.com, 3820, RESELLER # Premium Video Demand
 video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
@@ -111,11 +110,11 @@ adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
 
 #Outbrain #Native #Outstream
-aniview.com, 58a5addb28a0612d3529bc5e, RESELLER, 78b21b97965ec3f8 # Premium video demand
-freewheel.tv, 1142945, RESELLER  # Premium video demand
-freewheel.tv, 1143393, RESELLER # Premium video demand
+
+
+ # Premium video demand
 improvedigital.com, 1581, RESELLER # Premium video demand
-onetag.com, 57e618150c70d90, RESELLER  # Premium video demand
+
 freewheel.tv, 1133073, RESELLER #instream video by outbrain
 freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
 pubmatic.com,100531,RESELLER #instream video by outbrain
@@ -128,7 +127,7 @@ smaato.com, 1100054606, RESELLER, 07bcf65f187117b4 # Premium video demand from O
 sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b #instream video by outbrain
 
 #Outbrain #Native
-beachfront.com, 14027, RESELLER, e2541279e8e2ca4d # Premium Video Demand
+
 imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain
 sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2
 synacor.com, 82423, RESELLER, e108f11b2cdf7d5b # Premium video demand from Outbrain
@@ -163,11 +162,13 @@ improvedigital.com, 1845, RESELLER
 video.unrulymedia.com, 687806135, RESELLER
 sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
 adwmg.com, 100820, RESELLER, c9688a22012618e7
-telaria.com, 9l6ha-bluqa,RESELLER, 1a4e959a1b50034a
-tremorhub.com, 9l6ha-bluqa,RESELLER, 1a4e959a1b50034a
+telaria.com, 9l6ha-cpa8z, RESELLER, 1a4e959a1b50034a
+tremorhub.com, 9l6ha-cpa8z, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 22884, RESELLER, 0bfd66d529a55807
+
 rubiconproject.com, 16392, RESELLER, 0bfd66d529a55807
 pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
 goldbach-germany.de, 70689, RESELLER
 google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
 
-#File generated on 2024-07-12 16:36:27
+#File generated on 2024-08-06 14:47:18
