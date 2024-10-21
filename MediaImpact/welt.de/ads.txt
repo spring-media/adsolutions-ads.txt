@@ -2,6 +2,9 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
+yieldlab.net, 15465081, RESELLER
+pubmatic.com, 164562, RESELLER
+
 freewheel.tv, 1578381, RESELLER
 mobkoi.com, CCFEA434, DIRECT
 
