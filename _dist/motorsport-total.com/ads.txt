@@ -27,6 +27,7 @@ criteo.com,B-048188,DIRECT,9fac4a4a87c2a44f
 themediagrid.com,HV95CQ,DIRECT,35d5010d7789b49d
 sspx.tech,dspx64,RESELLER
 smartstream.tv, 451, DIRECT
+outbrain.com, 009292b517a5a9925852fc22aff973e415, DIRECT
 
 #outstream
 teads.tv,5632,RESELLER,15a9c44f6d26cbe1
@@ -610,4 +611,4 @@ viralize.com, 6714, DIRECT
 showheroes.com, 6714, DIRECT
 
 
-#File generated on 2024-12-03 16:24:33
+#File generated on 2024-12-03 16:25:09
