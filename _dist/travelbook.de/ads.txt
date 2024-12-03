@@ -187,4 +187,4 @@ goldbach-germany.de, 70689, RESELLER
 adwmg.com, 100820, RESELLER, c9688a22012618e7
 google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
 
-#File generated on 2024-11-22 11:44:59
+#File generated on 2024-12-03 16:24:03
