@@ -100,6 +100,42 @@ pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13510, RESELLER
 appnexus.com, 8233, RESELLER
 
+#Xymatic
+xymatic.com, f2e91b54-8c7e-43a1-87eb-950233039206, DIRECT
+triplelift.com, 14332, DIRECT, 6c33edb13117fd86
+triplelift.com, 14332-EB, DIRECT, 6c33edb13117fd86
+appnexus.com, 16381, DIRECT, f5ab79cb980f11d1
+smartstream.tv, 633, RESELLER
+yieldlab.net, 2172218, RESELLER
+xandr.com, 12279,RESELLER
+telaria.com, 9l6ha-e14kk,RESELLER,1a4e959a1b50034a
+tremorhub.com, 9l6ha-e14kk,RESELLER,1a4e959a1b50034a
+google.com, pub-9006547252383919, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2010, RESELLER
+openx.com, 556411192, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 2083, RESELLER
+yieldlab.net, 15465081, RESELLER
+pubmatic.com,164562, RESELLER
+adform.com, 1210, DIRECT, 9f5210a2f0999e32
+appnexus.com, 3480, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 9623, DIRECT, 0bfd66d529a55807
+pubmatic.com, 158860, RESELLER, 5d62403b186f2ace
+google.com, pub-8490317736235111, DIRECT, f08c47fec0942fa0
+google.com, pub-4296839430913713, DIRECT, f08c47fec0942fa0
+pubmatic.com, 162700, DIRECT, 5d62403b186f2ace
+groupm.com, 103, RESELLER
+yieldlab.net, 961276, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 5798882, RESELLER
+indexexchange.com, 191771, RESELLER, 50b1c356f2c5c8fc
+appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
+adform.com, 3004, RESELLER
+stailamedia.com, 2566586, RESELLER
+rubiconproject.com, 25458, RESELLER
+pubmatic.com, 163251, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4741, RESELLER, 060d053dcf45cbf3
+
 #Outbrain
 outbrain.com, 002662ae9a20ad9322732356e803d4e42c, DIRECT
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
@@ -153,4 +189,4 @@ google.com, pub-2557501611105071, DIRECT, f08c47fec0942fa0
 ########
 
 
-#File generated on 2024-12-03 16:25:09
+#File generated on 2025-01-17 12:28:13
