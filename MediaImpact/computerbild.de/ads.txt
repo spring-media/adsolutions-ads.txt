@@ -1,4 +1,4 @@
-ownerdomain = axelspringer.com
+ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
