@@ -51,6 +51,8 @@ pubmatic.com, 81564, RESELLER, 5d62403b186f2ace
 pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13510, RESELLER
 appnexus.com, 8233, RESELLER
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
 
 #Xymatic
 xymatic.com, f2e91b54-8c7e-43a1-87eb-950233039206, DIRECT
