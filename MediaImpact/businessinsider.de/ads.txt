@@ -34,6 +34,8 @@ google.com, pub-8804303781641925, RESELLER, f08c47fec0942fa0
 improvedigital.com, 1581, RESELLER
 improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
 
 
 pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
