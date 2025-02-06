@@ -241,5 +241,8 @@ adswizz.com, rmsi, DIRECT
 adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
 
-#File generated on 2025-02-04 16:51:59
+
+#File generated on 2025-02-06 11:10:54

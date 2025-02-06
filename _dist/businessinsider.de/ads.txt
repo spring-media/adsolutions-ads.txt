@@ -270,5 +270,8 @@ yieldlab.net, 9935198, RESELLER
 appnexus.com,11120,DIRECT
 indexexchange.com, 183963, DIRECT, 50b1c356f2c5c8fc
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
 
-#File generated on 2025-02-04 16:51:59
+
+#File generated on 2025-02-06 11:10:54
