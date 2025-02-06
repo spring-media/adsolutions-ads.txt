@@ -132,6 +132,9 @@ pubmatic.com, 156538, RESELLER, 5d62403b186f2ace
 rubiconproject.com, 13510, RESELLER
 appnexus.com, 8233, RESELLER
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 rubiconproject.com, 16392, RESELLER, 0bfd66d529a55807
 pubmatic.com, 162439, RESELLER, 5d62403b186f2ace
 goldbach-germany.de, 70689, RESELLER
