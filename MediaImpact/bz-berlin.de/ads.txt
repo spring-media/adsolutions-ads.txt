@@ -6,6 +6,9 @@ mediaimpact.de, MI1111, DIRECT
 google.com,pub-1075083039775659,DIRECT
 google.com,pub-8077209740919640,DIRECT,f08c47fec0942fa0
 
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
+
 #showheroes #outstream
 adform.com,1819,RESELLER,9f5210a2f0999e32
 adform.com,183,RESELLER
