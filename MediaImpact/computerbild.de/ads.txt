@@ -144,3 +144,6 @@ outbrain.com, 00940d2b73a9551c4805f15ac1bcd1120b, DIRECT
 #TBC
 google.com, pub-4347119884249993, DIRECT, f08c47fec0942fa0
 google.com, pub-4652277944828936, DIRECT, f08c47fec0942fa0
+
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
