@@ -62,6 +62,8 @@ yieldlab.net, 6248161, RESELLER #instream video by outbrain
 xandr.com, 1504, RESELLER, f5ab79cb980f11d1 #instream video by outbrain
 adform.com, 2611, RESELLER #instream video by outbrain
 aps.amazon.com, 3965, RESELLER #instream video by outbrain
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
 
 #Outbrain #Native #Outstream
 
