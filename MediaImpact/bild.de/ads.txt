@@ -192,3 +192,6 @@ pubmatic.com, 154037, RESELLER, 5d62403b186f2ace
 adswizz.com, rmsi, DIRECT
 adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
+
+freewheel.tv, 1578381, RESELLER
+mobkoi.com, CCFEA434, DIRECT
