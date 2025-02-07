@@ -2,7 +2,6 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
-yieldlab.net, 15465081, RESELLER
 pubmatic.com, 164562, RESELLER
 
 freewheel.tv, 1578381, RESELLER
@@ -102,16 +101,12 @@ google.com, pub-9829476400767085, DIRECT, f08c47fec0942fa0
 appnexus.com, 8833, DIRECT, f5ab79cb980f11d1
 appnexus.com, 3368, RESELLER
 google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
-indexexchange.com, 191771, RESELLER, 50b1c356f2c5c8fc
 openx.com, 539246483, RESELLER
 pubmatic.com, 158858, RESELLER, 5d62403b186f2ace
 smartstream.tv, 439, RESELLER
 spotx.tv, 139220, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 139220, RESELLER, 7842df1d2fe2db34
 yieldlab.net, 10710236, RESELLER
-yieldlab.net, 2172218, RESELLER
-yieldlab.net, 506261, RESELLER
-yieldlab.net, 6374282, RESELLER
 
 #accompanying-content #Video
 connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
