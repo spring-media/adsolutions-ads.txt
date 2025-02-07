@@ -50,7 +50,6 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
-yieldlab.net, 15465081, RESELLER
 pubmatic.com, 164562, RESELLER
 
 freewheel.tv, 1578381, RESELLER
@@ -150,16 +149,12 @@ google.com, pub-9829476400767085, DIRECT, f08c47fec0942fa0
 appnexus.com, 8833, DIRECT, f5ab79cb980f11d1
 appnexus.com, 3368, RESELLER
 google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
-indexexchange.com, 191771, RESELLER, 50b1c356f2c5c8fc
 openx.com, 539246483, RESELLER
 pubmatic.com, 158858, RESELLER, 5d62403b186f2ace
 smartstream.tv, 439, RESELLER
 spotx.tv, 139220, RESELLER, 7842df1d2fe2db34
 spotxchange.com, 139220, RESELLER, 7842df1d2fe2db34
 yieldlab.net, 10710236, RESELLER
-yieldlab.net, 2172218, RESELLER
-yieldlab.net, 506261, RESELLER
-yieldlab.net, 6374282, RESELLER
 
 #accompanying-content #Video
 connatix.com, 1428082215386231, DIRECT, 2af98acdee0e81ed
@@ -217,5 +212,34 @@ adswizz.com, rmsi, DIRECT
 adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
+#xymatic
+xymatic.com, f2e91b54-8c7e-43a1-87eb-950233039206, DIRECT
+smartstream.tv, 633, RESELLER
+yieldlab.net, 2172218, RESELLER
+xandr.com, 12279,RESELLER
+telaria.com, 9l6ha-e14kk,RESELLER,1a4e959a1b50034a
+tremorhub.com, 9l6ha-e14kk,RESELLER,1a4e959a1b50034a
+google.com, pub-9006547252383919, RESELLER, f08c47fec0942fa0
+improvedigital.com, 2010, RESELLER
+openx.com, 556411192, RESELLER, 6a698e2ec38604c6
+improvedigital.com, 2083, RESELLER
+yieldlab.net, 15465081, RESELLER
+pubmatic.com,164562, RESELLER
+adform.com, 1210, DIRECT, 9f5210a2f0999e32
+appnexus.com, 3480, DIRECT, f5ab79cb980f11d1
+rubiconproject.com, 9623, DIRECT, 0bfd66d529a55807
+pubmatic.com, 158860, RESELLER, 5d62403b186f2ace
+google.com, pub-8490317736235111, DIRECT, f08c47fec0942fa0
+google.com, pub-4296839430913713, DIRECT, f08c47fec0942fa0
+pubmatic.com, 162700, DIRECT, 5d62403b186f2ace
+groupm.com, 103, RESELLER
+yieldlab.net, 961276, RESELLER
+yieldlab.net, 6374282, RESELLER
+yieldlab.net, 506261, RESELLER
+yieldlab.net, 5798882, RESELLER
+indexexchange.com, 191771, RESELLER, 50b1c356f2c5c8fc
+pubmatic.com, 163251, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4741, RESELLER, 060d053dcf45cbf3
 
-#File generated on 2025-02-06 11:10:54
+
+#File generated on 2025-02-07 14:11:01
