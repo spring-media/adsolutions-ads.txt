@@ -1,3 +1,14 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
+
+subdomain=spiele.bild.de
+subdomain=toralarm.bild.de
+subdomain=sportbild.bild.de
+
+#toralarm
+google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
+
 #Outbrain #Native #Video
 outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
