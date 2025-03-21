@@ -1,3 +1,7 @@
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
+
 # Welt
 spotx.tv, 106817, DIRECT, 7842df1d2fe2db34 #IPD
 
