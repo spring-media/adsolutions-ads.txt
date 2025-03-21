@@ -39,6 +39,10 @@ facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
 
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
+
 # Welt
 spotx.tv, 106817, DIRECT, 7842df1d2fe2db34 #IPD
 
@@ -121,4 +125,4 @@ adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
 
-#File generated on 2025-03-21 13:25:26
+#File generated on 2025-03-21 13:26:52
