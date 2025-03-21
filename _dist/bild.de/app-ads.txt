@@ -39,6 +39,17 @@ facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
 
+ownerdomain=axelspringer.com
+managerdomain=mediaimpact.de
+mediaimpact.de, MI1111, DIRECT
+
+subdomain=spiele.bild.de
+subdomain=toralarm.bild.de
+subdomain=sportbild.bild.de
+
+#toralarm
+google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
+
 #Outbrain #Native #Video
 outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
 openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
@@ -103,4 +114,4 @@ adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
 
-#File generated on 2025-03-20 10:24:47
+#File generated on 2025-03-21 13:25:26
