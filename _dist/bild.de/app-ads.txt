@@ -49,6 +49,7 @@ subdomain=sportbild.bild.de
 
 #toralarm
 google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
+outbrain.com, 003a0f1986047ad229ef4039d55c36909f, DIRECT
 
 #Outbrain #Native #Video
 outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
@@ -114,4 +115,4 @@ adswizz.com, 22, RESELLER
 adswizz.com, 22, DIRECT
 
 
-#File generated on 2025-03-27 13:56:25
+#File generated on 2025-04-10 15:54:14

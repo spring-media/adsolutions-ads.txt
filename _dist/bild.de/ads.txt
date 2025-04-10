@@ -56,6 +56,7 @@ subdomain=sportbild.bild.de
 
 #toralarm
 google.com, pub-7776457540158914, DIRECT, f08c47fec0942fa0
+outbrain.com, 003a0f1986047ad229ef4039d55c36909f, DIRECT
 
 #xymatic #DE #Instream #Fallback
 xymatic.com, f2e91b54-8c7e-43a1-87eb-950233039206, DIRECT
@@ -245,4 +246,4 @@ freewheel.tv, 1578381, RESELLER
 mobkoi.com, CCFEA434, DIRECT
 
 
-#File generated on 2025-03-27 13:56:25
+#File generated on 2025-04-10 15:54:13
