@@ -43,6 +43,12 @@ appnexus.com, 9242, RESELLER # Goldbach Appnexus
 spotxchange.com, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 spotx.tv, 267169, DIRECT, 7842df1d2fe2db34 #RTL AdConnect
 
+#cnx
+stroeer.com, 26488, RESELLER
+xandr.com, 1405, RESELLER
+adform.com, 716, RESELLER
+pubmatic.com, 162369, RESELLER, 5d62403b186f2ace
+
 #END Media Impact
 
 
@@ -127,4 +133,4 @@ sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b #instream video by outbrain
 sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2
 
 
-#File generated on 2025-04-10 15:54:13
+#File generated on 2025-05-22 17:36:32
