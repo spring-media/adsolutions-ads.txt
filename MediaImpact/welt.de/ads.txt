@@ -81,6 +81,13 @@ xandr.com,8904,RESELLER #instream video by outbrain
 yieldlab.net, 495507, DIRECT #instream video by outbrain
 yieldlab.net, 5494672, RESELLER #instream video by outbrain
 yieldlab.net, 6248161, RESELLER #instream video by outbrain
+sharethrough.com, uDlHlVKG, RESELLER, d53b998a7bd4ecd2 #outbrain_video
+media.net, 8CU33YS38, RESELLER #all formats
+goldbach-germany.de, 66702, RESELLER #instream video by outbrain
+improvedigital.com, 2365, RESELLER #instream video by outbrain
+groupm.com, 95, RESELLER #instream video by outbrain
+netpoint-media.de, np-7126, RESELLER #instream video by outbrain
+vi.ai, g-00e42f5ff6f6b5c2f4db80387cd4381a73, DIRECT #instream video by outbrain
 
 #AdBlocker #Native #AdDefend
 outbrain.com, 00940d2b73a9551c4805f15ac1bcd1120b, DIRECT
