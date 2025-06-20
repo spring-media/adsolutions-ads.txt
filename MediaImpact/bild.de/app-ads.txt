@@ -32,7 +32,7 @@ sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2 #outbrain_all formats
 rubiconproject.com,16392,RESELLER #instream video by outbrain
 rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 sharethrough.com, uDlHlVKG, RESELLER, d53b998a7bd4ecd2 #outbrain_video
-Media.net, 8CU33YS38, RESELLER # all formats
+media.net, 8CU33YS38, RESELLER # all formats
 indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
 
