@@ -180,10 +180,8 @@ adform.com, 3157, DIRECT
 rubiconproject.com, 26414, RESELLER, 0bfd66d529a55807
 rubiconproject.com, 26416, RESELLER, 0bfd66d529a55807
 stroeer.com, 25189, DIRECT
-adform.com, 716, RESELLER
 indexexchange.com, 183592, RESELLER
 smartstream.tv, 463, RESELLER
-xandr.com, 1405, RESELLER
 adform.com,3001,RESELLER
 pubmatic.com,163037,RESELLER
 rubiconproject.com,25488,RESELLER
