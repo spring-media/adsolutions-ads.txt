@@ -1,0 +1,20 @@
+#app-ads.txt politico.com, updated on 6/25/2025
+
+
+google.com, pub-8279698647515158, DIRECT, f08c47fec0942fa0 #banner, video, app
+google.com, pub-3259813697379464, DIRECT, f08c47fec0942fa0 #banner, video, app
+indexexchange.com, 187267, DIRECT #banner
+indexexchange.com, 187266, DIRECT #banner
+Media.net, 8CUX3E228, DIRECT #banner
+openx.com, 537147428, DIRECT, 6a698e2ec38604c6 #banner
+openx.com, 539022899, DIRECT, 6a698e2ec38604c6 #banner
+openx.com, 539802671, DIRECT, 6a698e2ec38604c6 #banner, app
+pubmatic.com, 27180, DIRECT, 5d62403b186f2ace #banner
+pubmatic.com, 158321, DIRECT, 5d62403b186f2ace #banner, app
+pubmatic.com, 158806, DIRECT, 5d62403b186f2ace #banner
+rubiconproject.com, 14764, DIRECT, 0bfd66d529a55807 #banner
+rubiconproject.com, 20098, DIRECT #banner, app
+triplelift.com, 2854-EB, DIRECT, 6c33edb13117fd86 #banner, app
+
+#Xandr
+appnexus.com, 7917, DIRECT #banner

@@ -1,0 +1,148 @@
+#Ads.txt politico.com, updated on 7/21/2025
+
+OWNERDOMAIN=politico.com
+
+
+
+#Google
+google.com, pub-8279698647515158, DIRECT, f08c47fec0942fa0 #banner, video, app
+google.com, pub-1835489473992347, RESELLER, f08c47fec0942fa0
+
+#SW
+smilewanted.com, 5164, DIRECT
+rubiconproject.com, 19814, RESELLER, 0bfd66d529a55807
+smartadserver.com, 2491, RESELLER,
+sharethrough.com, TZ1ahFV8, RESELLER, d53b998a7bd4ecd2
+appnexus.com, 10040, RESELLER
+openx.com, 557083110, RESELLER, 6a698e2ec38604c6
+
+#Amazon
+aps.amazon.com, 3875, DIRECT #banner
+
+#Bidstream
+adagio.io, 1421, RESELLER
+amxrtb.com, 105199565, RESELLER
+openx.com, 559680764, RESELLER
+lijit.com, 260380, RESELLER
+rubiconproject.com, 23844, RESELLER
+rubiconproject.com, 19116, RESELLER, 0bfd66d529a55807
+rubiconproject.com, 25206, RESELLER, 0bfd66d529a55807
+video.unrulymedia.com, 467599570, RESELLER
+
+#minutemedia
+minutemedia.com,01h2zba9ss07, DIRECT
+rubiconproject.com, 17598, RESELLER, 0bfd66d529a55807
+yieldmo.com, 2954622693783052507, RESELLER
+appnexus.com, 8381, RESELLER
+openx.com, 540780517, RESELLER, 6a698e2ec38604c6
+
+#Teads
+teads.tv, 11687, DIRECT, 15a9c44f6d26cbe1
+
+#Outbrain
+outbrain.com, 004212d4e187697bc2ce1a454fa06c19d2, DIRECT
+
+#Yieldmo
+yieldmo.com, 2346505231157633893, DIRECT
+contextweb.com, 561118, RESELLER, 89ff185a4c4e857c
+conversantmedia.com, 100270, RESELLER, 03113cd04947736d
+rhythmone.com, 3463482822,RESELLER,a670c89d4a324e47
+video.unrulymedia.com, 3463482822, RESELLER
+
+#TrustX
+trustx.org, 81, DIRECT #banner
+
+#TripleLift
+triplelift.com, 2854-EB, DIRECT, 6c33edb13117fd86
+triplelift.com, 2854, DIRECT, 6c33edb13117fd86
+
+#Criteo
+themediagrid.com, 8NDRYG, DIRECT, 35d5010d7789b49d
+
+#IndexExchange
+indexexchange.com, 187267, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 187266, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 194031, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+
+#Xandr
+appnexus.com, 7917, DIRECT #banner
+
+#Magnite
+rubiconproject.com, 14764, DIRECT, 0bfd66d529a55807 #banner, video
+rubiconproject.com, 20098, DIRECT #banner, video, app
+
+#Pubmatic
+pubmatic.com, 27180, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158321, DIRECT, 5d62403b186f2ace
+pubmatic.com, 158806, DIRECT, 5d62403b186f2ace
+pubmatic.com, 166640, DIRECT, 5d62403b186f2ace
+
+#Media.net
+Media.net, 8CUX3E228, DIRECT
+
+#Infolinks
+infolinks.com, 3377833, direct
+
+#Connatix
+connatix.com, 1769318562212316, DIRECT, 2af98acdee0e81ed
+google.com, pub-1929615694373103, RESELLER, f08c47fec0942fa0
+rubiconproject.com, 19564, RESELLER, 0bfd66d529a55807
+pubmatic.com, 156592, RESELLER, 5d62403b186f2ace
+openx.com, 539496816, RESELLER, 6a698e2ec38604c6
+media.net, 8CUP5F2LD, RESELLER
+gannett.com, 22597229605, RESELLER
+google.com, pub-5717092533913515, RESELLER, f08c47fec0942fa0 #NPMpartners
+indexexchange.com, 190549, RESELLER, 50b1c356f2c5c8fc
+video.unrulymedia.com, 687806135, RESELLER
+yieldmo.com, 3286586829842621292, RESELLER
+supply.colossusssp.com, 332, RESELLER, 6c5b49d96ec1b458
+loopme.com, 11186, RESELLER, 6c8d5f95897a5a3b
+smartadserver.com, 3630, RESELLER
+triplelift.com, 12200, RESELLER, 6c33edb13117fd86
+pubmatic.com, 163106, RESELLER, 5d62403b186f2ace
+didna.io, 494n1p17081a, RESELLER
+google.com, pub-3565385483761681, RESELLER, f08c47fec0942fa0 #diDNA_google
+33across.com, 0015a00002y7TWTAA2, RESELLER, bbea06d9c4d2853c #33Across #hb #tag
+contextweb.com, 561340, RESELLER, 89ff185a4c4e857c
+freewheel.tv, 1064705, RESELLER
+sharethrough.com, KnLYRz1v, RESELLER, d53b998a7bd4ecd2
+sonobi.com, 2b12be22c9, RESELLER, d1a215d9eb5aee9e
+badiversitynetwork.com, 177893, RESELLER
+xandr.com, 11676, RESELLER
+risecodes.com, 60053eeffc482800014c29be, RESELLER
+appnexus.com, 9733, RESELLER
+hcodemedia.com, 557, RESELLER
+google.com, pub-7995104076770938, DIRECT, f08c47fec0942fa0
+google.com, pub-3990748024667386, RESELLER, f08c47fec0942fa0
+Xapads.com, 197340, RESELLER
+adwmg.com, 100820, RESELLER, c9688a22012618e7
+google.com, pub-8622186303703569, RESELLER, f08c47fec0942fa0
+tvp.tv, BC15, RESELLER, 1125b6434104a723
+qortex.ai, 197447, RESELLER
+iqzone.com, IQ233, RESELLER
+conversantmedia.com, 42111, RESELLER, 03113cd04947736d
+resetdigital.co, 210, RESELLER
+smaato.com, 1100055555, RESELLER, 07bcf65f187117b4
+axonix.com, 59108, RESELLER, bc385f2b4a87b721
+EMXDGT.com, 1781, RESELLER, 1e1d41537f7cad7f
+improvedigital.com, 1845, RESELLER
+adform.com, 3124, RESELLER
+
+#Equativ
+smartadserver.com, 4956, DIRECT, 060d053dcf45cbf3
+rubiconproject.com, 16114, RESELLER, 0bfd66d529a55807
+openx.com, 537149888, RESELLER, 6a698e2ec38604c6
+appnexus.com, 3703, RESELLER, f5ab79cb980f11d1
+loopme.com, 5679, RESELLER, 6c8d5f95897a5a3b
+sharethrough.com, OAW69Fon, RESELLER, d53b998a7bd4ecd2
+video.unrulymedia.com, 2564526802, RESELLER
+admanmedia.com, 43, RESELLER
+contextweb.com, 560288, RESELLER, 89ff185a4c4e857c
+adyoulike.com, b4bf4fdd9b0b915f746f6747ff432bde, RESELLER
+smaato.com, 1100044045, RESELLER, 07bcf65f187117b4
+axonix.com, 57264, RESELLER
+
+#OpenX
+openx.com, 539022899, DIRECT, 6a698e2ec38604c6 #banner
+openx.com, 539802671, DIRECT, 6a698e2ec38604c6 #banner, app
