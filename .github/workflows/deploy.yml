@@ -1,0 +1,124 @@
+name: Deploy "master" via AWS SSM
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    types: [ closed ]
+
+permissions:
+  id-token: write
+  contents: write
+
+jobs:
+  deploy:
+    name: Deploy via SSM
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
+    env:
+      ENVIRONMENT: production
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ads.txt deployment
+        run: npm run deploy
+
+      - name: commit dist files
+        if: success()
+        run: |
+          git add -A
+          git commit -m "updated dist files by github action"
+          git push
+
+      - name: sync with beta
+        if: success()
+        run: |
+          git checkout origin/beta --hard
+          git merge master
+          git push
+
+      - name: Upload logs as artifacts
+        uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: deployment-logs
+          path: logs/
+          retention-days: 30
+
+  updateBILD:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    name: update BILD files
+
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
+          role-session-name: GitHubActionSession
+
+      - name: Retrieve GitHub credentials from AWS Secrets Manager
+        id: ghcreds
+        shell: bash
+        run: |
+          SECRET_JSON="$(aws secretsmanager get-secret-value --secret-id "Github" --query 'SecretString' --output text)"
+          if [[ -z "$SECRET_JSON" || "$SECRET_JSON" == "null" ]]; then
+            echo "No SecretString found for Github" >&2
+            exit 1
+          fi
+          GH_USERNAME="$(echo "$SECRET_JSON" | jq -r '[\"tech-adtechnology\"].name')"
+          GH_TOKEN="$(echo "$SECRET_JSON" | jq -r '[\"tech-adtechnology\"].oauth')"
+          if [[ -z "$GH_USERNAME" || -z "$GH_TOKEN" || "$GH_USERNAME" == "null" || "$GH_TOKEN" == "null" ]]; then
+            echo "SecretString must contain 'username' and 'token' fields." >&2
+            exit 1
+          fi
+          {
+            echo "username=$GH_USERNAME"
+            echo "token=$GH_TOKEN"
+          } >> "$GITHUB_OUTPUT"
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: https://github.com/spring-media/red-static-content.git
+          ref: main
+          token: ${{ steps.ghcreds.outputs.token }}
+
+      - name: Fetch source files
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL "https://www.asadcdn.com/pec/bild.de/ads.txt" -o red-static-content/bild/bild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/bild.de/app-ads.txt" -o red-static-content/bild/bild/app-ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/ads.txt" -o red-static-content/bild/sportbild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/app-ads.txt" -o red-static-content/bild/sportbild/app-ads.txt
+
+      - name: Commit & push changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name  "tech-adtechnology"
+          git config user.email "adtechnology@axelspringer.com"
+
+          git add -A
+          git commit -m "updated (app-)ads.txt by adtechs repo hook"
+          # Use token explicitly in the URL to ensure push auth to another repo/org
+          REPO_URL="https://${{ steps.ghcreds.outputs.username }}:${{ steps.ghcreds.outputs.token }}@github.com/spring-media/red-static-content.git"
+          git push "$REPO_URL" "HEAD:main"
