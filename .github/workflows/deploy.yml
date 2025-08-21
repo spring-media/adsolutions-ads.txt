@@ -29,10 +29,6 @@ jobs:
           role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
           role-session-name: GitHubActionSession
 
-      - name: Zip files
-        run: |
-          rm *.zip
-
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
