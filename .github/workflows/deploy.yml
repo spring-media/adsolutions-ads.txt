@@ -104,7 +104,8 @@ jobs:
         id: secret
         uses: aws-actions/aws-secretsmanager-get-secrets@v2
         with:
-          secret-ids: ,Github
+          secret-ids: |
+            ,Github
           parse-json-secrets: true
 
       - name: Checkout target repository
