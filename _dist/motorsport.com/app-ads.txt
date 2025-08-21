@@ -24,6 +24,7 @@ improvedigital.com, 2019, DIRECT
 adform.com, 2858, DIRECT
 
 smartclip.net, 8225, DIRECT #IPD
+smartclip.net, 9359, DIRECT #IPD
 smartclip.net, 11333, RESELLER #smartclip IPA
 google.com, pub-3057818873023700, RESELLER #Goldbach CH
 appnexus.com, 3741, RESELLER # Goldbach Appnexus
@@ -38,3 +39,6 @@ facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
 
 
+
+
+#File generated on Thu, 21 Aug 2025 14:19:23 GMT
