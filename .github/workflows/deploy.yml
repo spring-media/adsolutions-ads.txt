@@ -104,12 +104,13 @@ jobs:
         id: secret
         uses: aws-actions/aws-secretsmanager-get-secrets@v2
         with:
-          secret-ids: GIT, Github
+          secret-ids: ,Github
+          parse-json-secrets: true
 
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: https://${{ steps.secret.outputs.GIT.tech-adtechnology.name }}:${{ steps.secret.outputs.GIT.tech-adtechnology.oauth }}@github.com/spring-media/red-static-content.git
+          repository: https://${{ steps.secret.outputs.GITHUB_TECH-ADTECHNOLOGY_NAME }}:${{ steps.secret.outputs.GITHUB_TECH-ADTECHNOLOGY_OAUTH }}@github.com/spring-media/red-static-content.git
           ref: main
 
       - name: Fetch source files
