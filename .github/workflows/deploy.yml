@@ -3,9 +3,6 @@ name: Deploy "master" via AWS SSM
 on:
   push:
     branches: [ master ]
-  pull_request:
-    branches: [ master ]
-    types: [ closed ]
 
 permissions:
   id-token: write
@@ -15,7 +12,6 @@ jobs:
   deploy:
     name: Deploy via SSM
     runs-on: ubuntu-latest
-    if: github.event.pull_request.merged == true
     env:
       ENVIRONMENT: production
 
