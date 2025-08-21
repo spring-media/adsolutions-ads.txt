@@ -4,6 +4,7 @@
   "description": "GitHub Action for deploying ads.txt files with FTP upload and cache invalidation",
   "main": "deploy.js",
   "scripts": {
+    "build": "node build.js",
     "deploy": "node deploy.js",
     "test": "jest",
     "lint": "eslint deploy.js"
@@ -23,6 +24,6 @@
   "dependencies": {
     "@aws-sdk/client-secrets-manager": "^3.699.0",
     "akamai-edgegrid": "^3.5.4",
-    "ftp": "^0.3.10"
+    "netstorageapi": "^1.1.5"
   }
 }
