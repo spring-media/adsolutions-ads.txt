@@ -68,6 +68,10 @@ jobs:
       - name: commit dist files
         if: success()
         run: |
+          set -euo pipefail
+          git config user.name  "tech-adtechnology"
+          git config user.email "adtechnology@axelspringer.com"
+          
           git add -A
           git commit -m "updated dist files by github action"
           git push
@@ -75,6 +79,10 @@ jobs:
       - name: sync with beta
         if: success()
         run: |
+          set -euo pipefail
+          git config user.name  "tech-adtechnology"
+          git config user.email "adtechnology@axelspringer.com"
+          
           git checkout origin/beta --hard
           git merge master
           git push
