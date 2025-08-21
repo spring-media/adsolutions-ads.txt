@@ -55,4 +55,4 @@ pubmatic.com, 162369, RESELLER, 5d62403b186f2ace
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 
-#File generated on Thu, 21 Aug 2025 15:20:59 GMT
+#File generated on Thu, 21 Aug 2025 15:25:26 GMT
