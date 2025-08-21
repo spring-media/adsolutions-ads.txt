@@ -94,12 +94,12 @@ const deployHook = {
                 });
                 files.forEach(file => {
                     if (!/^\.|^_/.test(file.name)) {
-                        const url = file.parentPath + "/" + file.name;
+                        const url = file.path + "/" + file.name;
                         deployHook.files.push(url);
                     }
                 })
             } else if (!/^\.|^_/.test(item.name)) {
-                const url = item.parentPath + "/" + item.name;
+                const url = item.path + "/" + item.name;
                 deployHook.files.push(url);
             }
         });
