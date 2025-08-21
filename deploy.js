@@ -1,64 +1,13 @@
 const fs = require("fs"),
-    ftp = require("ftp"),
-    cwd = process.cwd(),
     EdgeGrid = require('akamai-edgegrid'),
     SecretsManagerClient = require("@aws-sdk/client-secrets-manager").SecretsManagerClient,
-    GetSecretValueCommand = require("@aws-sdk/client-secrets-manager").GetSecretValueCommand;
+    GetSecretValueCommand = require("@aws-sdk/client-secrets-manager").GetSecretValueCommand,
+    Netstorage = require("netstorageapi");
 
-const repoHook = {
+const deployHook = {
     accounts: {},
     akamaiUrls: [],
-    allFiles: [],
-    marketerArray: [],
-    buildDist: () => {
-        const now = new Date();
-        repoHook.akamaiUrls = [];
-        for (const marketer of repoHook.marketerArray) {
-            const files = [], publishers = [],
-                folder = cwd + "/" + marketer + "/",
-                marketerContents = fs.readdirSync(folder, {
-                    encoding: 'utf8',
-                    withFileTypes: true
-                });
-
-            marketerContents.forEach(item => {
-                if (!item.isDirectory()) {
-                    if (!/^\.|^_|Paul\.txt$/.test(item.name)) {
-                        files.push(item.name.trim());
-                    }
-                } else if (item.name !== "." && item.name !== "..") {
-                    publishers.push(item.name.trim());
-                }
-            });
-
-            for (const file of files) {
-                const pathToFile = folder + file;
-                const marketerContent = fs.readFileSync(pathToFile, 'utf8');
-
-                publishers.forEach(publisher => {
-                    let publisherContent = "";
-                    if (fs.existsSync(folder + "/" + publisher + "/" + file)) {
-                        publisherContent = fs.readFileSync(folder + "/" + publisher + "/" + file);
-                    }
-                    if (!fs.existsSync(cwd + "/_dist/" + publisher)) {
-                        fs.mkdirSync(cwd + "/_dist/" + publisher);
-                    }
-
-                    fs.writeFileSync(cwd + "/_dist/" + publisher + "/" + file, marketerContent +
-                        "\n\n" + publisherContent +
-                        "\n\n" + "#File generated on " + now.toGMTString() + "\n");
-
-                    repoHook.allFiles.push(cwd + "/_dist/" + publisher + "/" + file);
-                    repoHook.akamaiUrls.push(`https://www.asadcdn.com/pec/${publisher}/${file}`);
-                });
-            }
-        }
-    },
-    clearRuntime: () => {
-        repoHook.akamaiUrls = [];
-        repoHook.allFiles = [];
-        repoHook.marketerArray = [];
-    },
+    files: [],
     getSecret: async (name) => {
         const client = new SecretsManagerClient({
             region: "eu-central-1",
@@ -69,20 +18,15 @@ const repoHook = {
         );
     },
     init: async () => {
-        const keys = ["asadcdn", "edgegrid"];
+        const keys = ["asadcdn_api", "edgegrid"];
         for (const key of keys) {
-            repoHook.accounts[key] = JSON.parse((await repoHook.getSecret(key)).SecretString);
+            deployHook.accounts[key] = JSON.parse((await deployHook.getSecret(key)).SecretString);
         }
-        repoHook.clearRuntime();
-        repoHook.scanForMarketers();
-        repoHook.buildDist();
-        repoHook.uploadToCDN();
-        repoHook.invalidateAkamaiCache();
-        repoHook.clearRuntime();
+        deployHook.uploadToCDN();
     },
     invalidateAkamaiCache: () => {
-        if (repoHook.akamaiUrls.length) {
-            const c = repoHook.accounts['edgegrid'];
+        if (deployHook.akamaiUrls.length) {
+            const c = deployHook.accounts['edgegrid'];
             const eg = new EdgeGrid(c['client_token'], c['client_secret'], c['access_token'], c['baseUri']);
             eg.auth({
                 path: "/ccu/v3/delete/url/production",
@@ -92,7 +36,7 @@ const repoHook = {
                     'content-type': 'application/json; charset=utf-8;'
                 },
                 body: {
-                    objects: repoHook.akamaiUrls
+                    objects: deployHook.akamaiUrls
                 }
             }).send(() => {
             });
@@ -104,35 +48,64 @@ const repoHook = {
                     'content-type': 'application/json; charset=utf-8;'
                 },
                 body: {
-                    objects: repoHook.akamaiUrls
+                    objects: deployHook.akamaiUrls
                 }
             }).send(() => {
             });
         }
     },
-    scanForMarketers: () => {
-        const rootEntry = fs.readdirSync(cwd, {
+    process: () => {
+        if (!deployHook.files.length) {
+            deployHook.invalidateAkamaiCache();
+        } else {
+            let file = deployHook.files.shift();
+            const ns = new Netstorage(deployHook.accounts["asadcdn_api"]),
+                pathArray = file.split("/"),
+                filename = pathArray.pop(),
+                dir = pathArray.shift() && pathArray.join("/"),
+                dest = `/${deployHook.accounts["asadcdn_api"]["cpCode"]}/pec/${dir}/${filename}`;
+
+            console.log("----------------------------------");
+            console.log(file, dest);
+
+            ns.upload(file, dest, (error, response, body) => {
+                if (error) { // errors other than http response codes
+                    console.log(`Got error: ${error.message}`)
+                } else {
+                    console.log(body);
+                }
+                deployHook.process();
+            });
+        }
+    },
+    uploadToCDN: () => {
+        deployHook.akamaiUrls = [];
+        deployHook.files = [];
+
+        const distFiles = fs.readdirSync("_dist", {
             encoding: 'utf8',
             withFileTypes: true
         });
-        repoHook.marketerArray = [];
-        rootEntry.forEach(item => {
-            if (item.isDirectory() && !/^\.|^_|^(src|node_modules)$/.test(item.name)) {
-                repoHook.marketerArray.push(item.name);
+        distFiles.forEach(item => {
+            if (item.isDirectory()) {
+                const files = fs.readdirSync("_dist/" + item.name, {
+                    encoding: 'utf8',
+                    withFileTypes: true
+                });
+                files.forEach(file => {
+                    if (!/^\.|^_/.test(file.name)) {
+                        const url = file.parentPath + "/" + file.name;
+                        deployHook.files.push(url);
+                    }
+                })
+            } else if (!/^\.|^_/.test(item.name)) {
+                const url = item.parentPath + "/" + item.name;
+                deployHook.files.push(url);
             }
         });
-    },
-    uploadToCDN: () => {
-        const client = new ftp();
-        client.on('ready', () => {
-            repoHook.allFiles.forEach(file => {
-                client.mkdir(file.path, true, () => {
-                    client.put(cwd + "_dist", "/pec");
-                });
-            });
-        });
-        client.connect(repoHook.accounts['asadcdn']);
+
+        deployHook.process();
     }
 };
 
-repoHook.init().catch();
+deployHook.init().catch();
