@@ -83,7 +83,7 @@ jobs:
           git config user.name  "tech-adtechnology"
           git config user.email "adtechnology@axelspringer.com"
           
-          git checkout origin/beta
+          git checkout beta
           git merge master
           git push
 
