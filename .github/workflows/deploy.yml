@@ -1,0 +1,130 @@
+name: Deploy "master" via AWS SSM
+
+on:
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    types: [ closed ]
+
+permissions:
+  id-token: write
+  contents: write
+
+jobs:
+  deploy:
+    name: Deploy via SSM
+    runs-on: ubuntu-latest
+    if: github.event.pull_request.merged == true
+    env:
+      ENVIRONMENT: production
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
+          role-session-name: GitHubActionSession
+
+      - name: Zip files
+        run: |
+          zip -r ${{ github.event.repository.name }}_${{ github.ref_name }}.zip ./
+
+      - name: Upload artifact to S3 (temporär)
+        run: |
+          aws s3 cp ${{ github.event.repository.name }}_${{ github.ref_name }}.zip s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip
+
+      - name: Trigger deploy command via SSM to adtechs
+        run: |
+          aws ssm send-command \
+            --instance-ids i-0b492105afc5cf848 \
+            --document-name "arn:aws:ssm:eu-central-1::document/AWS-RunShellScript"  \
+            --comment "GitHub Actions Deploy" \
+            --parameters '{
+              "commands": [
+                "aws s3 cp s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip",
+                "unzip -o /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip -d /var/www/projects/_workCopies/${{ github.event.repository.name }}",
+                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy"
+              ]
+            }' \
+            --timeout-seconds 600 \
+            --region eu-central-1
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Run ads.txt deployment
+        run: npm run build
+
+      - name: commit dist files
+        if: success()
+        run: |
+          git add -A
+          git commit -m "updated dist files by github action"
+          git push
+
+      - name: sync with beta
+        if: success()
+        run: |
+          git checkout origin/beta --hard
+          git merge master
+          git push
+
+  updateBILD:
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    name: update BILD files
+
+    steps:
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v4
+        with:
+          aws-region: eu-central-1
+          role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
+          role-session-name: GitHubActionSession
+
+      - name: Retrieve GitHub credentials from AWS Secrets Manager
+        id: secret
+        uses: aws-actions/aws-secretsmanager-get-secrets@v2
+        with:
+          secret-ids: git, Github
+
+      - name: Checkout target repository
+        uses: actions/checkout@v4
+        with:
+          repository: https://${{ steps.secret.outputs.git.tech-adtechnology.name }}:${{ steps.secret.outputs.git.tech-adtechnology.oauth }}@github.com/spring-media/red-static-content.git
+          ref: main
+
+      - name: Fetch source files
+        id: fetch
+        shell: bash
+        run: |
+          set -euo pipefail
+          curl -fL "https://www.asadcdn.com/pec/bild.de/ads.txt" -o red-static-content/bild/bild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/bild.de/app-ads.txt" -o red-static-content/bild/bild/app-ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/ads.txt" -o red-static-content/bild/sportbild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/app-ads.txt" -o red-static-content/bild/sportbild/app-ads.txt
+
+      - name: Commit & push changes
+        shell: bash
+        run: |
+          set -euo pipefail
+          git config user.name  "tech-adtechnology"
+          git config user.email "adtechnology@axelspringer.com"
+
+          git add -A
+          git commit -m "updated (app-)ads.txt by adtechs repo hook"
+          git push

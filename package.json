@@ -1,0 +1,29 @@
+{
+  "name": "adsolutions-ads-txt-deployment",
+  "version": "1.0.0",
+  "description": "GitHub Action for deploying ads.txt files with FTP upload and cache invalidation",
+  "main": "deploy.js",
+  "scripts": {
+    "build": "node build.js",
+    "deploy": "node deploy.js",
+    "test": "jest",
+    "lint": "eslint deploy.js"
+  },
+  "keywords": [
+    "ads.txt",
+    "github-action",
+    "ftp",
+    "akamai",
+    "deployment"
+  ],
+  "author": "AdSolutions",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "dependencies": {
+    "@aws-sdk/client-secrets-manager": "^3.699.0",
+    "akamai-edgegrid": "^3.5.4",
+    "netstorageapi": "^1.1.5"
+  }
+}
