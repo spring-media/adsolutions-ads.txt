@@ -31,27 +31,7 @@ jobs:
 
       - name: Zip files
         run: |
-          zip -r ${{ github.event.repository.name }}_${{ github.ref_name }}.zip ./
-
-      - name: Upload artifact to S3 (temporär)
-        run: |
-          aws s3 cp ${{ github.event.repository.name }}_${{ github.ref_name }}.zip s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip
-
-      - name: Trigger deploy command via SSM to adtechs
-        run: |
-          aws ssm send-command \
-            --instance-ids i-0b492105afc5cf848 \
-            --document-name "arn:aws:ssm:eu-central-1::document/AWS-RunShellScript"  \
-            --comment "GitHub Actions Deploy" \
-            --parameters '{
-              "commands": [
-                "aws s3 cp s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip",
-                "unzip -o /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip -d /var/www/projects/_workCopies/${{ github.event.repository.name }}",
-                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy"
-              ]
-            }' \
-            --timeout-seconds 600 \
-            --region eu-central-1
+          rm *.zip
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
@@ -86,6 +66,30 @@ jobs:
           git checkout beta
           git merge master
           git push
+
+      - name: Zip files
+        run: |
+          zip -r ${{ github.event.repository.name }}_${{ github.ref_name }}.zip ./
+
+      - name: Upload artifact to S3 (temporär)
+        run: |
+          aws s3 cp ${{ github.event.repository.name }}_${{ github.ref_name }}.zip s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip
+
+      - name: Trigger deploy command via SSM to adtechs
+        run: |
+          aws ssm send-command \
+            --instance-ids i-0b492105afc5cf848 \
+            --document-name "arn:aws:ssm:eu-central-1::document/AWS-RunShellScript"  \
+            --comment "GitHub Actions Deploy" \
+            --parameters '{
+              "commands": [
+                "aws s3 cp s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip",
+                "unzip -o /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip -d /var/www/projects/_workCopies/${{ github.event.repository.name }}",
+                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy"
+              ]
+            }' \
+            --timeout-seconds 600 \
+            --region eu-central-1
 
   updateBILD:
     runs-on: ubuntu-latest
