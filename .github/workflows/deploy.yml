@@ -85,7 +85,7 @@ jobs:
 
   updateBILD:
     runs-on: ubuntu-latest
-    if: github.event_name == 'push'
+    needs: deploy
     name: update BILD files
 
     steps:
@@ -100,12 +100,12 @@ jobs:
         id: secret
         uses: aws-actions/aws-secretsmanager-get-secrets@v2
         with:
-          secret-ids: git, Github
+          secret-ids: GIT, Github
 
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: https://${{ steps.secret.outputs.git.tech-adtechnology.name }}:${{ steps.secret.outputs.git.tech-adtechnology.oauth }}@github.com/spring-media/red-static-content.git
+          repository: https://${{ steps.secret.outputs.GIT.tech-adtechnology.name }}:${{ steps.secret.outputs.GIT.tech-adtechnology.oauth }}@github.com/spring-media/red-static-content.git
           ref: main
 
       - name: Fetch source files
