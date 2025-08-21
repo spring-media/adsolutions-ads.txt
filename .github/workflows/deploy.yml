@@ -110,7 +110,7 @@ jobs:
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: https://${{ TECH_ADTECHNOLOGY_NAME }}:${{ TECH_ADTECHNOLOGY_OAUTH }}@github.com/spring-media/red-static-content.git
+          repository: https://$TECH_ADTECHNOLOGY_NAME:$TECH_ADTECHNOLOGY_OAUTH@github.com/spring-media/red-static-content.git
           ref: main
 
       - name: Fetch source files
