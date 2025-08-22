@@ -29,29 +29,6 @@ jobs:
           role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
           role-session-name: GitHubActionSession
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: '18'
-          cache: 'npm'
-
-      - name: Install dependencies
-        run: npm install
-
-      - name: Run ads.txt deployment
-        run: npm run build
-
-      - name: commit dist files
-        if: success()
-        run: |
-          set -euo pipefail
-          git config user.name  "tech-adtechnology"
-          git config user.email "adtechnology@axelspringer.com"
-          
-          git add -A
-          git commit -m "updated dist files by github action"
-          git push
-
       - name: sync with beta
         if: success()
         run: |
