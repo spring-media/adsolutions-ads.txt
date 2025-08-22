@@ -117,7 +117,7 @@ jobs:
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: https://github.com/spring-media/red-static-content.git
+          repository: spring-media/red-static-content
           ref: main
           token: ${{ steps.expose.outputs.token }}
 
