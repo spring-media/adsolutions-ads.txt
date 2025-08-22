@@ -126,10 +126,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          curl -fL "https://www.asadcdn.com/pec/bild.de/ads.txt" -o red-static-content/bild/bild/ads.txt
-          curl -fL "https://www.asadcdn.com/pec/bild.de/app-ads.txt" -o red-static-content/bild/bild/app-ads.txt
-          curl -fL "https://www.asadcdn.com/pec/sportbild.de/ads.txt" -o red-static-content/bild/sportbild/ads.txt
-          curl -fL "https://www.asadcdn.com/pec/sportbild.de/app-ads.txt" -o red-static-content/bild/sportbild/app-ads.txt
+          curl -fL "https://www.asadcdn.com/pec/bild.de/ads.txt" -o ./bild/bild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/bild.de/app-ads.txt" -o ./bild/bild/app-ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/ads.txt" -o ./bild/sportbild/ads.txt
+          curl -fL "https://www.asadcdn.com/pec/sportbild.de/app-ads.txt" -o ./bild/sportbild/app-ads.txt
 
       - name: Commit & push changes
         shell: bash
