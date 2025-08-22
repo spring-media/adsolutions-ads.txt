@@ -88,7 +88,6 @@ jobs:
       - name: Export as output
         id: expose
         run: |
-          echo "name=${TECH_ADTECHNOLOGY_NAME}" >> "$GITHUB_OUTPUT"
           echo "token=${TECH_ADTECHNOLOGY_OAUTH}" >> "$GITHUB_OUTPUT"
 
       - name: Checkout target repository
