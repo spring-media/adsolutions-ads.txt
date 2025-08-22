@@ -101,16 +101,23 @@ jobs:
           role-session-name: GitHubActionSession
 
       - name: Retrieve GitHub credentials from AWS Secrets Manager
+        id: secrets
         uses: aws-actions/aws-secretsmanager-get-secrets@v2
         with:
           secret-ids: |
             ,Github
           parse-json-secrets: true
 
+      - name: Export as output
+        id: expose
+        run: |
+          echo "name=${TECH_ADTECHNOLOGY_NAME}" >> "$GITHUB_OUTPUT"
+          echo "token=${TECH_ADTECHNOLOGY_OAUTH}" >> "$GITHUB_OUTPUT"
+
       - name: Checkout target repository
         uses: actions/checkout@v4
         with:
-          repository: https://${{ vars.TECH_ADTECHNOLOGY_NAME }}:${{ vars.TECH_ADTECHNOLOGY_OAUTH }}@github.com/spring-media/red-static-content.git
+          repository: https://${{ steps.expose.outputs.name }}:${{ steps.expose.outputs.token }}@github.com/spring-media/red-static-content.git
           ref: main
 
       - name: Fetch source files
