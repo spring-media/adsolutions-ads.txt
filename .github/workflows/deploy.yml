@@ -70,6 +70,25 @@ jobs:
     name: update BILD files
 
     steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: src
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '18'
+          cache: 'npm'
+
+      - name: Run ads.txt deployment
+        run: |
+          npm ci
+          npm run build
+          cp _dist /tmp/_dist
+
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
@@ -96,16 +115,17 @@ jobs:
           repository: spring-media/red-static-content
           ref: main
           token: ${{ steps.expose.outputs.token }}
+          path: dest
 
       - name: Fetch source files
         id: fetch
         shell: bash
         run: |
           set -euo pipefail
-          curl -fL "https://www.asadcdn.com/pec/bild.de/ads.txt" -o ./bild/bild/ads.txt
-          curl -fL "https://www.asadcdn.com/pec/bild.de/app-ads.txt" -o ./bild/bild/app-ads.txt
-          curl -fL "https://www.asadcdn.com/pec/sportbild.de/ads.txt" -o ./bild/sportbild/ads.txt
-          curl -fL "https://www.asadcdn.com/pec/sportbild.de/app-ads.txt" -o ./bild/sportbild/app-ads.txt
+          cp -u src/_dist/bild.de/ads.txt -o dest/bild/bild/ads.txt
+          cp -u src/_dist/bild.de/app-ads.txt -o dest/bild/bild/app-ads.txt
+          cp -u src/_dist/sportbild.de/ads.txt -o dest/bild/sportbild/ads.txt
+          cp -u src/_dist/sportbild.de/app-ads.txt -o dest/bild/sportbild/app-ads.txt
 
       - name: Commit & push changes
         shell: bash
