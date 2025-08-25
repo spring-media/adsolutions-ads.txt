@@ -125,7 +125,7 @@ jobs:
           cp -u src/_dist/sportbild.de/app-ads.txt dest/bild/sportbild/app-ads.txt
 
       - name: Commit & push changes
-        working-directory: target
+        working-directory: dest
         shell: bash
         run: |
           set -euo pipefail
