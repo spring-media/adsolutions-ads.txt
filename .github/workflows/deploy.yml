@@ -119,10 +119,10 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          cp -u src/_dist/bild.de/ads.txt -o dest/bild/bild/ads.txt
-          cp -u src/_dist/bild.de/app-ads.txt -o dest/bild/bild/app-ads.txt
-          cp -u src/_dist/sportbild.de/ads.txt -o dest/bild/sportbild/ads.txt
-          cp -u src/_dist/sportbild.de/app-ads.txt -o dest/bild/sportbild/app-ads.txt
+          cp -u src/_dist/bild.de/ads.txt dest/bild/bild/ads.txt
+          cp -u src/_dist/bild.de/app-ads.txt dest/bild/bild/app-ads.txt
+          cp -u src/_dist/sportbild.de/ads.txt dest/bild/sportbild/ads.txt
+          cp -u src/_dist/sportbild.de/app-ads.txt dest/bild/sportbild/app-ads.txt
 
       - name: Commit & push changes
         working-directory: target
