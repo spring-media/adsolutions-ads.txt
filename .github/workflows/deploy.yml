@@ -81,10 +81,10 @@ jobs:
           path: src
 
       - name: Run ads.txt deployment
+        working-directory: src
         run: |
-          npm ci
+          npm i
           npm run build
-          cp _dist /tmp/_dist
 
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
@@ -125,12 +125,17 @@ jobs:
           cp -u src/_dist/sportbild.de/app-ads.txt -o dest/bild/sportbild/app-ads.txt
 
       - name: Commit & push changes
+        working-directory: target
         shell: bash
         run: |
           set -euo pipefail
           git config user.name  "tech-adtechnology"
           git config user.email "adtechnology@axelspringer.com"
 
-          git add -A
-          git commit -m "updated (app-)ads.txt by adtechs repo hook"
-          git push
+          if [ -n "$(git status --porcelain)" ]; then
+            git add -A
+            git commit -m "updated (app-)ads.txt by adtechs repo hook"
+            git push
+          else
+            echo "No changes to commit."
+          fi
