@@ -8,6 +8,8 @@ spotx.tv, 106817, DIRECT, 7842df1d2fe2db34 #IPD
 freewheel.tv, 1578381, RESELLER
 mobkoi.com, CCFEA434, DIRECT
 
+#Gravite
+google.com, pub-4397644604601927, RESELLER, f08c47fec0942fa0
 
 #Outbrain
 outbrain.com, 00aa1ff7126ba78ac5d98ad584c0e06be4, DIRECT
