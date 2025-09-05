@@ -296,7 +296,6 @@ google.com,pub-7759753907778440,RESELLER,f08c47fec0942fa0
 google.com,pub-8572040456674904,RESELLER,f08c47fec0942fa0
 google.com,pub-8685022799332292,DIRECT,f08c47fec0942fa0
 google.com,pub-8813347375005258,RESELLER,f08c47fec0942fa0
-google.com,pub-9829476400767085,RESELLER,f08c47fec0942fa0
 groupm.com,88,RESELLER
 gumgum.com,14539,RESELLER,ffdef49475d318a9
 impactify.io,1753,RESELLER
@@ -463,7 +462,6 @@ pubmatic.com,161557,RESELLER,5d62403b186f2ace
 pubmatic.com,161656,RESELLER,5d62403b186f2ace
 pubmatic.com,161997,RESELLER,5d62403b186f2ace
 pubmatic.com,162018,RESELLER,5d62403b186f2ace
-pubmatic.com,161593,RESELLER,5d62403b186f2ace
 pubmatic.com,162013,DIRECT,5d62403b186f2ace
 pubmatic.com,162439,RESELLER,5d62403b186f2ace
 pubnative.net,1006576,RESELLER
@@ -505,7 +503,6 @@ smaato.com,1100044650,DIRECT,07bcf65f187117b4
 smartadserver.com,1363,RESELLER,060d053dcf45cbf3
 smartadserver.com,1408,RESELLER,060d053dcf45cbf3
 smartadserver.com,2058,RESELLER,060d053dcf45cbf3
-smartadserver.com,2161,RESELLER,060d053dcf45cbf3
 smartadserver.com,2776,RESELLER,060d053dcf45cbf3
 smartadserver.com,2974,RESELLER,060d053dcf45cbf3
 smartadserver.com,3050,RESELLER,060d053dcf45cbf3
@@ -640,7 +637,6 @@ yieldlab.net,5798882,RESELLER
 yieldlab.net,6248161,RESELLER
 yieldlab.net,6332043,RESELLER
 yieldlab.net,6374282,RESELLER
-yieldlab.net,6378054,RESELLER
 yieldlab.net,9716696,RESELLER
 yieldlab.net,9935198,RESELLER
 yieldlab.net,10702603,DIRECT

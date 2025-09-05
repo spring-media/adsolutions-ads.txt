@@ -249,7 +249,6 @@ pubmatic.com,156378,RESELLER,5d62403b186f2ace
 openx.com,539372716,RESELLER,6a698e2ec38604c6
 openx.com,542117415,RESELLER,6a698e2ec38604c6
 onetag.com,436257282a0d460,DIRECT,
-rubiconproject.com,11006,RESELLER,0bfd66d529a55807
 adform.com,1512,RESELLER,
 google.com,pub-4573231550355221,RESELLER,f08c47fec0942fa0
 ad.plus,352349,DIRECT,
@@ -546,7 +545,6 @@ seedtag.com,60804c9df7dfd106000c65f1,DIRECT,
 sovrn.com,397546,DIRECT,fafdf38b16bf6b2b
 lijit.com,397546,DIRECT,fafdf38b16bf6b2b
 onetag.com,75601b04186d260,DIRECT,
-appnexus.com,13099,RESELLER,
 yahoo.com,58905,RESELLER,e1a5b5b6e3255540
 richaudience.com,ns9qrKJLKD,DIRECT,
 adform.com,1942,DIRECT,

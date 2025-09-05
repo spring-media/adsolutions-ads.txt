@@ -104,10 +104,7 @@ Media.net,8CU67A11P,DIRECT
 adingo.jp,25938,RESELLER
 onetag.com,76e667a752b82bc,DIRECT
 onetag.com,76e667a752b82bc-OB,DIRECT
-appnexus.com,13099,RESELLER
 yahoo.com,58905,RESELLER,e1a5b5b6e3255540
-pubmatic.com,161593,RESELLER,5d62403b186f2ace
-rubiconproject.com,11006,RESELLER,0bfd66d529a55807
 smartadserver.com,4111,RESELLER
 smartadserver.com,4194,DIRECT
 indexexchange.com,198535,DIRECT,50b1c356f2c5c8fc
@@ -261,7 +258,6 @@ indexexchange.com,194558,RESELLER
 smartadserver.com,3554,RESELLER
 onetag.com,6b859b96c564fbe,RESELLER
 yahoo.com,58905,RESELLER,e1a5b5b6e3255540
-appnexus.com,13099,RESELLER
 smartadserver.com,4111,RESELLER
 33across.com,0015a00002oUk4aAAC,RESELLER,bbea06d9c4d2853c
 yahoo.com,57289,RESELLER,e1a5b5b6e3255540
@@ -271,8 +267,6 @@ richaudience.com,1BTOoaD22a,RESELLER
 appnexus.com,8233,RESELLER
 pubmatic.com,81564,RESELLER,5d62403b186f2ace
 rubiconproject.com,13510,RESELLER
-pubmatic.com,161593,RESELLER,5d62403b186f2ace
-rubiconproject.com,11006,RESELLER,0bfd66d529a55807
 pubmatic.com,160521,DIRECT,5d62403b186f2ace
 sharethrough.com,TDBjiIPU,DIRECT,d53b998a7bd4ecd2(OB)
 sharethrough.com,0QHRAcBW,DIRECT,d53b998a7bd4ecd2(TAM)
@@ -335,10 +329,7 @@ rubiconproject.com,15278,RESELLER,0bfd66d529a55807
 pubmatic.com,156517,RESELLER,5d62403b186f2ace
 onetag.com, 7a06ee9c2065d30, DIRECT
 onetag.com, 7a06ee9c2065d30-OB, DIRECT
-appnexus.com, 13099, RESELLER
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
-pubmatic.com, 161593, RESELLER, 5d62403b186f2ace
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 pubmatic.com, 160521, DIRECT, 5d62403b186f2ace
 sharethrough.com, TDBjiIPU, DIRECT, d53b998a7bd4ecd2 (OB)
 sharethrough.com, 0QHRAcBW, DIRECT, d53b998a7bd4ecd2 (TAM)
@@ -822,7 +813,6 @@ google.com, pub-8172268348509349, RESELLER, f08c47fec0942fa0
 indexexchange.com, 189872, RESELLER
 google.com, pub-9829476400767085, DIRECT, f08c47fec0942fa0
 appnexus.com, 8833, DIRECT, f5ab79cb980f11d1
-appnexus.com, 8833, RESELLER, f5ab79cb980f11d1
 appnexus.com, 1504, RESELLER, f5ab79cb980f11d1
 freewheel.tv, 228, RESELLER
 smartstream.tv, 6459, RESELLER
@@ -1491,7 +1481,6 @@ adform.com, 1943, DIRECT
 adform.com, 622, DIRECT
 adform.com, 2110, DIRECT
 adform.com, 2112, DIRECT
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 advertising.com, 28246, RESELLER
 onetag.com, 3c3872b2932d82, DIRECT
 appnexus.com, 1785, RESELLER, f5ab79cb980f11d1
@@ -1653,9 +1642,7 @@ criteo.com, B-067378, DIRECT, 9fac4a4a87c2a44f
 pubmatic.com, 161259, RESELLER, 5d62403b186f2ace
 pubmatic.com, 161260, RESELLER, 5d62403b186f2ace
 onetag.com, 5e6c4e63cfd8200-OB, DIRECT
-appnexus.com, 13099, RESELLER
 advertising.com, 28246, RESELLER
-rubiconproject.com, 11006, RESELLER, 0bfd66d529a55807
 yahoo.com, 58905, RESELLER, e1a5b5b6e3255540
 smartadserver.com, 4111, RESELLER
 google.com, pub-9021387890731428, RESELLER, f08c47fec0942fa0
