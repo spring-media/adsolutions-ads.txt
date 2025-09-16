@@ -139,31 +139,3 @@ jobs:
           else
             echo "No changes to commit."
           fi
-
-      - name: Trigger Akamai Fast Purge via SSM
-        run: |
-          aws ssm send-command \
-            --instance-ids i-0b492105afc5cf848 \
-            --document-name "arn:aws:ssm:eu-central-1::document/AWS-RunShellScript" \
-            --comment "Purge ads.txt/app-ads.txt after red-static-content update" \
-            --parameters '{
-              "commands": [
-                "set -euo pipefail",
-                "cd /var/www/projects/_workCopies/red-static-content && git pull --rebase || true",
-
-                "URLS=( \
-                  https://www.bild.de/ads.txt \
-                  https://www.bild.de/app-ads.txt \
-                  https://m.bild.de/ads.txt \
-                  https://m.bild.de/app-ads.txt \
-                  https://sportbild.bild.de/ads.txt \
-                  https://sportbild.bild.de/app-ads.txt \
-                )",
-
-                "akamai purge --network production --cpcode-or-url ${URLS[@]} \
-                  || akamai fastpurge --production invalidate-url ${URLS[@]} \
-                  || true"
-              ]
-            }' \
-            --timeout-seconds 180 \
-            --region eu-central-1
