@@ -58,7 +58,8 @@ jobs:
               "commands": [
                 "aws s3 cp s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip",
                 "unzip -o /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip -d /var/www/projects/_workCopies/${{ github.event.repository.name }}",
-                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy"
+                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy",
+                "rm /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip"
               ]
             }' \
             --timeout-seconds 600 \
