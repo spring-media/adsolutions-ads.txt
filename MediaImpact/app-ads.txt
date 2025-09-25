@@ -37,3 +37,14 @@ facebook.com, 340030725, DIRECT, c3e20eee3f780d68
 facebook.com, 640581217, DIRECT, c3e20eee3f780d68
 facebook.com, com.netbiscuits.bild.android, DIRECT, c3e20eee3f780d68
 facebook.com, de.bild.MeinKlub, DIRECT, c3e20eee3f780d68
+
+#Goldbach
+appnexus.com, 3741, RESELLER, f5ab79cb980f11d1 #gba
+google.com, pub-7756262923332577, RESELLER, f08c47fec0942fa0 #ta
+adform.com, 3175, DIRECT
+pubmatic.com, 163018, DIRECT, 5d62403b186f2ace
+themediagrid.com, DRHLX6, DIRECT, 35d5010d7789b49d
+rubiconproject.com, 22426, DIRECT, 0bfd66d529a55807
+indexexchange.com, 191349, DIRECT
+pubmatic.com, 159884, DIRECT, 5d62403b186f2ace
+smartadserver.com, 4686-OB, RESELLER, 060d053dcf45cbf3
