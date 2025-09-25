@@ -39,13 +39,16 @@ const deployHook = {
                 body: {
                     objects: deployHook.akamaiUrls
                 }
-            }).send((error, response, body) => {
+            });
+
+            eg.send((error, response, body) => {
                 if (error) {
                     console.error(`Error during cache invalidation (Production): ${error.message}`);
                 } else {
                     console.log(`Cache invalidation (Production) successful: ${JSON.stringify(body)}`);
                 }
             });
+
             eg.auth({
                 path: "/ccu/v3/delete/url/staging",
                 method: 'POST',
@@ -56,7 +59,9 @@ const deployHook = {
                 body: {
                     objects: deployHook.akamaiUrls
                 }
-            }).send((error, response, body) => {
+            });
+
+            eg.send((error, response, body) => {
                 if (error) {
                     console.error(`Error during cache invalidation (Staging): ${error.message}`);
                 } else {
@@ -119,14 +124,12 @@ const deployHook = {
                 });
                 files.forEach(file => {
                     if (!/^\.|^_/.test(file.name)) {
-                        // Construct the full path to the file
-                        const url = "_dist/" + item.name + "/" + file.name;
+                        const url = file.path + "/" + file.name;
                         deployHook.files.push(url);
                     }
                 })
             } else if (!/^\.|^_/.test(item.name)) {
-                // Construct the full path to the file
-                const url = "_dist/" + item.name;
+                const url = item.path + "/" + item.name;
                 deployHook.files.push(url);
             }
         });
