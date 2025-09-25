@@ -21,3 +21,6 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+#dist files
+/_dist
