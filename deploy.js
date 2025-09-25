@@ -1,7 +1,6 @@
 const fs = require("fs"),
     EdgeGrid = require('akamai-edgegrid'),
-    SecretsManagerClient = require("@aws-sdk/client-secrets-manager").SecretsManagerClient,
-    GetSecretValueCommand = require("@aws-sdk/client-secrets-manager").GetSecretValueCommand,
+    { SecretsManagerClient, GetSecretValueCommand } = require("@aws-sdk/client-secrets-manager"),
     Netstorage = require("netstorageapi");
 
 const deployHook = {
@@ -12,10 +11,10 @@ const deployHook = {
         const client = new SecretsManagerClient({
             region: "eu-central-1",
         });
-        return client.send(new GetSecretValueCommand({
-                SecretId: name
-            })
-        );
+        const command = new GetSecretValueCommand({
+            SecretId: name
+        });
+        return client.send(command);
     },
     init: async () => {
         const keys = ["asadcdn_api", "edgegrid"];
@@ -26,6 +25,8 @@ const deployHook = {
     },
     invalidateAkamaiCache: () => {
         if (deployHook.akamaiUrls.length) {
+            console.log(`Invalidating cache for ${deployHook.akamaiUrls.length} URLs:`);
+            console.log(deployHook.akamaiUrls);
             const c = deployHook.accounts['edgegrid'];
             const eg = new EdgeGrid(c['client_token'], c['client_secret'], c['access_token'], c['baseUri']);
             eg.auth({
@@ -38,8 +39,16 @@ const deployHook = {
                 body: {
                     objects: deployHook.akamaiUrls
                 }
-            }).send(() => {
             });
+
+            eg.send((error, response, body) => {
+                if (error) {
+                    console.error(`Error during cache invalidation (Production): ${error.message}`);
+                } else {
+                    console.log(`Cache invalidation (Production) successful: ${JSON.stringify(body)}`);
+                }
+            });
+
             eg.auth({
                 path: "/ccu/v3/delete/url/staging",
                 method: 'POST',
@@ -50,7 +59,14 @@ const deployHook = {
                 body: {
                     objects: deployHook.akamaiUrls
                 }
-            }).send(() => {
+            });
+
+            eg.send((error, response, body) => {
+                if (error) {
+                    console.error(`Error during cache invalidation (Staging): ${error.message}`);
+                } else {
+                    console.log(`Cache invalidation (Staging) successful: ${JSON.stringify(body)}`);
+                }
             });
         }
     },
@@ -73,6 +89,20 @@ const deployHook = {
                     console.log(`Got error: ${error.message}`)
                 } else {
                     console.log(body);
+                    
+                    // Convert CDN path to public URL and add it to the akamaiUrls array
+                    // Use the destination path in the CDN to generate the URL
+                    // The dest variable contains the path in format: /{cpCode}/pec/{dir}/{filename}
+                    
+                    // Use the correct CDN domain for public URLs
+                    const cdnDomain = "www.asadcdn.com";
+                    
+                    // Generate URL based on the CDN path structure
+                    // For example: https://www.asadcdn.com/pec/welt.de/ads.txt
+                    const publicUrl = `https://${cdnDomain}/pec/${dir}/${filename}`;
+                    
+                    console.log(`Adding URL for cache invalidation: ${publicUrl}`);
+                    deployHook.akamaiUrls.push(publicUrl);
                 }
                 deployHook.process();
             });
