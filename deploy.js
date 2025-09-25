@@ -28,7 +28,6 @@ const deployHook = {
             console.log(`Invalidating cache for ${deployHook.akamaiUrls.length} URLs:`);
             console.log(deployHook.akamaiUrls);
             const c = deployHook.accounts['edgegrid'];
-            console.log(c);
             const eg = new EdgeGrid(c['client_token'], c['client_secret'], c['access_token'], c['baseUri']);
             eg.auth({
                 path: "/ccu/v3/delete/url/production",
