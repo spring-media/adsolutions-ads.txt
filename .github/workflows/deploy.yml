@@ -124,6 +124,64 @@ jobs:
           cp -u src/_dist/sportbild.de/ads.txt dest/bild/sportbild/ads.txt
           cp -u src/_dist/sportbild.de/app-ads.txt dest/bild/sportbild/app-ads.txt
 
+      - name: Debug file transfer and git detection
+        working-directory: dest
+        shell: bash
+        run: |
+          echo "============ DEBUG INFORMATION ============"
+          
+          echo "1. SOURCE FILES CHECK"
+          echo "Checking if source files exist:"
+          ls -la ../src/_dist/bild.de/ || echo "Source directory bild.de not found!"
+          ls -la ../src/_dist/sportbild.de/ || echo "Source directory sportbild.de not found!"
+          
+          echo "Source file content samples (first 5 lines):"
+          echo "bild.de/ads.txt:"
+          head -n 5 ../src/_dist/bild.de/ads.txt || echo "File not found!"
+          echo "Last 3 lines (should contain timestamp):"
+          tail -n 3 ../src/_dist/bild.de/ads.txt || echo "File not found!"
+          
+          echo "2. DESTINATION DIRECTORIES CHECK"
+          echo "Checking if destination directories exist:"
+          ls -la bild/bild/ || echo "Destination directory bild/bild not found!"
+          ls -la bild/sportbild/ || echo "Destination directory bild/sportbild not found!"
+          
+          echo "3. FILE COPY VERIFICATION"
+          echo "Checking if files were copied (should show content if copy succeeded):"
+          echo "bild/bild/ads.txt:"
+          cat bild/bild/ads.txt 2>/dev/null | tail -n 3 || echo "File not found or empty!"
+          echo "bild/bild/app-ads.txt:"
+          cat bild/bild/app-ads.txt 2>/dev/null | tail -n 3 || echo "File not found or empty!"
+          echo "bild/sportbild/ads.txt:"
+          cat bild/sportbild/ads.txt 2>/dev/null | tail -n 3 || echo "File not found or empty!"
+          echo "bild/sportbild/app-ads.txt:"
+          cat bild/sportbild/app-ads.txt 2>/dev/null | tail -n 3 || echo "File not found or empty!"
+          
+          echo "4. GIT STATUS CHECK"
+          echo "Git status output:"
+          git status
+          
+          echo "Git status --porcelain output (should show modified files):"
+          git status --porcelain
+          
+          echo "5. FILE DIFFERENCE CHECK"
+          echo "Checking if there are differences between source and destination files:"
+          echo "bild.de/ads.txt vs bild/bild/ads.txt:"
+          diff -q ../src/_dist/bild.de/ads.txt bild/bild/ads.txt || echo "Files are different (expected)"
+          
+          echo "6. GIT DIFF CHECK"
+          echo "Git diff output (should show changes):"
+          git diff bild/bild/ads.txt || echo "No git diff detected!"
+          
+          echo "7. TIMESTAMP VERIFICATION"
+          echo "Checking timestamps in files:"
+          echo "Source file timestamp:"
+          grep "File generated on" ../src/_dist/bild.de/ads.txt || echo "No timestamp found in source!"
+          echo "Destination file timestamp:"
+          grep "File generated on" bild/bild/ads.txt || echo "No timestamp found in destination!"
+          
+          echo "============ END DEBUG INFORMATION ============"
+
       - name: Commit & push changes
         working-directory: dest
         shell: bash
