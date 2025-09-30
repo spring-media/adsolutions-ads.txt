@@ -74,19 +74,6 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
 
-      - name: Checkout code
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          token: ${{ secrets.GITHUB_TOKEN }}
-          path: src
-
-      - name: Run ads.txt deployment
-        working-directory: src
-        run: |
-          npm i
-          npm run build
-
       - name: Configure AWS credentials
         uses: aws-actions/configure-aws-credentials@v4
         with:
@@ -115,15 +102,25 @@ jobs:
           token: ${{ steps.expose.outputs.token }}
           path: dest
 
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+          path: src
+
+      - name: Run ads.txt deployment
+        working-directory: src
+        run: |
+          npm i
+          npm run build
+
       - name: Fetch source files
         id: fetch
         shell: bash
         run: |
           set -euo pipefail
-          cat dest/bild/bild/ads.txt
-          cat src/_dist/bild.de/ads.txt
           cp -u src/_dist/bild.de/ads.txt dest/bild/bild/ads.txt
-          cat dest/bild/bild/ads.txt
           cp -u src/_dist/bild.de/app-ads.txt dest/bild/bild/app-ads.txt
           cp -u src/_dist/sportbild.de/ads.txt dest/bild/sportbild/ads.txt
           cp -u src/_dist/sportbild.de/app-ads.txt dest/bild/sportbild/app-ads.txt
