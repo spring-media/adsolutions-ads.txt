@@ -120,6 +120,7 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          cat dest/bild/bild/ads.txt
           cp -u src/_dist/bild.de/ads.txt dest/bild/bild/ads.txt
           cp -u src/_dist/bild.de/app-ads.txt dest/bild/bild/app-ads.txt
           cp -u src/_dist/sportbild.de/ads.txt dest/bild/sportbild/ads.txt
