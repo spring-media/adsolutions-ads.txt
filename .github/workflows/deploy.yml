@@ -23,7 +23,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@v4
+        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a
         with:
           aws-region: eu-central-1
           role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
@@ -58,7 +58,8 @@ jobs:
               "commands": [
                 "aws s3 cp s3://github-deploy-003077251232/${{ github.event.repository.name }}_${{ github.ref_name }}.zip /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip",
                 "unzip -o /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip -d /var/www/projects/_workCopies/${{ github.event.repository.name }}",
-                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy"
+                "cd /var/www/projects/_workCopies/${{ github.event.repository.name }} && npm i && npm run build && npm run deploy",
+                "rm /tmp/${{ github.event.repository.name }}_${{ github.ref_name }}.zip"
               ]
             }' \
             --timeout-seconds 600 \
@@ -119,6 +120,8 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
+          cat src/_dist/bild.de/ads.txt
+          cat _dist/bild.de/ads.txt
           cp -u src/_dist/bild.de/ads.txt dest/bild/bild/ads.txt
           cp -u src/_dist/bild.de/app-ads.txt dest/bild/bild/app-ads.txt
           cp -u src/_dist/sportbild.de/ads.txt dest/bild/sportbild/ads.txt
