@@ -9,7 +9,7 @@ google.com, pub-4710544251521156, DIRECT, f08c47fec0942fa0
 #Native #Outbrain
 outbrain.com, 00ec357db9c6c574051baf9a1f56d204fa, DIRECT
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
-tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand aka &quot;Telaria&quot;
+tremorhub.com, q017o-78mlk, RESELLER, 1a4e959a1b50034a # Premium video demand
 teads.tv, 15429, RESELLER, 15a9c44f6d26cbe1 # Premium video demand
 advertising.com, 26154, RESELLER # Premium video demand
 spotxchange.com, 225721, RESELLER # Premium video demand
@@ -22,7 +22,6 @@ spotxchange.com, 238936, RESELLER, 7842df1d2fe2db34 # Premium Video Demand
 advertising.com, 28038, RESELLER # Premium Video Demand
 rubiconproject.com, 19668, RESELLER, 0bfd66d529a55807
 contextweb.com, 562145, RESELLER, 89ff185a4c4e857c # Premium Video Demand
-indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
 pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video &amp; display demand
 
 lkqd.net, 602, RESELLER, 59c49fa9598a0117 # Premium video demand
@@ -115,11 +114,8 @@ yahoo.com, 59658, RESELLER #instream video by outbrain
 media.net, 8CUIH830U, RESELLER #instream video by outbrain
 triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
 improvedigital.com, 1552, RESELLER #instream video by outbrain
-yieldlab.net, 227224, RESELLER #instream video by outbrain
 yieldlab.net, 5798882, RESELLER #instream video by outbrain
 yieldlab.net, 5494672, RESELLER #instream video by outbrain
-yieldlab.net, 6374282, RESELLER #instream video by outbrain
-yieldlab.net, 495507, DIRECT #instream video by outbrain
 xandr.com, 12279,RESELLER #instream video by outbrain
 smartadserver.com, 1408, RESELLER #instream video by outbrain
 spotxchange.com,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
@@ -127,7 +123,6 @@ spotx.tv,113481,RESELLER,7842df1d2fe2db34 #instream video by outbrain
 openx.com,537148817,RESELLER,6a698e2ec38604c6 #instream video by outbrain
 vi.ai, g-00e42f5ff6f6b5c2f4db80387cd4381a73, DIRECT #instream video by outbrain
 contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
-xandr.com, 7445, RESELLER #instream video by outbrain
 yieldlab.net, 2172218, RESELLER #instream video by outbrain
 rubiconproject.com, 15994, RESELLER, 0bfd66d529a55807 #instream video by outbrain
 xandr.com,8904,RESELLER #instream video by outbrain
