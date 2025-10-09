@@ -1,6 +1,5 @@
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
-mediaimpact.de, MI1111, DIRECT
 
 #display
 google.com,pub-7015354121783489,DIRECT,f08c47fec0942fa0

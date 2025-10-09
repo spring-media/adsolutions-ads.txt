@@ -85,38 +85,9 @@ smartadserver.com, 4741, RESELLER, 060d053dcf45cbf3
 
 #Outbrain
 outbrain.com, 002662ae9a20ad9322732356e803d4e42c, DIRECT
-openx.com, 540393169, RESELLER, 6a698e2ec38604c6 # Premium video demand
-triplelift.com, 11547, RESELLER, 6c33edb13117fd86 #instream video by outbrain
-improvedigital.com, 1552, RESELLER #instream video by outbrain
-yieldlab.net, 495507, DIRECT #instream video by outbrain
-smartadserver.com, 1408, RESELLER #instream video by outbrain
-rubiconproject.com, 15994, RESELLER, 0bfd66d529a55807 #instream video by outbrain
-telaria.com,9l6ha-6m433,RESELLER,1a4e959a1b50034a #instream video by outbrain
-tremorhub.com,9l6ha-6m433,RESELLER,1a4e959a1b50034a #instream video by outbrain
-yieldlab.net, 6248161, RESELLER #instream video by outbrain
-adform.com, 2611, RESELLER #instream video by outbrain
-aps.amazon.com, 3965, RESELLER #instream video by outbrain
-freewheel.tv, 1220559, RESELLER # Premium video demand from Outbrain
-freewheel.tv, 1133073, RESELLER #instream video by outbrain
-sovrn.com, 267974, RESELLER, fafdf38b16bf6b2b #instream video by outbrain
 rubiconproject.com,16392,RESELLER #instream video by outbrain
 media.net, 8CU33YS38, RESELLER # all formats
-indexexchange.com, 190856, RESELLER, 50b1c356f2c5c8fc # Premium Video Demand
-pubmatic.com, 158615, RESELLER, 5d62403b186f2ace # Premium video & display demand
-smartadserver.com, 3820, RESELLER # Premium Video Demand
-video.unrulymedia.com, 367782854, RESELLER # Premium video demand from Outbrain
-indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
-pubmatic.com, 160065, RESELLER, 5d62403b186f2ace # Premium video demand from Outbrain
-improvedigital.com, 1863, RESELLER # Premium video demand from Outbrain
-freewheel.tv, 1220655, RESELLER # Premium video demand from Outbrain
 vi.ai, g-00e42f5ff6f6b5c2f4db80387cd4381a73, DIRECT #instream video by outbrain
-google.com, pub-5617098146054077, RESELLER, f08c47fec0942fa0 #instream video by outbrain
-pubmatic.com, 158055, RESELLER, 5d62403b186f2ace #instream video by outbrain
-xandr.com, 10736, RESELLER #instream video by outbrain
-rubiconproject.com, 21506, RESELLER, 0bfd66d529a55807 #instream video by outbrain
-indexexchange.com, 190500, RESELLER #instream video by outbrain
-smartadserver.com,2776,RESELLER #instream video by outbrain
-openx.com, 540362347, RESELLER, 6a698e2ec38604c6 #instream video by outbrain
 goldbach-germany.de, 66702, RESELLER  #instream video by outbrain
 improvedigital.com, 2365, RESELLER  #instream video by outbrain
 groupm.com, 95, RESELLER  #instream video by outbrain

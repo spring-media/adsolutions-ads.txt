@@ -1,6 +1,5 @@
 ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
-mediaimpact.de, MI1111, DIRECT
 
 ######## Ads.txt 09.12.2021 - Part 1
 districtm.io, 101940, DIRECT, 3fd707be9c4527c3
