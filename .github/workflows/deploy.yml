@@ -92,7 +92,7 @@ jobs:
       - name: Export as output
         id: expose
         run: |
-          echo "token=${TECH_ADTECHNOLOGY_OAUTH}" >> "$GITHUB_OUTPUT"
+          echo "token=${TECH_ADTECHNOLOGY_FGPAT}" >> "$GITHUB_OUTPUT"
 
       - name: Checkout target repository
         uses: actions/checkout@v4
