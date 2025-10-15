@@ -1,6 +1,6 @@
 const fs = require("fs"),
     EdgeGrid = require('akamai-edgegrid'),
-    { SecretsManagerClient, GetSecretValueCommand } = require("@aws-sdk/client-secrets-manager"),
+    {SecretsManagerClient, GetSecretValueCommand} = require("@aws-sdk/client-secrets-manager"),
     Netstorage = require("netstorageapi");
 
 const deployHook = {
@@ -89,18 +89,18 @@ const deployHook = {
                     console.log(`Got error: ${error.message}`)
                 } else {
                     console.log(body);
-                    
+
                     // Convert CDN path to public URL and add it to the akamaiUrls array
                     // Use the destination path in the CDN to generate the URL
                     // The dest variable contains the path in format: /{cpCode}/pec/{dir}/{filename}
-                    
+
                     // Use the correct CDN domain for public URLs
                     const cdnDomain = "www.asadcdn.com";
-                    
+
                     // Generate URL based on the CDN path structure
                     // For example: https://www.asadcdn.com/pec/welt.de/ads.txt
                     const publicUrl = `https://${cdnDomain}/pec/${dir}/${filename}`;
-                    
+
                     console.log(`Adding URL for cache invalidation: ${publicUrl}`);
                     deployHook.akamaiUrls.push(publicUrl);
                 }
@@ -124,12 +124,12 @@ const deployHook = {
                 });
                 files.forEach(file => {
                     if (!/^\.|^_/.test(file.name)) {
-                        const url = file.parentPath + "/" + file.name;
+                        const url = file.path + "/" + file.name;
                         deployHook.files.push(url);
                     }
                 })
             } else if (!/^\.|^_/.test(item.name)) {
-                const url = item.parentPath + "/" + item.name;
+                const url = item.path + "/" + item.name;
                 deployHook.files.push(url);
             }
         });
