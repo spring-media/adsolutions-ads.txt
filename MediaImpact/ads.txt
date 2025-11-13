@@ -1,6 +1,7 @@
 #Media Impact
 
 #banner
+mediaimpact.de, MI1111, DIRECT
 appnexus.com,7823,DIRECT,f5ab79cb980f11d1
 google.com,pub-5786819153313314,DIRECT,f08c47fec0942fa0
 yieldlab.net,453131,DIRECT
@@ -28,6 +29,10 @@ themediagrid.com,HV95CQ,DIRECT,35d5010d7789b49d
 sspx.tech,dspx64,RESELLER
 smartstream.tv, 451, DIRECT
 outbrain.com, 009292b517a5a9925852fc22aff973e415, DIRECT
+
+#mobkoi
+smartadserver.com, 5290, RESELLER, 060d053dcf45cbf3
+mobkoi.com, BDDE61E0, DIRECT
 
 #outstream
 teads.tv,5632,RESELLER,15a9c44f6d26cbe1
@@ -62,8 +67,6 @@ appnexus.com, 8833, RESELLER, f5ab79cb980f11d1
 yieldlab.net, 6378054, RESELLER
 rubiconproject.com,16474, RESELLER, 0bfd66d529a55807
 
-
-mediaimpact.de, MI1111, DIRECT
 yieldlab.net, 2172218, RESELLER
 xandr.com, 12279, RESELLER
 yieldlab.net, 6374282, RESELLER
