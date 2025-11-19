@@ -112,6 +112,9 @@ pubmatic.com, 160065, RESELLER, 5d62403b186f2ace
 appnexus.com, 7597, RESELLER, f5ab79cb980f11d1
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc
 contextweb.com, 562709, RESELLER, 89ff185a4c4e857c
+goldvertise.com, 70689, RESELLER
+pubmatic.com, 166671, RESELLER, 5d62403b186f2ace
+video.unrulymedia.com, 998559956, RESELLER 
 
 #Goldbach
 appnexus.com, 3741, RESELLER, f5ab79cb980f11d1 #gba
