@@ -1,4 +1,5 @@
 const fs = require("fs"),
+    cwd = process.cwd(),
     EdgeGrid = require('akamai-edgegrid'),
     {SecretsManagerClient, GetSecretValueCommand} = require("@aws-sdk/client-secrets-manager"),
     Netstorage = require("netstorageapi");
@@ -7,6 +8,15 @@ const deployHook = {
     accounts: {},
     akamaiUrls: [],
     files: [],
+    cleanUp: () => {
+        fs.rm(cwd, {
+            recursive: true
+        }, (err) => {
+            if (err) {
+                console.log(err);
+            }
+        });
+    },
     getSecret: async (name) => {
         const client = new SecretsManagerClient({
             region: "eu-central-1",
@@ -69,6 +79,8 @@ const deployHook = {
                 }
             });
         }
+
+        deployHook.cleanUp();
     },
     process: () => {
         if (!deployHook.files.length) {
