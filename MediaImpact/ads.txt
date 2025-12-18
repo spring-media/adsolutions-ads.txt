@@ -127,4 +127,8 @@ indexexchange.com, 191349, DIRECT
 pubmatic.com, 159884, DIRECT, 5d62403b186f2ace
 smartadserver.com, 4686-OB, RESELLER, 060d053dcf45cbf3
 
+#pbs
+indexexchange.com, 214775, DIRECT, 50b1c356f2c5c8fc
+indexexchange.com, 214775, RESELLER, 50b1c356f2c5c8fc
+
 #END Media Impact
