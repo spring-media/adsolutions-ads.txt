@@ -24,6 +24,7 @@ outbrain.com, 0033126e809141cfce884ba89024dfb691, DIRECT
 #Native #Outbrain
 smaato.com, 1100048704, RESELLER, 07bcf65f187117b4
 indexexchange.com, 193091, RESELLER, 50b1c356f2c5c8fc # Premium video demand from Outbrain
+media.net, 8CU33YS38, RESELLER
 
 imds.tv, 82423, RESELLER, ae6c32151e71f19d # Premium video demand from Outbrain
 sharethrough.com, c21oBkqP, RESELLER, d53b998a7bd4ecd2
