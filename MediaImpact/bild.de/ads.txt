@@ -2,6 +2,7 @@ ownerdomain=axelspringer.com
 managerdomain=mediaimpact.de
 
 subdomain=spiele.bild.de
+subdomain=app-spiele.bild.de
 subdomain=toralarm.bild.de
 subdomain=sportbild.bild.de
 
