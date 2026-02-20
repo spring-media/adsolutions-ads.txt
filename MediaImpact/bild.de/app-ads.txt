@@ -3,6 +3,7 @@ managerdomain=mediaimpact.de
 mediaimpact.de, MI1111, DIRECT
 
 subdomain=spiele.bild.de
+subdomain=app-spiele.bild.de
 subdomain=toralarm.bild.de
 subdomain=sportbild.bild.de
 
