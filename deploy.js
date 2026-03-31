@@ -136,12 +136,12 @@ const deployHook = {
                 });
                 files.forEach(file => {
                     if (!/^\.|^_/.test(file.name)) {
-                        const url = file.path + "/" + file.name;
+                        const url = "_dist/" + item.name + "/" + file.name;
                         deployHook.files.push(url);
                     }
                 })
             } else if (!/^\.|^_/.test(item.name)) {
-                const url = item.path + "/" + item.name;
+                const url = "_dist/" + item.name;
                 deployHook.files.push(url);
             }
         });

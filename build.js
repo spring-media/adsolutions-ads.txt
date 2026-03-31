@@ -32,7 +32,6 @@ const buildHook = {
                 const pathToFile = folder + file;
                 const marketerContent = fs.readFileSync(pathToFile, 'utf8');
 
-                // Marketer Root-File direkt nach _dist/{marketer}/{file} kopieren
                 if (!fs.existsSync(cwd + "/_dist/" + marketer)) {
                     fs.mkdirSync(cwd + "/_dist/" + marketer);
                 }
