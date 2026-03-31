@@ -8,6 +8,9 @@ permissions:
   id-token: write
   contents: write
 
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
+
 jobs:
   deploy:
     name: Deploy via SSM
@@ -23,7 +26,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Configure AWS credentials
-        uses: aws-actions/configure-aws-credentials@7474bc4690e29a8392af63c5b98e7449536d5c3a
+        uses: aws-actions/configure-aws-credentials@v4
         with:
           aws-region: eu-central-1
           role-to-assume: arn:aws:iam::003077251232:role/GithubDeploy
