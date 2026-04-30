@@ -22,8 +22,11 @@
     "node": ">=18.0.0"
   },
   "dependencies": {
-    "@aws-sdk/client-secrets-manager": "^3.699.0",
-    "akamai-edgegrid": "^3.5.4",
+    "@aws-sdk/client-secrets-manager": "^3.1039.0",
+    "akamai-edgegrid": "^4.0.2",
     "netstorageapi": "https://github.com/renebaudisch/NetStorageKit-Node"
+  },
+  "overrides": {
+    "axios": "^1.13.5"
   }
 }
