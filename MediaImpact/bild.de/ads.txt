@@ -34,7 +34,6 @@ yieldlab.net, 506261, RESELLER
 indexexchange.com, 191771, RESELLER, 50b1c356f2c5c8fc
 
 #play.bild.de #xyamtic
-xymatic.com, 80114aba-bc79-404f-a371-14436f62dd6e, DIRECT
 google.com, pub-7114971906786170, RESELLER, f08c47fec0942fa0
 appnexus.com, 3368, RESELLER
 openx.com, 539246483, RESELLER
